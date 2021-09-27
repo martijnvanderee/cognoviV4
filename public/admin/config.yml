@@ -48,7 +48,7 @@ collections:
         required: true
         display_fields: [onderschrift]
         valueField: "{{slug}}"
-
+        sortable_fields: ['date, 'title', 'commit_author', 'language.en']
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Onderwerp"
         name: "onderwerp"
