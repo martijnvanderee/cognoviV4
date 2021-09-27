@@ -1,10 +1,15 @@
 
 backend:
   name: git-gateway
-  branch: master
+  branch: cmsTesting
 media_folder: /public/img
 public_folder: /img
 publish_mode: editorial_workflow
+local_backend: true
+
+local_backend:
+    url: http://localhost:8082/api/v1
+     allowed_hosts: ['192.168.0.1']
 
 collections:
   - name: auteurs
