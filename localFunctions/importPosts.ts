@@ -161,7 +161,10 @@ export const getPosts = async (amountOfPostFrontPage: number, sortSubject: strin
 
 
 
+
+
   const slugs = await getSubsetPosts(postsSortedBySubject, amountOfPostFrontPage)
+
 
   const test: PostData[] = await getPostsTest1(slugs)
   const test1 = JSON.parse(JSON.stringify(test));
@@ -230,7 +233,6 @@ const getPostsTest1 = async (postNames: string[]) => {
     const headerPath = postMeta.postMeta[slug].headerPhoto
     const photosPath = postMeta.postMeta[slug].photos
     const imagePath = { headerPath, photosPath }
-
 
     const photos = await getSpecificPhoto(imagePath)
     return { ...post, photos, slug: slug.substring(0, slug.length - 3) }
