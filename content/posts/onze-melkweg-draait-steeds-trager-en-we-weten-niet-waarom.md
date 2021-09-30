@@ -26,7 +26,7 @@ Miljarden sterren in de Spinning Bar**
 
 Deze sterren zijn dan ook gevangen door de zwaartekracht van het centrum van de Melkweg, de zogenaamde Spinning Bar. Deze draaiende as van de Melkweg bestaat uit miljarden sterren en triljarden tonnen aan massa. Geen wonder dus dat dit de as is waar omheen de Melkweg draait en de Hercules Stroom ook. 
 
-Met behulp van Gaia zagen de wetenschappers dat er iets bijzonders aan de hand was met deze groep sterren en dat zit ḿ in de chemische vingerafdruk. De sterren van Hercules zijn rijker aan zware elementen, namelijk metalen. En dat is hét bewijs dat zij verder van het centrum van de Melkweg zijn afgereisd. Dat verder reizen kan niet als zij met dezelfde snelheid om de as draaien als de Melkweg zelf. De Spinning Bar moét dus wel langzamer zijn gaan draaien.a
+Met behulp van Gaia zagen de wetenschappers dat er iets bijzonders aan de hand was met deze groep sterren en dat zit ḿ in de chemische vingerafdruk. De sterren van Hercules zijn rijker aan zware elementen, namelijk metalen. En dat is hét bewijs dat zij verder van het centrum van de Melkweg zijn afgereisd. Dat verder reizen kan niet als zij met dezelfde snelheid om de as draaien als de Melkweg zelf. De Spinning Bar moét dus wel langzamer zijn gaan draaien.
 
 **Heelal bestaat voor grootste deel uit donkere materie**
 
