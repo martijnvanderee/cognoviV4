@@ -19,7 +19,7 @@ Jarenlang was de doctrine van incestmijding een aangenomen theorie onder wetensc
 
 Deze theorie ligt nu onder vuur. Incestmijding zou helemaal geen ding zijn in het dierenrijk en wetenschappers uit Zweden menen dat zij dit hard kunnen maken. Ruim 40 jaar deed men meer dan 100 experimentele onderzoeken onder zo’n 80 diersoorten om te zien of dieren inderdaad een voorkeur hebben om te paren met een dier dat geen familie van hun is. Uit al deze onderzoeken bleek hetzelfde: het kan dieren werkelijk geen bal schelen of zij met een broer, zus of neef paren. In sommige gevallen bleken dieren dit zelfs te prefereren!
 
-![Ook wolven vinden een familielid als partner geen probleem.](/img/wolven-intiem-stel.jpg)
+![Foto: Pixabay.com. Ook wolven vinden een familielid als partner geen probleem.](/img/wolven-intiem-stel.jpg)
 
 Om het verhaal nog gekker te maken, bekeken de onderzoekers ook hoe het zat met incestmijding onder mensen. Dit deden zij door middel van foto’s die met computermanipulatie meer of minder werden aangepast aan familiegelijkenissen. Ook mensen hadden op basis van de foto’s geen voorkeur voor partners die minder familiegelijkenissen toonden.
 
