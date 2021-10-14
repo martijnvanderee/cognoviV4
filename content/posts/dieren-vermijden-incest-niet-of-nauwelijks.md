@@ -9,7 +9,8 @@ tags:
   - incestmijding
   - partnerkeuze
   - inteelt
-photo's: []
+photo's:
+  - map-bron-pixabay-com-12019-onderschrift-bosbranden-kunnen-voor-zoveel-rook-zorgen-dat-het-binnen-de-kortste-keren-de-hersenfuncties-aantast-gelukkig-helpt-een-aspirientje-image-img-brand-brandweermannen-lussen-jpg
 ---
 
 
