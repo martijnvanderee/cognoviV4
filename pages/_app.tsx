@@ -58,6 +58,9 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }:any) => {
         <meta name="description" content="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. Over onder andere fossielen,ruimtevaart, de zoektocht naar aliens, sex, psychologie, milieu en geschiedenis.
 " />
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8861487414672205"
+     crossOrigin="anonymous"></script>
+
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap" rel="stylesheet" />
       </Head>
