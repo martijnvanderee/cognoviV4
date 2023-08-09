@@ -3,7 +3,7 @@ templateKey: post.template
 title: Schildpad robot kan door zand
 Subtitle: Amerikaans leger investeert in ontwikkeling zand robot
 date: 2023-07-20T08:11:33.553Z
-headerPhoto: map-image-img-turtle-robot-3-jpg-bron-david-baillot-university-of-california-san-diego-usa-onderschrift-robot-turtle-header
+headerPhoto: map-bron-bron-david-baillot-university-of-california-san-diego-usa-onderschrift-schildpad-robot-kan-door-zand-image-img-turtle-robot-3-jpeg
 onderwerp: tech
 auteur: Monique Siemsen
 tags:
