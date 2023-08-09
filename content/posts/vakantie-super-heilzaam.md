@@ -26,7 +26,7 @@ Dat vakantie nemen, goed voor ons is, zal niemand verbazen. Maar dat het zó goe
 
 Een andere omgeving en andere indrukken, die twee factoren alleen al dragen bij tot gigantische stressvermindering, zo vonden Finse onderzoekers aan de universiteit van Helsinki. Sterker nog, een trip maken was effectiever dan therapie én medicijnen gecombineerd. Het onderzoek richtte zich op mensen die veel werkten en stress beleefden. Zolang ze thuis waren, kon de medische zorg voorlichten en met de vinger zwaaien wat ze wilden: de workaholics konden hun verslaving pas écht uitzetten, als zij uit hun omgeving werden gehaald. 
 
-![Op vakantie ervaren we een andere omgeving, zoals natuurschoon. Dat zorgt voor een andere focus.](/img/vakantie-boek-meisje.jpg "Pixabay.com")
+![Op vakantie ervaren we een andere omgeving, zoals natuurschoon. Dat zorgt voor een andere focus.](/img/vakantie-boek-meisje.jpeg "Pixabay.com")
 
 De afleiding zorgde voor aandacht op andere aspecten van het leven, zoals natuurschoon of juist architectuur. Na de trip bleven de effecten op de serotoninen-niveaus nog een poos zichtbaar en was er de motivatie om anders met werk en hun dagelijks leven om te gaan. 
 
@@ -40,7 +40,7 @@ Bovendien waren er eenvoudige zaken zoals een verandering in etenstijd of het so
 
 Over vakantiekilo’s is al veel geschreven, maar dat is geen standaard element van vakantie. Universiteiten in New York en Pittsburgh toonden zelfs aan dat vaak het tegenovergestelde is. Hoe kan dat? 
 
-![Tijdens de vakantie snack je vaak minder door de afleiding en eet je onbewust gezonder.](/img/vakantie-salade-buffet.jpg "Pixabay.com")
+![Tijdens de vakantie snack je vaak minder door de afleiding en eet je onbewust gezonder.](/img/vakantie-salade-buffet.jpeg "Pixabay.com")
 
 Ten eerste krijgen veel mensen meer lichaamsbeweging op vakantie dan in het dagelijks leven. Zeker als je zittend werk hebt, kom je niet altijd toe aan voldoende beweging. Op vakantie echter, wil je dingen bekijken of ergens heen. Dit leidt tot -ongemerkt- meer wandelen bijvoorbeeld. 
 
@@ -50,7 +50,7 @@ Bovendien gaan mensen vaak juist ook gezonder eten op vakantie. De favoriete sna
 
 We zagen het al even bij de workaholics voorbij komen: de stress vermindert. Simpelweg omdat we weg zijn uit het bestaan, dat de stress oplevert. Of het nu je schoonmoeder, je baas of je rumoerige buren zijn: op vakantie ben je ervan af. Het stresshormoon cortisol, dat jou klaarmaakt voor de strijd, hoeft niet te worden aangemaakt. Dus je cortisol-niveau daalt en je hart pompt rustiger je bloed rond. Er is geen reden voor je hart om als een idioot zuurstof in je bloedbaan te brengen: jij bent lekker een oude kerk of die mooie bergen aan het bewonderen. Daar heb je geen extra vecht- of vluchtreactie voor nodig.
 
-![Het risico van mannen op overlijden aan hart- en vaatziekten, kan wel bijna halveren door regelmatig vakantie te nemen. ](/img/vakantie-strand-gezin.jpg "Pixabay.com")
+![Het risico van mannen op overlijden aan hart- en vaatziekten, kan wel bijna halveren door regelmatig vakantie te nemen. ](/img/vakantie-strand-gezin.jpeg "Pixabay.com")
 
 Sterker nog: bij mannen van middelbare leeftijd vermindert een vakantie van 3 weken of meer het risico op hart-en vaatziekten met 46% procent, zo vonden wetenschappers aan de universiteit van Helsinki. (Het onderzoek volgde meer dan 1200 mannen gedurende een periode van 40 jaar.)
 
