@@ -28,7 +28,7 @@ Volgens de wetenschap niet. We blijken we niet zoveel waarde te hechten aan de g
 
 Om beleving en verwachting te toetsen, deed Enstroem een aantal experimenten met wijn, koffie én muziek. Hij liet testpersonen naar dezelfde muziek op vinyl en op het digitale formaat MP3 luisteren, maar vertelde de helft van hen dat zij naar de andere drager luisterden. Deze deelnemers kregen muziek op MP3 te beluisteren, terwijl ze dachten vinyl te horen en omgekeerd. Het overgrote deel van de deelnemers die dachten naar vinyl te luisteren, gaf aan dat ze de muziek warmer en mooier vonden, ook al luisterden zij in werkelijkheid naar MP3.
 
-![Het is tastbaar, je kunt het verzamelen en je wordt er nostalgisch van: maar een betere geluidsbeleving? Nee, dat geeft vinyl je niet.](/img/lp-2-luisteren-vrouw-collectie.jpg "Pixabay.com")
+![Het is tastbaar, je kunt het verzamelen en je wordt er nostalgisch van: maar een betere geluidsbeleving? Nee, dat geeft vinyl je niet.](/img/lp-2-luisteren-vrouw-collectie.jpeg "Pixabay.com")
 
 Enstroem meent dat het met het genieten van muziek niet veel anders zit dan met andere genotsmiddelen.  “Soortgelijke onderzoeken, maar dan met dure wijn en met koffie, die was gemaakt van organisch geteelde koffiebonen, gaven dezelfde resultaten. De deelnemers die dáchten dat ze organische koffie dronken, waardeerden deze smaak beter. Soms vroegen ze zelfs om een extra kopje. Ook al dronken ze de niet-organische koffie. Ook testpersonen die dachten dat ze peperdure wijn dronken reageerden zo. Prachtige en complexe beschrijvingen volgden, al hadden zij net het goedkoopste product dat we konden verkrijgen, naar binnen geslagen. We slaan onze waarneming dus een stuk objectiever aan, dan deze is. In de praktijk kleurt consensus en verwachting onze beleving meer dan we denken.”
 
@@ -36,7 +36,7 @@ Enstroem meent dat het met het genieten van muziek niet veel anders zit dan met 
 
 Overigens had Endstroem niet voor niets MP3 gekozen om tegenover het geluid van de LP te zetten. “Een CD was toch geen uitdaging geweest. Daarvan is wel bekend dat de kwaliteit bijzonder zuiver is. Het ging me erom de meest verguisde geluidsdrager te kiezen. Als mensen dan nóg dat sterk gecompromitteerde geluid een hogere waardering zouden geven als ze zouden geloven dat het vinyl was, dan pas kun je zeggen dat onze verwachting onze beleving overtreft. Ik vind dat we dat nu wel kunnen zeggen.”
 
-![Experimenten met de verwachting van wijn leverden dezelfde resultaten op als met vinyl. Als je dacht dure wijn te drinken, hemelde je het op. Ook al hadden de wetenschappers het grootste bocht mogelijk ingekocht.](/img/lp-3-wijn-pexels-дарья-шелкович-5010644.jpg "Pexels, Дapbя Weлkobny")
+![Experimenten met de verwachting van wijn leverden dezelfde resultaten op als met vinyl. Als je dacht dure wijn te drinken, hemelde je het op. Ook al hadden de wetenschappers het grootste bocht mogelijk ingekocht.](/img/lp-3-wijn-pexels-дарья-шелкович-5010644.jpeg "Pexels, Дapbя Weлkobny")
 
 Auditief expert dr. Steffen Lepa aan de universiteit van Berlijn gaat nog wat stappen verder. Lepa onderzoekt niet alleen welke dragers we het mooist vinden, maar ook op welke leeftijd en waarom.
 
@@ -48,7 +48,7 @@ De liefde voor vinyl trof hij aan bij alle leeftijdsgroepen, behalve bij ouderen
 
 Voor ouderen is het dus gebruiksgemak, jongere groepen hebben andere motieven. Lepa heeft heel wat redenen gevonden waarom mensen zich naar de platenwinkels reppen, maar het mooie geluid bleek er niet één van te zijn. “Dat kan ook nauwelijks, want vinyl is heel divers in kwaliteit. Opnames, kwaliteit van de apparatuur en drukprocessen hebben allemaal een invloed op de kwaliteit van het geluid. En dan heb ik het nog niet over de populaire tweedehands plaat, met zijn gebruikssporen. Een LP heeft dus wel authenticiteit en dat geeft de gebruiker het gevoel iets unieks in handen te hebben. Een artefact bijna.”
 
-![Een LP is tastbaar, soms decennia oud, heeft unieke gebruikssporen en moet voorzichtig behandeld worden. De LP als artefact.](/img/lp-4-collectie-simon-garfunkel.jpg "Pixabay.com")
+![Een LP is tastbaar, soms decennia oud, heeft unieke gebruikssporen en moet voorzichtig behandeld worden. De LP als artefact.](/img/lp-4-collectie-simon-garfunkel.jpeg "Pixabay.com")
 
 Het idee van een uniek artefact wordt nog eens versterkt doordat de luisteraar er moeite voor moet doen. Het moet uitgezocht en verzameld worden. De juiste apparatuur moet worden aangeschaft en het is ook nog eens niet draagbaar. Je hebt een specifieke plek en tijd nodig. Al deze factoren dragen ertoe bij dat het luisteren naar een LP bijzonder is. Het vergt investeringen in energie, tijd of geld. En als we eenmaal geïnvesteerd hebben, waarderen we hoger. Anders zou de investering nutteloos zijn geweest en dat geeft een onprettig gevoel. Om dat gevoel te vermijden, stellen we dan vaak onze waardering naar boven bij.
 
@@ -64,7 +64,7 @@ Een bepaalde nostalgie is dan ook een belangrijke aantrekkingskracht van vinyl. 
 
 Maar ook emoties en gebeurtenissen die sterk met de pick-up verbonden zijn, zoals verliefdheid en verdriet. Deze tech-nostalgie is niet voorbehouden aan de LP. Lepa ziet het ook terug in de voorliefde voor oude camera’s, fietsen en keukenapparatuur. “Je kunt het vergelijken met heimwee. Maar in plaats van dat je terug wilt naar een bepaalde plek, wil je terug naar een bepaalde tijd. Met vinyl heb je het verleden tastbaar in handen en je spiergeheugen helpt daarbij. Ook al heb je in 30 jaar geen naald meer op de plaat gezet of een stofje ervan af geblazen.” 
 
-![Om vinyl te kunnen beluisteren heb je een speciale plek nodig, tijd, apparatuur en een beetje kennis. Die rituelen laten ons nóg meer genieten van de muziek op LP.](/img/lp-5-meisje-pick-up-pexels-cottonbro-studio-6863081.jpg "Pexels, Cottonbro Studio")
+![Om vinyl te kunnen beluisteren heb je een speciale plek nodig, tijd, apparatuur en een beetje kennis. Die rituelen laten ons nóg meer genieten van de muziek op LP.](/img/lp-5-meisje-pick-up-pexels-cottonbro-studio-6863081.jpeg "Pexels, Cottonbro Studio")
 
 Opvallend is dat vooral jonge mensen en artiesten zich aangetrokken voelen tot de LP. Dat is wat Lepa betreft para-nostalgie, dus gevoelens die lijken op nostalgie. “Het klinkt gek, heimwee hebben naar een huis waar je nooit gewoond hebt. Maar toch is dit de voornaamste emotie bij de jeugd. Jongeren hebben veel informatie voorhanden van hoe het was om jong te zijn in een andere generatie. Ze horen het van hun ouders en het is overal te zien op Netflix en sociale media. Dat willen ze óók beleven.” 
 
@@ -72,7 +72,7 @@ Opvallend is dat vooral jonge mensen en artiesten zich aangetrokken voelen tot d
 
 Sterker nog: één van de meest concrete redenen die jongeren gaven voor hun gebruik van vinyl is dat zij er drempels mee moeten overwinnen: het sparen voor de eigen apparatuur en het vinden van muzikale artefacten. Die dingen geven jongeren het gevoel echt serieus met muziek bezig te zijn in plaats van slechts muziek te consumeren. Voor jongeren is ook belangrijk dat muziek een verbindende factor is in het algemeen. Meer dan met streamen, leveren de drempels van vinyl meer activiteiten en dus een hechtere band op met vrienden. Je doet en deelt echt iets samen. Ook dat is veel minder bij het streamen dat vaak gedachteloos gebeurt.
 
-![Streamen is niet een sociale bezigheid. Maar samen LP's uitzoeken, verzamelen en opzetten: dat is wél een sociale activiteit. Vooral voor jonge mensen.](/img/lp-6-meisjes-pexels-ron-lach-10676969.jpg "Pexels, Ron Lach")
+![Streamen is niet een sociale bezigheid. Maar samen LP's uitzoeken, verzamelen en opzetten: dat is wél een sociale activiteit. Vooral voor jonge mensen.](/img/lp-6-meisjes-pexels-ron-lach-10676969.jpeg "Pexels, Ron Lach")
 
 Een laatste verleiding van de LP zit in het gevoel voor avontuur waaraan, vooral jonge mensen, behoefte hebben. Het gecontroleerd kunnen dwalen en afdwalen. Streamen is voorspelbaar en je weet precies wat je krijgt, Wie platenzaken afstruint, vindt onverwachte muziek die je een hele nieuwe beleving kan geven. Of zoals Lepa het zegt: “Vergelijk het met je GPS. Je verdwaalt niet meer. Maar dat is eigenlijk ook best jammer, toch?” 
 
