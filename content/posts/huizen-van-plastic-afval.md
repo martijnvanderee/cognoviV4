@@ -26,7 +26,7 @@ Zo denken wetenschappers aan de Stanford Universiteit er tenminste over. Maar al
 
 Onzin dus, volgens de wetenschap, dat we juist deze stof gebruiken voor wegwerpartikelen die niet lang hoeven mee te gaan en vanwege de lage productiekosten eindigen in natuur en milieu. Als je ergens kunststof goed voor kan gebruiken, dan is het wel voor zaken die een eeuwtje mee moeten kunnen gaan. Niét voor een maandje bestaansrecht om vervolgens te eindigen in de sloot om de hoek.
 
-![Groot-Brittannië is één van de landen, die is overgestapt op kunststof bankbiljetten. In de EU gebruiken we miljarden biljetten van katoenpapier.](/img/plastic-huis-1-bankbiljetten.jpg "Pixabay.com")
+![Groot-Brittannië is één van de landen, die is overgestapt op kunststof bankbiljetten. In de EU gebruiken we miljarden biljetten van katoenpapier.](/img/plastic-huis-1-bankbiljetten.jpeg "Pixabay.com")
 
 Plastic duurzaam inzetten is niet nieuw. Denk bijvoorbeeld aan bankbiljetten. De Britten en Australiërs maken hun biljetten al jaren van kunststof, maar in Europa maffen we lekker verder. De Europese centrale banken produceren miljarden en miljarden biljetten van ‘hoogwaardig katoenpapier’, zoals zij dat zelf noemen. Misschien hoogwaardig, maar nooit zo slijtvast als kunststof en al helemaal niet zo duurzaam.
 
@@ -34,7 +34,7 @@ Plastic duurzaam inzetten is niet nieuw. Denk bijvoorbeeld aan bankbiljetten. De
 
 De ingenieurs menen dat het hoog tijd wordt om eens te kijken welke producties nu écht lang mee moeten gaan. Voor die voorwerpen is kunststof ideaal, volgens de wetenschappers. Dat de wetenschap er niet eerder mee is gekomen is een raadsel: in veel Europese landen zijn de kunststof kozijnen al decennia lang ingeburgerd en de voorkant van het San Francisco Museum of Modern Art is ook van gerecycled plastic. In Californië maken ze nu trottoirs van kunststof en versterkte polymeren worden nu al wereldwijd gebruikt in de productie van boot-, auto- en vliegtuigonderdelen. Dus waarom niet bouwen met het spul en eindelijk van de afvalberg af zijn?
 
-![We kunnen er onze omgeving mee vervuilen of met honderden miljoenen kilo's tegelijkertijd exporteren. Maar we kunnen er óók huizen van bouwen!](/img/plastic-huis-2-netten-met-afval.jpg "Pixabay.com")
+![We kunnen er onze omgeving mee vervuilen of met honderden miljoenen kilo's tegelijkertijd exporteren. Maar we kunnen er óók huizen van bouwen!](/img/plastic-huis-2-netten-met-afval.jpeg "Pixabay.com")
 
 Eigenlijk houdt maar één ding ons tegen, zeker als het gaat om grootschalige woningbouw. De aanlevering van gerecycled plastic is niet constant. Voor woningbouw zijn gigantische hoeveelheden nodig en dat vergt stroomlijning in de logistiek en in recycling trajecten.  Dat zijn echter management problemen, die te overkomen zijn. Volgens de wetenschappers althans. Als er meer samengewerkt wordt in de verwerking van plastic afval, kunnen de woningen tamelijk snel afgeleverd worden. 
 
