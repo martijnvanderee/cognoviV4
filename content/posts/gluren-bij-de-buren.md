@@ -25,11 +25,7 @@ tags:
 
 Juist omdat ESO 174-1 zo dichtbij ligt, heeft NASA besloten er een leuk projectje van te maken. En niet alleen van dit sterrenstelsel, maar van alle sterrenstelsels die minder ver dan 32 miljoen lichtjaar van ons verwijderd zijn. Operatie Gluren Bij De Buren dus. Dat is belangrijk omdat deze stelsels zich samen met ons sterrenstelsel allemaal in dezelfde ‘hoek’ bevinden van het universum. Van onze buren kunnen we dus veel leren over onze eigen Melkweg en bovendien hebben we er geen ingewikkelde fratsen voor nodig. Af en toe de Hubble erop en klaar is Kees.
 
-
-
-
-
-![Buren aan de andere kant: Hier kijken we naar een draad van bubbel Sh2-308 gelegen in Grote Hond. Sh2-308 is gewikkeld om een immense en heldere ster.](/img/buurman-1-grote-hond.jpg "NASA")
+![Buren aan de andere kant: Hier kijken we naar een draad van bubbel Sh2-308 gelegen in Grote Hond. Sh2-308 is gewikkeld om een immense en heldere ster.](/img/buurman-1-grote-hond.jpeg "NASA")
 
 E﻿SO 174-1 is eigenlijk een eenzame wolk tegen een achtergrond van zeer heldere sterren. De wolk zelf bestaat uit donkere gassen en stoffen, in combinatie met sterren, uiteraard. NASA is met name geïnteresseerd in de basiseigenschappen van de helderste sterren en stelsels. 
 
@@ -37,7 +33,7 @@ E﻿SO 174-1 is eigenlijk een eenzame wolk tegen een achtergrond van zeer helder
 
 Dus komt NASA al snel terecht bij onze naaste buurman.. Dat is het dwergsterrenstelsel Grote Hond. Die is slechts 25.000 lichtjaar verwijderd van de zon en 42.000 lichtjaar van het centrum van de Melkweg. Voor ons, gewone stervelingen, is Grote Hond leuk omdat de sterren zeer helder zijn en goed te zien zijn met een gewone telescoop. (De grote hond hoort bij de jager, oftewel de constellatie Orion.) 
 
-![Deze buurman ken je zeker: Sirius B in Grote Hond. De ster is maar 8,6 lichtjaar van ons verwijderd en daarmee één van de zeer nabijgelegen sterren. Sirius is een witte dwerg. Dat betekent dat het een stervende ster is van kleiner formaat waar geen kernreacties meer plaats vinden.](/img/buurman-2-sirius-b.jpg "NASA")
+![Deze buurman ken je zeker: Sirius B in Grote Hond. De ster is maar 8,6 lichtjaar van ons verwijderd en daarmee één van de zeer nabijgelegen sterren. Sirius is een witte dwerg. Dat betekent dat het een stervende ster is van kleiner formaat waar geen kernreacties meer plaats vinden.](/img/buurman-2-sirius-b.jpeg "NASA")
 
 Grote Hond is lang onontdekt gebleven, omdat het zo dichtbij is en gehuld is in de nevelen van ons eigen stelsel. Grote Hond wordt bovendien binnenkort meerdere kleine honden, want de zwaartekracht van de Melkweg is het stelsel uit elkaar aan het rukken. Het draait om de Melkweg en laat daarbij een grote staart van sterren, gassen en stoffen achter. Die vormen een ring van maar liefst 200.000 lichtjaar lang, genaamd de Monoceros Ring, die wel 3 keer rond de Melkweg gaat als een boa constrictor om een hert!
 
