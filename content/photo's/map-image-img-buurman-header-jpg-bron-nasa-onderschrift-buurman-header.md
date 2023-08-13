@@ -1,5 +1,5 @@
 ---
 onderschrift: buurman header
 bron: NASA
-image: /img/buurman-header.jpg
+image: /img/buurman-header.jpeg
 ---
