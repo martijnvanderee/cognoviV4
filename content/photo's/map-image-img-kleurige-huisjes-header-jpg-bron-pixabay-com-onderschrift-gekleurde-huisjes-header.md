@@ -1,5 +1,5 @@
 ---
 onderschrift: gekleurde huisjes header
 bron: Pixabay.com
-image: /img/kleurige-huisjes-header.jpg
+image: /img/kleurige-huisjes-header.jpeg
 ---
