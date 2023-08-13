@@ -30,7 +30,7 @@ Dat levert echter grote problemen op voor de veiligheid van deze walvissoort. D�
 
 Wetenschappers aan de Norwegian University for Science and Technology, bekeken hoe ze de walvissen konden behoeden en kwamen al snel uit op een detectieapparaat voor schepen dat meldt, waar walvissen te vermijden. Dan moet je echter wel weten, waar de vinvissen zich begeven. En dáár komt glasvezel om de hoek kijken.
 
-![Vinvissen en scheepvaart zitten steeds vaker in elkaar vaar- en zwemwateren. Met desastreuze gevolgen voor de vriendelijke reuzen.](/img/vinvis-2.jpg "Pixabay.com")
+![Vinvissen en scheepvaart zitten steeds vaker in elkaar vaar- en zwemwateren. Met desastreuze gevolgen voor de vriendelijke reuzen.](/img/vinvis-2.jpeg "Pixabay.com")
 
 Het traceren van vinvissen is nog niet zo eenvoudig als het lijkt. De onderzoekers wilden namelijk niet lijfelijk een tracking apparaat aanbrengen. Dat vonden zij te ingrijpend voor de zoogdieren. Zij roeiden daarom met de riemen die zij al hadden en bedachten dat er op de zeebodem kilometers lange glasvezelkabels zijn aangelegd. Zouden zij dáár ogen en oren van kunnen maken?
 
