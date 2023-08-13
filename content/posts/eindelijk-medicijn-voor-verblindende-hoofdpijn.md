@@ -27,7 +27,7 @@ Medicatie was er niet, voldoende onderzoek ook niet. De ziekte trof in 2020 nog 
 
 Maar dat is veranderd. Helaas is de ziekte aan een zorgwekkende opmars bezig. Het aantal diagnoses IIH is de laatste 10 jaar met 340% gestegen. (Juist omdat de ziekte zeldzaam was, werd deze in het verleden abusievelijk vaak mis gediagnoseerd.) Het aantal diagnoses lijkt misschien nog steeds niet veel, maar wetenschappers zien een trend met overgewicht onder vrouwen. Die forse diagnosegroei kan dus zelfs nog verder toenemen, Deels doordat obesitas wereldwijd toeneemt, maar ook omdat de juiste diagnose vaker plaatsvindt.
 
-![Medicatie tegen diabetes blijkt ook effectief in de strijd tegen IIH pijnbestrijding.](/img/iih-medicatie.jpg "Pixabay.com")
+![Medicatie tegen diabetes blijkt ook effectief in de strijd tegen IIH pijnbestrijding.](/img/iih-medicatie.jpeg "Pixabay.com")
 
 De ziekte kan iedereen treffen. Maar vooral jonge vrouwen tussen de 26 en 34 jaar met overgewicht hebben een hoger risico. Onder deze groep worden tegenwoordig 2 op de 10.000 mensen gediagnoseerd met IIH. Het aantal diagnoses varieert sterk per land. Ierland bijvoorbeeld, is koploper met 3 op de 10.000 vrouwen bij wie IIH geconstateerd wordt, waarbij ook hier het aantal diagnoses jaarlijks snel toeneemt.
 
