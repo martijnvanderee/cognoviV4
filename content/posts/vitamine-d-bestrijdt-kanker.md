@@ -26,7 +26,7 @@ Over vitamine D en kanker is veel geschreven. Zo zegt het ene onderzoek dat het 
 
 Om te kijken hoe het nu echt zat boog de German Cancer Research Center, zich nog eens over de meest recente onderzoeken en bekeken zij de testresultaten van vele duizenden. En vond wel degelijk een sterk verband.
 
-![bron: Pexels: Pavel Danilyuk](/img/vitamine-2-2-pexels-pavel-danilyuk-5998499.jpeg "Vitamine D3 blijkt zeer belangrijk in de strijd tegen kanker. Maar dan alleen als het dagelijks wordt ingenomen over een langere periode.")
+![Vitamine D3 blijkt zeer belangrijk in de strijd tegen kanker. Maar dan alleen als het dagelijks wordt ingenomen over een langere periode.](/img/vitamine-2-2-pexels-pavel-danilyuk-5998499.jpeg "Pexels: Pavel Danilyuk")
 
 Het klopt namelijk dat vitamine D niet zo veel doet tegen kanker. Als het niet regelmatig of voor een langere periode wordt ingenomen. Echter: als vitamine D dagelijks en over langere perioden wordt gebruikt, beschermt het wel degelijk tegen kanker. Mensen die dagelijks en jarenlang zorgden voor een goede vitamine D inname, lopen zelfs tot 12% minder kans op overlijden aan kanker, dan mensen die geen of niet frequent vitamine D innemen. Het gaat daarbij wel, en dit is belangrijk, om vitamine D3.
 
