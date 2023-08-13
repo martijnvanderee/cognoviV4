@@ -31,7 +31,7 @@ Volgens een onderzoek naar rust en gedachten van de Vrije Universiteit Amsterdam
 
 Zij hadden rekening gehouden met een verschil in positieve en negatieve gedachten zouden zijn, maar dat bleek niet het geval. De verschillen zaten vooral in wat wetenschappers *Theory of Mind* en *Discontinuity of Mind* noemen. Maar ook prikkels tijdens de rust en het sóórt piekeren, bleken bij beide groepen anders te worden beleefd.  
 
-![Vastzitten in je eigen hoofd en maar blijven malen. Een veel voorkomend probleem, zeker voor mensen met autisme.](/img/autisme-1-gevangen.jpg "Pixabay.com")
+![Vastzitten in je eigen hoofd en maar blijven malen. Een veel voorkomend probleem, zeker voor mensen met autisme.](/img/autisme-1-gevangen.jpeg "Pixabay.com")
 
 Om te beginnen die *Theory of Mind* dus, oftewel ToM. Dat is het vermogen om het gevoelsleven en de emotionele staat van een mens, de mind dus, te herkennen en te begrijpen. Bij ToM gaat het dan niet alleen om de mind van een ander, maar ook die van jezelf. ToM is ook: begrijpen dat gevoelens en intenties van mensen allemaal verschillend zijn.
 
@@ -41,7 +41,7 @@ In een rusttoestand van 5 minuten, met de ogen gesloten, bleken mensen met autis
 
 Interessant daarbij is dat mensen met ASS aangeven, veel minder gevoelens van rust te ervaren tijdens deze rustpauze. En dat kwam doordat ze zich veel meer bewust waren van andere prikkels. Een geluid of een tochtige wind werd niet alleen vaker opgemerkt, maar ook veel meer ervaren als storend voor de gedachten en emoties tijdens de rust.
 
-![Piekeren doen we bijna allemaal. Voor mensen met autisme is het lastig om zich uit gedachten los te trekken.](/img/autisme-2-piekerende-man.jpg "Pixabay.com")
+![Piekeren doen we bijna allemaal. Voor mensen met autisme is het lastig om zich uit gedachten los te trekken.](/img/autisme-2-piekerende-man.jpeg "Pixabay.com")
 
 (Interessant in dit verband is misschien ook het onderzoek naar lichaamstaal en de duiding daarvan door mensen met autisme. Mensen met autisme vinden het lastig meerdere prikkels tegelijkertijd te verwerken en te duiden. Als een persoon rustig spreekt, maar hevige gebaren maakt, levert dit voor mensen met autisme meer verwarring op dan voor anderen. Meer over dit onderzoek, kun je ***[hier](/lichaamstaal-serieuze-wetenschap)*** lezen)
 
@@ -57,7 +57,7 @@ Maar nu we weten hóe het piekeren en de volle geest tot stand komt, weten we da
 
 Hierbij kun je denken aan een zacht, warm dekentje of een warme kruik als het koud is. Of juist een glad, satijnen doekje dat koel aanvoelt en waarmee je lekker over je wang of binnenkant van je armen aait. Een douche, een bad of een koel washandje op het voorhoofd: het kan allemaal heerlijk aanvoelen. Ook de zogenaamde knuffelstenen, dus de glad geslepen mineralen, die overal verkrijgbaar zijn, voelen prettig aan. Maar een knuffelbeest werkt ook.
 
-![Een piekerende jongere met autisme kan veel baat hebben bij de sensorische en rustige troost van een eenvoudige teddybeer.](/img/autisme-4-knuffelbeest.jpg "Pixabay.com")
+![Een piekerende jongere met autisme kan veel baat hebben bij de sensorische en rustige troost van een eenvoudige teddybeer.](/img/autisme-4-knuffelbeest.jpeg "Pixabay.com")
 
 Iets eten of drinken kan ook een sterke sensorische prikkel zijn. Een kopje warme kalmerende kruidenthee of een lekker ijsje als het warm is. Crackers, wortels of iets ongezonder: lollies. Je bent er fysiek mee bezig en het biedt een positieve afleiding. 
 
@@ -71,7 +71,7 @@ Het piekeren kan zo intens zijn, dat het tot piekeren over het piekeren zélf ka
 
 Schrijven is daarbij een prima middel. Wat zit je het meest dwars? En wat daarna? Welk element? Je kunt ook een organigram of diagram maken met pijlen naar je gedachten. Een mindmap in de meest letterlijke zin dus.
 
-![De gedachten opschrijven of ordenen in een mindmap geeft de piekeraar rust en controle.](/img/autisme-5-mindmap.jpg "Pixabay.com")
+![De gedachten opschrijven of ordenen in een mindmap geeft de piekeraar rust en controle.](/img/autisme-5-mindmap.jpeg "Pixabay.com")
 
 Staat er iets op, wat je je kunt opzoeken of kunt vragen aan iemand? Dan kun je het doorstrepen. Je kunt de grammen of schrijfsels bewaren voor latere piekermomenten. ‘Wacht eens even: hier heb ik al eens over gepiekerd! En toen is het ook goed afgelopen!’ 
 
@@ -91,7 +91,7 @@ Als je een toverstaf had, wat zou je dan veranderen? Schrijf het op en kijk er n
 
 Dieren kunnen juist uitstekend bij hun emoties. Dieren gebruiken geen woorden, maar huisdieren als honden of kinderboerderijdieren als geitjes zijn experts in het begrijpen van jouw gevoelens. 
 
-![Even kletsen met de kat. Een weldaad voor de neurotypische én neurodivergente mens.](/img/autisme-6-dier.jpg "Pixabay.com")
+![Even kletsen met de kat. Een weldaad voor de neurotypische én neurodivergente mens.](/img/autisme-6-dier.jpeg "Pixabay.com")
 
 Tegen dieren praten of aaien brengt je daarom al meer in contact met jouw eigen prikkels. Het contact met dieren is ontspannend en troostend, zeker voor mensen met ASS.
 
@@ -103,7 +103,7 @@ De Japanners noemen het ‘boombadderen’. Mensen kunnen voor veel prikkels en 
 
 Wist je dat veel kunstenaars autisme hebben? Als je hoofd vol zit en je komt er met gedachten niet meer uit, pak dan eens een kwast en ga schilderen. Het voordeel is: alles mag! Het hoeft niets voor te stellen en je mag iedere kleur gebruiken die je wilt. Schilderen kan je de vrijheid geven, als je hoofd gevangen aanvoelt.
 
-![Gooi via je handen eruit, wat er in je hoofd zit. Dat lucht op!](/img/autisme-7-schilderen.jpg "Pixabay.com")
+![Gooi via je handen eruit, wat er in je hoofd zit. Dat lucht op!](/img/autisme-7-schilderen.jpeg "Pixabay.com")
 
 Ook andere creatieve bezigheden geven je een gevoel van vrijheid. Wat dacht je van gedichten of verhalen schrijven? Knutselen of klei boetseren? Het kan prettig zijn je handen automatisch te laten overbrengen, wat je hersenen beleven. (En bovendien is vochtige klei of kleurige verf, weer zo’n positieve prikkel als in de eerste tip omschreven.)
 
@@ -115,7 +115,7 @@ Lees een boek of bezoek een museum over het onderwerp van je zorg. Als je meer w
 
 Auditieve prikkels worden sterk beleefd door mensen met autisme. Dat kan ook positief werken en veel mensen met ASS kunnen daarom erg genieten, ontspannen en zelfs beter bij hun gevoel komen met en door muziek. Vind de muziek die bij je past en geniet er van in je eentje. 
 
-![Dansen brengt mensen in het algemeen, maar ook met autisme, dichter bij hun gevoel.](/img/autisme-8-dans.jpg "Pixabay.com")
+![Dansen brengt mensen in het algemeen, maar ook met autisme, dichter bij hun gevoel.](/img/autisme-8-dans.jpeg "Pixabay.com")
 
 Moet je ervan wiebelen en dansen? Geef eraan toe en dans zoals je wilt. Niemand ziet je, dus laat die muziek maar lekker door je heen stromen!
 
@@ -131,7 +131,7 @@ Je denkt aan de komende vakantie en dat je op reis gaat. Je hebt er eigenlijk ge
 
 ‘Ik ga het juist wel leuk vinden! Vorige keer hadden we ook alles bij ons en dat ene dingetje dat we vergaten: dat was helemaal niet erg. Ik kijk er erg naar uit om dat pretpark te bezoeken en in die attractie te gaan!’
 
-![Tackle je eigen gedachten alsof het deze rugbybal is. En formuleer een tegenovergestelde gedachte. Één die je wél prettig vindt.](/img/autisme-9-tackle.jpg "Pixabay.com")
+![Tackle je eigen gedachten alsof het deze rugbybal is. En formuleer een tegenovergestelde gedachte. Één die je wél prettig vindt.](/img/autisme-9-tackle.jpeg "Pixabay.com")
 
 Ga dáár op door en probeer je voor te stellen hoeveel lol je zult hebben in de dansende theekopjes bijvoorbeeld. 
 
@@ -145,7 +145,7 @@ Vooral voor neurodiverse mensen is het fijn hun lichaam in actie te voelen en te
 
 Nog een voordeel: door het vrij bewegen van je lichaam, voelt je geest ook vrijer aan. Je brein is daardoor vrijer een andere gedachte te formuleren en voelt minder gevangen aan.
 
-![Een wandeling is prima voor een onrustige geest. Beweging ontspant het lichaam en de vrijheid van het lichaam, geeft ook de geest vrijheid.](/img/autisme-10-wandeling.jpg "Pixabay.com")
+![Een wandeling is prima voor een onrustige geest. Beweging ontspant het lichaam en de vrijheid van het lichaam, geeft ook de geest vrijheid.](/img/autisme-10-wandeling.jpeg "Pixabay.com")
 
 Dit waren alle adviezen die we konden verzamelen op basis van onderzoek. Elk heeft een bewezen werking, maar ze werken niet allemaal even goed op iedereen. 
 
