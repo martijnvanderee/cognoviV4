@@ -27,7 +27,7 @@ In de Verenigde Staten rennen vrouwen meteen naar de huisarts voor een antibioti
 
 Japanse wetenschappers hebben de afscheiding van vagina’s onderzocht. Zit er verschil tussen de verschillende vaginale afscheidingen? En zo ja, kan daar iets aan gedaan worden? De eerste vraag konden de wetenschappers al snel positief beantwoorden. Vooral vrouwen in de overgang, die vaker blaasontstekingen krijgen dan andere vrouwen, vertonen een heel andere bacteriële samenstelling van hun vaginale afscheiding. Zo bevat hun afscheiding veel minder lactobacillen. In plaats daarvan zitten er bacillen in hun afscheiding, waarvan we inmiddels weten dat deze infecties veroorzaken, zoals e-coli bacteriën.
 
-![Heerlijk yoghurtje, maar niet voor in de vagina. Daar is nóch de vagina, nóch de yoghurt voor bedoeld.](/img/afscheiding-1-yoghurt.jpg "Pixabay.com")
+![Heerlijk yoghurtje, maar niet voor in de vagina. Daar is nóch de vagina, nóch de yoghurt voor bedoeld.](/img/afscheiding-1-yoghurt.jpeg "Pixabay.com")
 
 De wetenschappers vermoeden dus dat de *Lactobacillus* niet alleen infecties tegengaat, maar ook de aanwezigheid van de foute bacteriën, die deze infecties veroorzaken. En dat de aanmaak van de *Lactobacillus* daalt door de menopauze. Dat is belangrijk, want de *Lactobacillus* helpt dus op natuurlijke wijze te beschermen tegen ontstekingen aan de urinewegen. En voorkomen is beter dan genezen.
 
@@ -37,8 +37,6 @@ Die Lactobacillus, die een gezonde vagina kenmerkt, is heel apart bacilletje. Ie
 
 Hebben de yoghurt-smeersters dan toch gelijk? Helaas niet. De ene lactobacil is de andere namelijk niet. De *Lactobacillus*, die de infecties en bacterien als e-coli op afstand houdt in je vagina, is de *Lactobacillus crispatus* en die in yoghurt is vooral de *Lactobacil delbrueckii*. Hij zal het best toeven vinden in de vagina, maar of hij nou echt het gevecht met de foute bacteriën aangaat, is nog maar de vraag. Bovendien zitten in yoghurt ook stoffen die niét zo best zijn voor je vagina, zoals suikers. 
 
-
-
 **Z﻿etpil in plaats van antibioticum**
 
 Rest dan toch slechts de antibiotica? Daar zijn wetenschappers geen fan van. Als het gebruik van antibiotica doorgaat zoals het nu is, zullen in 2050 meer mensen sterven aan de resistentie ervan, dan aan kanker. De wetenschappers pleiten dan ook voor een nieuwe aanpak van urineweginfecties bij vrouwen. 
@@ -46,8 +44,6 @@ Rest dan toch slechts de antibiotica? Daar zijn wetenschappers geen fan van. Als
 De oplossing is simpel en al ruim voorradig in apotheek en drogist: de vaginale zetpil die het probioticum *Lactobacillus crispatus* bevat. Daarmee zouden ook vrouwen van boven de 40 geholpen zijn, omdat hun hormoonhuishouding het meest verandert gedurende de overgang. De overgang heeft namelijk ook tot gevolg dat de vagina minder lactobacillen bevat dan normaal.
 
 Wel belangrijk is dat de zetpil de variant *crispatus* bevat. Tenminste, als je van je blaasontsteking af wilt komen. 
-
-
 
 *Gepubliceerd op 6 juli 2023*
 
