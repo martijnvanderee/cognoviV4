@@ -30,7 +30,7 @@ Het archeologisch team ging aan de slag met opgegraven gebitsresten van oermense
 
 De onderzoekers wilden niet alleen een beeld krijgen van het eetpatroon van oermensen, maar ook hoe hun levensstijl veranderde. En dat deed het. vergeleken met de Neanderthaler had deze prehistorische mensen toch een ander leven. En de wetenschappers denken te weten waarom.
 
-![Prehistorische mensen die bij de Almonda grotten woonden, hadden een heel ander leven dan Neanderthalers. Ze moesten zich aanpassen aan een groeiende bevolking en plaats maken. Ook toen al.](/img/neanderthaler-2.jpg "Pixabay.com")
+![Prehistorische mensen die bij de Almonda grotten woonden, hadden een heel ander leven dan Neanderthalers. Ze moesten zich aanpassen aan een groeiende bevolking en plaats maken. Ook toen al.](/img/neanderthaler-2.jpeg "Pixabay.com")
 
 13.000 jaar geleden was de bevolkingsdichtheid al wat toegenomen. Prehistorische mensen kampten nu niet direct met een gebrek aan levensruimte, maar territoria en jachtgronden werden al kleiner. Zo omvatten hun jachtgronden nog ‘maar’ 300 km2, toch wel een halvering ten opzichte van de Neanderthalers.
 
