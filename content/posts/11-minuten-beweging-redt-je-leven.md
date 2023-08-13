@@ -27,7 +27,7 @@ De universiteit van Cambridge zocht het uit en de uitkomst is geruststellend voo
 
 Uit het onderzoek bleek dat deze elf minuten lichaamsbeweging gevolgen heeft voor meerdere ziekten: de kans op hart- en vaatziekten, nog altijd de grootste oorzaak van overlijden wereldwijd, neemt bijvoorbeeld af met 17%, de kans op kanker gemiddeld met 7%. Sterker nog: zou iedereen deze 11 minuten beweging per dag aanhouden: dan zou 1 op de 10 doden aan kanker en hart- en vaatziekten worden voorkomen. Wereldwijd betekent dit, dat bijna 2 miljoen mensen per jaar gered kunnen worden met deze 11 minuten. 
 
-![Iedere dag 5,5 minuten heen en weer een boodschapje doen op de fiets. Of natuurlijk wandelend. En je hebt een kwart minder kans te overlijden aan kanker of hart- en vaatziekten.](/img/11-minuten-4.jpg "Pixabay.com")
+![Iedere dag 5,5 minuten heen en weer een boodschapje doen op de fiets. Of natuurlijk wandelend. En je hebt een kwart minder kans te overlijden aan kanker of hart- en vaatziekten.](/img/11-minuten-4.jpeg "Pixabay.com")
 
 Wanneer men het aanbevolen dubbele aantal minuten zou bewegen, 150 minuten per week, zou men nóg betere resultaten boeken. Opvallend is, dat als we meer bewegen dan die 150 minuten, de positieve effecten steeds minder toenamen. Dat echter al bij 75 minuten matig intensieve lichaamsbeweging, zulke grote verbeteringen plaatsvinden, was voor de onderzoekers zelf ook een verrassing.
 
@@ -35,7 +35,7 @@ Wanneer men het aanbevolen dubbele aantal minuten zou bewegen, 150 minuten per w
 
 We horen je denken: wat is dan matig intensieve lichaamsbeweging? Gelukkig hoort hier al de meest genoten lichaamsbeweging onder: wandelen. Ook fietsen, dansen of een rustig potje tennis valt onder deze categorie. Elf minuten meespelen met de (klein)kinderen is zelfs al voldoende.
 
-![Ook spelen met de kinderen of kleinkinderen telt mee als die levensreddende 11 minuten beweging per dag.](/img/11-minuten-2.jpg "Pixabay.com")
+![Ook spelen met de kinderen of kleinkinderen telt mee als die levensreddende 11 minuten beweging per dag.](/img/11-minuten-2.jpeg "Pixabay.com")
 
 Overigens, het gaat hier over het gemiddeld aantal minuten per dag. Uit ander Brits onderzoek, gedaan aan de hand van de aanbevolen 150 minuten lichaamsbeweging per week, bleek dat men die met een gerust, en daarmee gezonder, hart kan uitsmeren over de verschillende dagen van de week. Wanneer je in één of twee dagen die 2,5 uur zou bewegen, is het risico op hart-en vaatziekten even groot (of klein!) als wanneer je het zou verspreiden over de gehele week. Daarmee kan het advies van de Britse gezondheidsdienst NHS over gelijkmatige spreiding, de prullenbak in.
 
