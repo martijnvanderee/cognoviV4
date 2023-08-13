@@ -1,5 +1,5 @@
 ---
 onderschrift: Neanderthaler header
 bron: Pixabay.com
-image: /img/neaderthaler-header.jpg
+image: /img/neaderthaler-header.jpeg
 ---
