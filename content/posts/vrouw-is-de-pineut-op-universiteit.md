@@ -118,7 +118,7 @@ Hoe zit het met de politieke en bestuurlijke bereidheid om nu echt eens maatrege
 >
 > Omdat de LNVH nog steeds klachten ontvangt, willen VNU en KNAW (Koninklijke Nederlandse Akademie van Wetenschappen) verder kijken naar een landelijke klokkenluidersregeling en gedragscode. Volgens Duisenberg is te veel vrouwelijk talent onbenut. “Om een betere doorstroom van vrouwen te bevorderen richten universiteiten zich op een betere scouting en aanpassing van benoemingsprocedures.” 
 
-##### *Naschrift:*  
+##### *Naschrift:* 
 
 ##### *Gezien de aard van dit artikel, willen we je de volgende informatie meegeven: foto’s vinden van vrouwelijke wetenschappers, bleek niet eenvoudig. De beeldbanken zaten vol met materiaal van serieuze mannelijke wetenschappers. We vonden wel afbeeldingen van vrouwen in een academische omgeving, maar die lagen dan in sexy minirokje over een leerstoel. Of lachten dik opgemaakt over hun boek naar de camera. We hebben een collage samengesteld met enkele opmerkelijke beelden, die we blijkbaar hebben bij de zoektermen ‘wetenschap’ of ‘universiteit’ + ‘vrouw’.* 
 
@@ -134,7 +134,7 @@ Hoe zit het met de politieke en bestuurlijke bereidheid om nu echt eens maatrege
 
 ![](/img/seksisme-fout-4.jpg "Pixabay.com")
 
-![](/img/seksisme-fout-1.jpg)
+![](/img/seksisme-fout-1.jpg "Pixabay.com")
 
 ![](/img/seksisme-fout-2.jpg "Pixabay.com")
 
