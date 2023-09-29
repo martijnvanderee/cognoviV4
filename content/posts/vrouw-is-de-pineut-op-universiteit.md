@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Vrouw is de pineut op universiteit
+title: Vrouw de pineut op universiteit
 Subtitle: Véél onderzoek bewijst wetenschappelijk seksisme
 date: 2023-09-29T13:29:44.998Z
 headerPhoto: map-bron-pixabay-com-image-img-seksisme-vrouw-header-jpg-onderschrift-seksisme-vrouw-header
@@ -43,19 +43,13 @@ Vrouwen in alle lagen van de teams én in alle vakgebieden, kregen minder vermel
 
 ![Wél onderzoek doen, geen vermelding krijgen en niet geciteerd worden. Het overkomt vrouwelijke wetenschappers veelvuldig.](/img/seksisme-erlemeyer-wetenschapster.jpg "Pixabay.com")
 
-
-
 Mannen overkwam het ook wel, dat zij niet genoemd werden. Maar veel minder vaak en voornamelijk als zij jong waren en hun carrière net begonnen. Zo kregen 15% van de pas afgestudeerde vrouwelijke onderzoekers vermelding, tegen 21% van de mannen. Een verschil van maar 6% tussen de genders van jonge wetenschappers. Maar naarmate de wetenschappers ouder worden en de carrières vorderen,  loopt dat verschil op tot maar liefst 59%.
-
-
 
 **Vrouwen die voor zichzelf opkomen, krijgen het zwaar**
 
 Britta Glennon zat in het team dat dit onderzoek deed en zij is gespecialiseerd in management-wetenschappen. Ze vindt de cijfers behoorlijk robuust. “Maar cijfers alleen zijn niet genoeg, dus we hebben ook 2400 wetenschappers gevraagd naar hun beleving. De verhalen staafden de cijfers en lichtten ook toe, hoe de verschillen plaatsvonden." 
 
 Glennon wil duidelijk maken dat het niet aan een bescheiden houding van vrouwen ligt. “Vrouwelijke wetenschappers gaven aan wel degelijk bezwaar te maken als zij geen vermelding kregen. In het gunstigste geval hielp dit niets. In het ongunstigste geval, konden ze rekenen op intimidatie en sociale buitensluiting van het onderzoeksteam.” Glennon pleit dan ook voor een universeel stelsel van regels dat voorschrijft wie in welke gevallen vermeld wordt op patenten en in publicaties. 
-
-
 
 **Mannelijke wetenschapper erkent vooral mannelijke collega**
 
@@ -106,15 +100,11 @@ Ook de manier waarop wetenschappelijk werk gewaardeerd wordt, is langzamerhand a
 
 En dan is daar de demografie. De komende jaren zal er een forse uitstroom plaatsvinden van voornamelijk mannelijke hoogleraren, die met emeritaat gaan. Dat is de academische term voor pensioen. Voor zo'n 90% van die vacatures staat een capabele vrouwelijke vervanger klaar, schat het LNVH. Toch gaat dat niet automatisch gebeuren, denkt Tromp.
 
-
-
 “Het argument ‘we hebben wel gezocht, maar ze zijn er niet’ gaat dan niet meer op. We weten echter dat deze benoemingen niet vanzelf gaan. Het zou dan ook goed zijn als er extra op wordt gestuurd. We zien in de praktijk nog altijd dat in de reguliere benoemingsprocedures, vrouwen veel vaker aan het kortste eind trekken. We hebben het geluk dat de huidige minister van OCW, het bevorderen van de positie van vrouwen hoog in het vaandel heeft staan. Het zou goed zijn als er vanuit de instellingen, het ministerie en de politiek, concretere ondersteuning komt om te zorgen, dat we binnen afzienbare tijd die lang gewenste evenredigheid bereiken.”
 
 **Steun vanuit de politiek en academische wereld?** 
 
 Hoe zit het met de politieke en bestuurlijke bereidheid om nu echt eens maatregelen te nemen en wat te gaan doen aan de positie van vrouwen op de universiteit en hun veiligheid? Ter afsluiting van dit artikel voegen we de reacties toe van zowel het ministerie van Onderwijs, Cultuur en Wetenschap als de Vereniging Nederlandse Universiteiten, die wij om een reactie vroegen.
-
-
 
 > ##### ***Minister Robbert Dijkgraaf***
 >
@@ -122,46 +112,33 @@ Hoe zit het met de politieke en bestuurlijke bereidheid om nu echt eens maatrege
 >
 > Dijkgraaf vindt het van groot belang om de wetenschap in balans te krijgen. “Vanuit het ministerie werken we aan het verbeteren van de vertegenwoordiging van vrouwen en het veranderen van de onderzoekscultuur. Onder andere via het nationale actieplan voor meer diversiteit en inclusie in onderwijs en onderzoek, maar ook met middelen voor het vergroten van sociale veiligheid in het hoger onderwijs en de wetenschap. Daarnaast is het zo, dat bij alle investeringen vanuit het kabinet in de wetenschap, zoals bij de sectorplannen, we nadrukkelijk aandacht hebben voor het verbeteren van gendergelijkheid.”
 >
-> ##### **\
-> *Vereniging Universiteiten van Nederland***
+> ##### ***Vereniging Universiteiten van Nederland***
 >
 > Pieter Duisenberg noemt de verhalen 'aangrijpend'. Hij benadrukt de betrokkenheid van bovenaf van de universiteiten. Ongewenst gedrag is nu vastgelegd in de cao en iedere universiteit heeft een gedragscode ontwikkeld, een ombudsfunctionaris en vertrouwenspersonen aangesteld. Workshops en trainingen moeten de bewustwording vergroten.
 >
 > Omdat de LNVH nog steeds klachten ontvangt, willen VNU en KNAW (Koninklijke Nederlandse Akademie van Wetenschappen) verder kijken naar een landelijke klokkenluidersregeling en gedragscode. Volgens Duisenberg is te veel vrouwelijk talent onbenut. “Om een betere doorstroom van vrouwen te bevorderen richten universiteiten zich op een betere scouting en aanpassing van benoemingsprocedures.” 
 
+##### *Naschrift:*  
 
+##### *Gezien de aard van dit artikel, willen we je de volgende informatie meegeven: foto’s vinden van vrouwelijke wetenschappers, bleek niet eenvoudig. De beeldbanken zaten vol met materiaal van serieuze mannelijke wetenschappers. We vonden wel afbeeldingen van vrouwen in een academische omgeving, maar die lagen dan in sexy minirokje over een leerstoel. Of lachten dik opgemaakt over hun boek naar de camera. We hebben een collage samengesteld met enkele opmerkelijke beelden, die we blijkbaar hebben bij de zoektermen ‘wetenschap’ of ‘universiteit’ + ‘vrouw’.* 
 
-###### Naschrift:  Gezien de aard van dit artikel, willen we je de volgende informatie meegeven: foto’s vinden van vrouwelijke wetenschappers, bleek niet eenvoudig. De beeldbanken zaten vol met materiaal van serieuze mannelijke wetenschappers. We vonden wel afbeeldingen van vrouwen in een academische omgeving, maar die lagen dan in sexy minirokje over een leerstoel. Of lachten dik opgemaakt over hun boek naar de camera. We hebben een collage samengesteld met enkele opmerkelijke beelden, die we blijkbaar hebben bij de zoektermen ‘wetenschap’ of ‘universiteit’ + ‘vrouw’. 
-
-###### We tekenen hierbij aan, dat onderstaande foto’s helaas de regel en niet de uitzondering bleken. En dat het veelvoud aan dit soort foto’s met zeer expliciete  seksuele lading, we uiteraard buiten beschouwing hebben gelaten. Ook is het van belang dat we dergelijke foto’s niet hebben gevonden met mannelijke gefotografeerden.
+##### *We tekenen hierbij aan, dat onderstaande foto’s helaas de regel en niet de uitzondering bleken. En dat het veelvoud aan dit soort foto’s met zeer expliciete  seksuele lading, we uiteraard buiten beschouwing hebben gelaten. Ook is het van belang dat we dergelijke foto’s niet hebben gevonden met mannelijke gefotografeerden.*
 
 ![](/img/seksime-fout-3.jpg "Pixabay.com")
 
 ![](/img/seksisme-fout-8.jpg "Pixaby.com")
 
-
-
 ![](/img/seksisme-fout-5.jpg "Pixabay.com")
 
 ![](/img/seksisme-fout-7.jpg "Pixabay.com")
 
-
-
-
-
 ![](/img/seksisme-fout-4.jpg "Pixabay.com")
 
-
-
 ![](/img/seksisme-fout-1.jpg)
-
-
 
 ![](/img/seksisme-fout-2.jpg "Pixabay.com")
 
 ![](/img/seksisme-fout-9.jpg "Pixabay.com")
-
-
 
 *Gepubliceerd op 29 september 2023*
 
