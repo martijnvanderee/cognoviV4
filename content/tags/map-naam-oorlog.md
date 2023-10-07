@@ -1,3 +1,3 @@
 ---
-naam: oorlog
+naam: Hoe voeren landen tegenwoordig oorlog?
 ---
