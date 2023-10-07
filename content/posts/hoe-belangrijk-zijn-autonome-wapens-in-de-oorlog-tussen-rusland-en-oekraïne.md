@@ -15,6 +15,16 @@ tags:
   - Palestina
   - Hamas
   - Gaza
+  - autonome wapens
+  - Autonome wapens van het leger
+  - Hoe voeren landen tegenwoordig oorlog?
+  - militaire wapens
+  - drones leger
+  - Robot Amerikaanse leger
+  - Nederlandse defensie
+  - Wapens, autonome wapens, AI, Rusland, Oekraïne, oorlog, wetenschap,
+    onderzoek, drone, luchtmacht, reaper, marine, landmacht, defensie, wapen
+    wedloop, sonar, radar
 ---
 **N﻿adat de Palestijnse Hamas-beweging duizenden raketten op Israël afvuurde en fysiek soldaten stuurde, heeft Israël de oorlog afgekondigd. En waar Hamas de bezieling heeft, heeft Israël de technologie. En dát is waarmee tegenwoordig oorlogen gewonnen worden.**
 
