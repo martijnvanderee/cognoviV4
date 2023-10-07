@@ -12,9 +12,19 @@ tags:
     wedloop, sonar, radar
   - Christ Klep
 ---
-**Poetin wappert met kernwapens en dat is op zijn minst ongemakkelijk. Maar dat is zeker niet de enige aap die we uit de Russische mouw mogen verwachten.**
+**N﻿adat de Palestijnse Hamas-beweging duizenden raketten op Israël afvuurde en fysiek soldaten stuurde, heeft Israël de oorlog afgekondigd. En waar Hamas de bezieling heeft, heeft Israël de technologie. En dát is waarmee tegenwoordig oorlogen gewonnen worden.**
 
-De wetenschap ontwikkelt in zeer hoog tempo autonome systemen. Maandelijks wordt er wel ergens in de wereld een drone of communicatietoestel uitgevonden dat volledig zelfstandig opereert. De toepassing is steeds vaker militair en de Adviesraad Internationale Vraagstukken heeft de VN inmiddels dan ook aangeraden een verbod op volledig autonome wapens in te stellen. Ze willen dat staten investeren in automatische wapens, waarbij menselijke besluitvorming essentieel blijft. Dat roept de vraag op hoeveel zeggenschap wij mensen überhaupt nog hebben over aanval en verdediging.
+I﻿s het een statement of denkt Hamas zelf dat er kans op winst is? Israël is op het gebied van militaire tech zeker niet te onderschatten. En hoewel vele landen tegenwoordig miljoenen pompen in de R&D afdeling van het leger,  zet Israël zelfs nog wat stapjes verder. Zo wordt al jaren aangenomen dat het land over minstens 100 kernwapens beschikt, hoewel Israël dit noch bevestigt noch ontkent.
+
+M﻿instens zo belangrijk is de moderne technologie waarmee militaire systemen zijn uitgerust. En hoewel de VS daarmee wellicht koploper zijn, bevindt Israël zich ook op dit gebied niet bepaald in de achterhoede. Sterker nog: het land ontwikkelt de tech met dusdanig gemak, dat het zich kan veroorloven de tech uit te leveren en te verkopen aan andere landen. 
+
+**I﻿sraël: voorop in kernwapens en autonome wapens**
+
+E﻿en goed voorbeeld daarvan is de zogenaamde Harpy drone. Deze zoekt zelfstandig naar radarsystemen en gaat over tot uitschakeling. Dat klinkt vrij onschuldig en onschadelijk, maar het zijn wel dergelijke systemen, waardoor Israël mankrachten kan sparen. 
+
+O﻿verigens is Israël niet de enige mogendheid die flink investeert in technologische wapenvoering. De wetenschap ontwikkelt in zeer hoog tempo autonome systemen. Maandelijks wordt er wel ergens in de wereld een drone of communicatietoestel uitgevonden dat volledig zelfstandig opereert. 
+
+De toepassing is steeds vaker militair en de Adviesraad Internationale Vraagstukken heeft de VN inmiddels dan ook aangeraden een verbod op volledig autonome wapens in te stellen. Ze willen dat staten investeren in automatische wapens, waarbij menselijke besluitvorming essentieel blijft. Dat roept de vraag op hoeveel zeggenschap wij mensen überhaupt nog hebben over aanval en verdediging.
 
 **Autonome wapens in Nederland?**
 
