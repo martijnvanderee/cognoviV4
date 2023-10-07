@@ -1,3 +1,3 @@
 ---
-naam: oorlog Palestina Israël
+naam: Israël
 ---
