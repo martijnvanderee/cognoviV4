@@ -7,10 +7,14 @@ headerPhoto: map-image-img-wapens-oorlog-helicopter-jpg-bron-pixabay-onderschrif
 onderwerp: tech
 auteur: Monique Siemsen
 tags:
-  - Wapens, autonome wapens, AI, Rusland, Oekraïne, oorlog, wetenschap,
-    onderzoek, drone, luchtmacht, reaper, marine, landmacht, defensie, wapen
-    wedloop, sonar, radar
   - Christ Klep
+  - Israël oorlog
+  - Welke wapens heeft Israël?
+  - Leger van Israël
+  - Israël
+  - Palestina
+  - Hamas
+  - Gaza
 ---
 **N﻿adat de Palestijnse Hamas-beweging duizenden raketten op Israël afvuurde en fysiek soldaten stuurde, heeft Israël de oorlog afgekondigd. En waar Hamas de bezieling heeft, heeft Israël de technologie. En dát is waarmee tegenwoordig oorlogen gewonnen worden.**
 
