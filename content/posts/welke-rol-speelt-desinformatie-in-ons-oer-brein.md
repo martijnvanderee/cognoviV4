@@ -20,9 +20,9 @@ tags:
   - oermens
   - amandelkern
 ---
-**Seks, gevaar en de bedreiging van kinderen vormen de perfecte cocktail om het alarmsysteem in onze hersenen te activeren. En het zijn ook précies deze onderwerpen in desinformatie, die als geen ander onze amygdalae een flinke oplawaai geven en het moeilijk maken voor de rest voor ons brein, onze angsten te reguleren.**
+**O﻿f het nu enge ziektes, bedreigde vrijheid of gevaar voor kinderen betreft: desinformatie maakt handig gebruik van een neurologisch trucje om het alarmsysteem in onze hersenen te activeren. Deze zorgvuldig samengestelde desinformatie geeft als geen ander het oer-oude angstcentrum in je hersenen een oplawaai en vermindert je rationele denkvermogens. Politieke propaganda maakt dan ook handig gebruik van je angsten om je op partijen te laten stemmen, die jou wel zullen 'redden' van de boosdoeners. Die ze zelf verzonnen hebben, uiteraard.**
 
-Weerzin en paniek hebben een nieuw thema anno 2023 in Nederland. Het betreft de veiligheid van onze kinderen, de ultieme angst van de meeste mensen. En angst drukt als geen ander op het alarmsysteem in ons brein. ‘Op de knop drukken’ zegt men in het Engelse taalgebied als iets of iemand je overstuur maakt. (Someone pushes your buttons). Maar welke knoppen hebben we het dan over? En hoe kunnen anderen daar nu handig op drukken? De knoppen waarom het voornamelijk gaat, zijn de amygdalae en het drukken kan effectief gebeuren met de juiste alarmen, zoals bedreigende informatie. We nemen je even mee op een reis door onze hersenen!
+Angst drukt als geen ander op het alarmsysteem in ons brein. ‘Op de knop drukken’ zegt men in het Engelse taalgebied als iets of iemand je overstuur maakt. (Someone pushes your buttons). Maar welke knoppen hebben we het dan over? En hoe kunnen anderen daar nu handig op drukken? De knoppen waarom het voornamelijk gaat, zijn de amygdalae en het drukken kan effectief gebeuren met de juiste alarmen, zoals bedreigende informatie. We nemen je even mee op een reis door onze hersenen!
 
 **Desinformatie activeert alarmcentrale in ons brein**
 
