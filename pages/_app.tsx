@@ -60,12 +60,13 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
 "
         />
 
-        <Script
+        <script
           id="adsbygoogle-init"
-          strategy="afterInteractive"
-          crossOrigin="anonymous"
+          async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8861487414672205"
-        />
+          crossorigin="anonymous"
+        ></script>
+
         {/* 
         <script
           async
