@@ -8,7 +8,6 @@ export const AdBanner = (props: any) => {
       );
     } catch (err) {
       console.log(err);
-      console.log(err);
     }
   }, []);
 
@@ -18,6 +17,8 @@ export const AdBanner = (props: any) => {
       style={{
         display: "block",
         textAlign: "center",
+        width: "100px",
+        height: "100px",
       }}
       data-ad-layout="in-article"
       data-ad-format="fluid"
