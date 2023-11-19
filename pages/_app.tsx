@@ -5,6 +5,7 @@ import { useRouter } from "next/router";
 // Modules
 import { AppProps } from "next/app";
 import Head from "next/head";
+import Script from "next/script";
 
 //state
 import { IsMenuOpenProvider } from "../state/isMenuOpen";
@@ -59,11 +60,18 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
 "
         />
 
+        <Script
+          id="adsbygoogle-init"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8861487414672205"
+        />
+        {/* 
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8861487414672205"
           crossOrigin="anonymous"
-        ></script>
+        ></script> */}
 
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link

@@ -14,14 +14,15 @@ export const AdBanner = (props: any) => {
 
   return (
     <ins
-      className="adsbygoogle adbanner-customize"
+      className="adsbygoogle"
       style={{
         display: "block",
-        overflow: "hidden",
+        textAlign: "center",
       }}
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
       data-ad-client="ca-pub-8861487414672205"
       data-ad-slot="7222228947"
-      {...props}
-    />
+    ></ins>
   );
 };

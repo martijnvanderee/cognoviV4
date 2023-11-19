@@ -1,5 +1,5 @@
-import React from 'react';
-import Document, { Html, Head, Main, NextScript } from 'next/document';
+import React, { useEffect } from "react";
+import Document, { Html, Head, Main, NextScript } from "next/document";
 
 import { GA_TRACKING_ID } from "../lib/gtag";
 
@@ -7,6 +7,16 @@ const isProduction = process.env.NODE_ENV === "production";
 
 export default class MyDocument extends Document {
   render() {
+    useEffect(() => {
+      var ads = document.getElementsByClassName("adsbygoogle").length;
+      for (var i = 0; i < ads; i++) {
+        try {
+          ((window as any).adsbygoogle =
+            (window as any).adsbygoogle || []).push({});
+        } catch (e) {}
+      }
+    }, []);
+
     return (
       <Html lang="nl" className="text-xs">
         <Head>
@@ -41,4 +51,3 @@ export default class MyDocument extends Document {
     );
   }
 }
-
