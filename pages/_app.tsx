@@ -5,7 +5,6 @@ import { useRouter } from "next/router";
 // Modules
 import { AppProps } from "next/app";
 import Head from "next/head";
-import Script from "next/script";
 
 //state
 import { IsMenuOpenProvider } from "../state/isMenuOpen";
@@ -16,11 +15,6 @@ const isProduction = process.env.NODE_ENV === "production";
 
 const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
   const router = useRouter();
-  <Script
-    async
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8861487414672205"
-    crossOrigin="anonymous"
-  />;
 
   React.useEffect(() => {
     // Remove the server-side injected CSS.

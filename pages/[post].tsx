@@ -16,6 +16,7 @@ import {
 import { Layout } from "../components/layout";
 import { PostItem } from "../components/postItem";
 import { SeoHeader } from "../components/seoHeader";
+import { AdBanner } from "../components/AdBanner";
 
 //typescript
 import { FullPost, PostMeta } from "../typescript";
@@ -146,13 +147,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
             {ReactHtmlParser(secondPart, { transform: transformImage })}
           </Container>
 
-          <ins
-            className="adsbygoogle text-center block"
-            data-ad-layout="in-article"
-            data-ad-format="fluid"
-            data-ad-client="ca-pub-8861487414672205"
-            data-ad-slot="7222228947"
-          ></ins>
+          <AdBanner />
         </div>
         <div className="mx-2">
           {tags && (
