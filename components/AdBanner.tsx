@@ -17,8 +17,8 @@ export const AdBanner = (props: any) => {
       style={{
         display: "block",
         textAlign: "center",
-        width: "100px",
-        height: "100px",
+        width: "250px",
+        height: "250px",
       }}
       data-ad-layout="in-article"
       data-ad-format="fluid"
