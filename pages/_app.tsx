@@ -64,7 +64,7 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
           id="adsbygoogle-init"
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8861487414672205"
-          crossorigin="anonymous"
+          crossOrigin="anonymous"
         ></script>
 
         {/* 
