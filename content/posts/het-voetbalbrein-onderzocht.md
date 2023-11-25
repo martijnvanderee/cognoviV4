@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Het voetbalbrein onderzocht
+title: Voetbalbrein onderzocht!
 Subtitle: Het neurologisch verschil tussen de keeper en het team
 date: 2023-11-25T15:05:17.548Z
 headerPhoto: map-image-img-voetbal-header-jpg-bron-pixabay-com-onderschrift-voetbal-header
