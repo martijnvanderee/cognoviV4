@@ -1,0 +1,3 @@
+---
+naam: bedwants hotelkamer
+---
