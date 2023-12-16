@@ -34,7 +34,7 @@ module.exports = {
         yellow: "#F1B33C",
         yellowLight: "#f5f3ed",
         almostWhite: "#EDEDED",
-        grey: "#707070",
+        grey: "gray-900",
         black: "#222222",
       },
       padding: {

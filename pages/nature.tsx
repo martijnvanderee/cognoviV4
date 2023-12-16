@@ -32,7 +32,7 @@ const Nature: FunctionComponent<NatureProps> = ({
       <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. | Nature" />
       <main className="bg-white">
         <div>
-          <div className="md:grid  md:grid-cols-2 md:pt-10">
+          <div className="md:grid  md:grid-cols-2 md:mt-10">
             {/* HeadPost */}
             <HeadPost data={getFirstElement(latestPosts)} />
             <div className="md:hidden h-2 w-full bg-almostWhite"></div>
