@@ -31,7 +31,7 @@ export const PostTopicSection: FunctionComponent<RandomProps> = ({
       </div>
 
       <div className="flex justify-end mr-4">
-        <Link href={`/${title}`}>
+        <Link href={`/${title.toLocaleLowerCase()}`}>
           <button className="bg-gray-50 hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border-b-2 border-gray-100 flex shadow items-center">
             <span className="mr-2 text-2xl">Meer {title}</span>
             <FaArrowRightLong size={20} />
