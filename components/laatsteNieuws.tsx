@@ -35,7 +35,7 @@ export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({
       </div>
 
       <Link href={LinkNaarMeerPosts}>
-        <a className="focus:outline-none focus:ring focus:border-blue-300">
+        <a className="focus-visible:bg-violet-700">
           <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey ml-4 cursor-pointer">
             {LinkNaarMeerPostsText}
             <span className="text-2xl md:text-xl font-semibold leading-tight text-purple">

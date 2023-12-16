@@ -85,8 +85,8 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
   return (
     <Layout>
       <SeoHeader subtitle={post.title} />
-      <main className="md:max-w-6xl  md:mx-auto">
-        <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto">
+      <main className="md:max-w-6xl  md:mx-auto bg-white">
+        <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:pt-10 md:mx-auto">
           <div className="relative w-full h-full md:w-8/12 m-auto">
             <img
               src={image}
