@@ -4,6 +4,8 @@ import { PostItem2 } from "../components/postItem";
 //typescript
 import { FullPost } from "../typescript";
 import { RANDOM_BIG_POSTS } from "../public/variables";
+import { FaArrowRightLong } from "react-icons/fa6";
+import Link from "next/link";
 
 type RandomProps = {
   posts: FullPost[];
@@ -26,6 +28,15 @@ export const PostTopicSection: FunctionComponent<RandomProps> = ({
         {posts.map((post: FullPost, id: number) => (
           <PostItem2 post={post} key={id} />
         ))}
+      </div>
+
+      <div className="flex justify-end mr-4">
+        <Link href={`/${title}`}>
+          <button className="bg-gray-50 hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border-b-2 border-gray-100 flex shadow items-center">
+            <span className="mr-2 text-2xl">Meer {title}</span>
+            <FaArrowRightLong size={20} />
+          </button>
+        </Link>
       </div>
     </div>
   );
