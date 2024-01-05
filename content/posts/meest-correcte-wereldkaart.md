@@ -3,7 +3,7 @@ templateKey: post.template
 title: Meest correcte wereldkaart
 Subtitle: En we zullen hem waarschijnlijk nooit gebruiken
 date: 2024-01-04T21:17:06.571Z
-headerPhoto: map-image-img-authagraph-header-png-bron-by-felagoth-own-work-cc-by-sa-4-0-https-commons-wikimedia-org-w-index-php-curid-112463984-onderschrift-authagraph-header
+headerPhoto: map-image-img-authagraph-kop-jpg-bron-felagoth-details-in-tekst-onderschrift-authagraph-kop
 onderwerp: quirky
 auteur: Monique Siemsen
 tags:
