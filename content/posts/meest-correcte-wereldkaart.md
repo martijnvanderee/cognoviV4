@@ -21,7 +21,9 @@ tags:
 ---
 **Hij is nauwelijks herkenbaar als zodanig, maar dit is een wereldkaart. En het is de meest nauwkeurige plattegrond van de aarde die momenteel beschikbaar is. Als het tenminste gaat om verhoudingen en grootte van landmassa’s.**
 
-Hierboven vind je een benadering van de zogenaamde AuthaGraph. (*Bron: By Felagoth - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112463984.*) Het is wél even puzzelen met de lengte- en breedtegraden, want die golven door de afbeelding heen. De wereldkaart die wij kennen, heeft dat laatste probleem niet, daar zijn de lijnen vrijwel recht. Maar daar zijn dan weer de oppervlakte verhoudingen zoek en dan hebben we het niet alleen over de beruchte Mercatorprojectie.
+Hierboven vind je een benadering van de zogenaamde AuthaGraph. (*Bron: By Felagoth - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112463984. I﻿n verband met format SG en afwijkend design hebben we de Zuidpool niet kunnen afbeelden. Deze ligt op de AuthaGraph onder Zuid-Amerika dus rechtsonder op de kaart.)*
+
+Het is wél even puzzelen met de lengte- en breedtegraden, want die golven door de afbeelding heen. De wereldkaart die wij kennen, heeft dat laatste probleem niet, daar zijn de lijnen vrijwel recht. Maar daar zijn dan weer de oppervlakte verhoudingen zoek en dan hebben we het niet alleen over de beruchte Mercatorprojectie.
 
 **Probleem van een wereldkaart: je maakt van iets ronds, iets plats**
 
@@ -39,13 +41,9 @@ Dat is het probleem van de klassieke Mercatorprojectie. Daarom kloppen de afmeti
 
 Hoe krijg je alle verhoudingen weer goed? Vele oplossingen en soorten kaarten, waren het gevolg. De verhoudingen verbeterden dan ook aanzienlijk, maar bleven nog steeds ver achter op de realiteit. De bedenker Hajime Narukawa is geen kaartenmaker, maar een architect. Hij studeerde toevalling in Nederland aan het instituut van Berlage, toen hij het probleem met de wereldkaart besloot op te lossen. Hij pakte het wiskundig aan en deelde de globe op in 96 driehoeken, waarvan hij alle verhoudingen berekende. En al kloppen de verhoudingen nog steeds niet helemaal voor de volle 100%,  zijn kaart werd daarom veel realistischer. Bovendien is op de Japans/Nederlandse kaart Antarctica wél goed opgenomen. Op de meeste projecties wordt het Zuidpoolcontinent óf met een wit kronkellijntje onderaan óf helemaal niet afgebeeld. 
 
-
-
 **Alternatieven voor de Mercator projectie**
 
 Is dat genoeg reden om de oude kaart de prullenbak in te smijten? Professor Henk van Houtum is sowieso niet dol op klassieke landkaarten. Van Houtum doceert Politieke Geografie en Geopolitiek aan de Radboud Universiteit. “Een kaart is een verhaal, net zoals een tekst dat is. Het is daarom opvallend dat we al eeuwenlang grofweg hetzelfde verhaal vertellen: dat van de koloniale Mercator kaart, met een vertekend Amerika, Europa en Rusland, Noord-en Zuidpool die veel te groot worden verbeeld en Europa als destijds koloniale macht, standaard in het midden. Andere projecties van de wereld dragen allicht bij aan het idee dat er niet één alles dekkend verhaal is.”
-
-
 
 ![Door het oppervlakte van de aarde in driehoeken te verdelen, berekende een Japanner de juiste verhoudingen om de bol op een rechthoekige kaart te projecteren.](/img/authagraph-driehoek.jpg "Pixabay.com")
 
@@ -59,15 +57,11 @@ Maar uitgever van kaarten en plattegronden, Bosatlas, heeft niet zo veel behoeft
 
 In de Bosatlas wordt momenteel de Winkel-Tripelprojectie gebruikt, ontworpen door de Duitse Oswald Winkel, alweer een eeuwtje geleden. Dat is een zogeheten cilinderprojectie. De bolling vanaf de evenaar naar het zuiden en naar het noorden is meegenomen in de afbeelding, zodat vervorming wordt tegengegaan. De punt van Azië en van Alaska komen wel weer een beetje in de verdrukking op de Winkel-Tripel projectie. Bosatlas gebruikt deze kaart als redelijk compromis tussen oppervlakte-, hoek- en afstandsgetrouwheid.
 
-
-
 **Wiskundig vrij correct, maar problematisch voor software**
 
 Overigens is de overweging van Bosatlas om de AuthaGraph te verwerpen niet puur didactisch. De wiskundige berekening van Hajime Narukawa is niet vrij toegankelijk, maar met rechten omgeven. Officieel is de AuthaGraph dan ook een design, waar copyright op rust. Daardoor kan de projectie niet worden opgenomen in software, die met geo-referentie werkt. (En het is de reden waarom wij een benadering van de AuthaGraph als illustratie gebruiken, onder vermelding van bron: By Felagoth - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=112463984.)
 
 Of het ontwerp wel ooit didactische vormen gaat aannemen op onze scholen, hangt volgens Bosatlas af van de behoefte van Nederlandse docenten. “In de online omgeving van onze atlas behandelen we een aantal verschillende kaartprojecties. Met name voor vwo-bovenbouwleerlingen komen deze verschillen aan bod. Mocht dit bij een toekomstige editie volgens de aardrijkskundedocenten een zinvolle toevoeging blijken, dan kan deze projectie op die plek worden opgenomen.”
-
-
 
 *Gepubliceerd op 4 januari 2024*
 
