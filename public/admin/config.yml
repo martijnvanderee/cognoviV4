@@ -21,6 +21,15 @@ collections:
     fields:
       - {name: naam, label: Naam}
 
+  - name: "video"
+    label: "Video"
+    widget: "file"
+    folder: "content/videos"
+    default: "/uploads/general-manual.pdf"
+    media_library:
+      config:
+        multiple: true
+
   - name: photo's
     label: Photo's
     folder: "content/photo's"
@@ -64,6 +73,14 @@ collections:
         label: Tags
         widget: relation
         collection: tags
+        searchFields: [naam]
+        multiple: true
+        valueField: naam
+        required: false
+      - name: video
+        label: Video
+        widget: relation
+        collection: video
         searchFields: [naam]
         multiple: true
         valueField: naam
