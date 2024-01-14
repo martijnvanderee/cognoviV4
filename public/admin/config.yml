@@ -29,14 +29,6 @@ collections:
       - {name: onderschrift, label: Onderschrift,required: true}
       - {name: bron, label: Bron,required: false}
       - {label: "Image", name: "image", widget: "image",required: true}
-  - name: "video"
-    label: "Video"
-    widget: "file"
-    folder: "content/videos"
-    default: "/uploads/general-manual.pdf"
-    media_library:
-      config:
-        multiple: true
   - name: posts
     label: Posts
     folder: "content/posts"
