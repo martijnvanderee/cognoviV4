@@ -134,3 +134,9 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
     </Link>
   );
 };
+
+//adsense 
+//addsense
+// tiktok, twitter
+// email aanmelding
+// filmpjes, soundbites

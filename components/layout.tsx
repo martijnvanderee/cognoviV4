@@ -4,6 +4,7 @@ import { useRouter } from "next/router";
 
 //components
 import { Header } from "./header";
+import { Footer } from "./footer";
 import { MenuSlider } from "../components/menuSlider";
 import { SearchPage } from "../components/search/searchPage";
 //state
@@ -52,6 +53,7 @@ export const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
             <div className="max-w-screen-lg mx-auto ">{children}</div>
           )}
         </div>
+        <Footer />
       </div>
     </>
   );
