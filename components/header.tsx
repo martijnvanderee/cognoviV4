@@ -39,16 +39,16 @@ export const Header = () => {
               onClick={handleClickSearch}
             >
               {/* search icon small */}
-              <div className="flex items-center justify-content mr-4 md:hidden focus:outline-none focus:ring focus:border-blue-300">
+              {/* <div className="flex items-center justify-content mr-4 md:hidden focus:outline-none focus:ring focus:border-blue-300">
                 <FaSearch size="2em" color="white" />
-              </div>
+              </div> */}
 
               {/* bar icon small */}
-              <div className="flex items-center justify-content mr-1 hidden md:block">
+              <div className="flex items-center justify-content mr-1 md:block">
                 <FaSearch color="white" size="2.5em" />
               </div>
 
-              <div className="text-white my-auto text-lg md:text mr-4 hidden md:block">
+              <div className="text-white my-auto text-lg md:text mr-4  md:block">
                 Zoeken
               </div>
             </button>
@@ -58,13 +58,12 @@ export const Header = () => {
               onClick={handleClickMenu}
             >
               {/* search icon big */}
-              <div className="flex items-center justify-content mr-1 md:hidden">
+              {/* <div className="flex items-center justify-content mr-1 ">
                 <FaBars color="white" size="2em" />
-              </div>
+              </div> */}
 
               {/* bar icon big */}
-
-              <div className="flex items-center justify-content mr-1 hidden md:block">
+              <div className="flex items-center justify-content mr-1 md:block">
                 <FaBars color="white" size="2.5em" />
               </div>
 
