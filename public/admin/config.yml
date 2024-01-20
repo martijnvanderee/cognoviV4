@@ -77,17 +77,9 @@ collections:
         multiple: true
         valueField: naam
         required: false
-      - name: video
-        label: Video
-        widget: relation
-        collection: video
-        searchFields: [naam]
-        multiple: true
-        valueField: naam
-        required: false
       - name: photo's
         label: Photo's
-        widget: relationx
+        widget: relation
         collection: photo's
         searchFields: [onderschrift]
         display_fields: [onderschrift]
