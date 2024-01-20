@@ -20,7 +20,7 @@ collections:
     folder: "content/videos"
     create: true
     fields:
-      - {label: "Vdieo", name: "video", widget: "file", required: true}
+      - {label: "Video", name: "video", widget: "file", required: true}
   
   - name: tags
     label: Tags
