@@ -6,6 +6,8 @@ media_folder: /public/img
 public_folder: /img
 publish_mode: editorial_workflow
 
+
+
 collections:
   - name: auteurs
     label: Auteurs
@@ -13,6 +15,15 @@ collections:
     create: true
     fields:
       - {name: naam, label: Naam}
+
+  - name: "video"
+    label: "Video"
+    widget: "file"
+    folder: "content/videos"
+    default: "/uploads/general-manual.pdf"
+    media_library:
+      config:
+        multiple: true
 
   - name: tags
     label: Tags
