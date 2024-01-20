@@ -21,15 +21,6 @@ collections:
     fields:
       - {name: naam, label: Naam}
 
-  - name: "video"
-    label: "Video"
-    widget: "file"
-    folder: "content/videos"
-    default: "/uploads/general-manual.pdf"
-    media_library:
-      config:
-        multiple: true
-
   - name: photo's
     label: Photo's
     folder: "content/photo's"
@@ -38,6 +29,7 @@ collections:
       - {name: onderschrift, label: Onderschrift,required: true}
       - {name: bron, label: Bron,required: false}
       - {label: "Image", name: "image", widget: "image",required: true}
+
   - name: posts
     label: Posts
     folder: "content/posts"
@@ -87,6 +79,3 @@ collections:
         valueField: "{{slug}}"
         required: false
         options_length: 1
-        
-
-
