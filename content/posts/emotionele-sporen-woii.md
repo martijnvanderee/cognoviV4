@@ -54,11 +54,9 @@ Van meet af aan, speelde de politieke richting namelijk mee. Het naoorlogse parl
 
 Dat oorlogsverleden bleef in de jaren daarna meespelen in debatten. Vooral communisten en sociaal democraten streden wat af om zich positieve associaties toe te eigenen en de negatieve associaties bij andere partijen neer te leggen. Discussies werden steeds symbolischer in plaats van pragmatisch. “Er zaten nog maar een paar oorlogsmisdadigers vast bijvoorbeeld. Maar deze thema’s bleven controversieel, dus ook al werden emoties symbolisch ingezet: ze waren er niet bepaald minder om. Als we bijvoorbeeld kijken naar de journaalbeelden met protesterende menigten, dan kunnen we die gevoelens van mensen ook zien en niet alleen maar in woorden tellen”, aldus Van Lange.
 
-![1966: 1966: Gevoelens van boosheid en onmacht tijdens een demonstratie in Amsterdam. Oorlogsmisdadiger Willie Lages dreigt Nederlandse justitie te ontglippen.](/img/emo-wo2-demonstratie-lages.jpg "fotocollectie Anefo/Nationaal Archief")
+![1966: Gevoelens van boosheid en onmacht tijdens een demonstratie in Amsterdam. Oorlogsmisdadiger Willie Lages dreigt Nederlandse justitie te ontglippen.](/img/emo-wo2-demonstratie-lages.jpg "fotocollectie Anefo/Nationaal Archief")
 
 Onder meer de debatten rond oorlogsmisdadiger Willie Lages, deden de boosheid door het Nederlandse volk én het parlement gieren. De gemoederen liepen al hoog op rond 1952 toen overwogen werd Lages amnestie te verlenen.  Later -medio jaren zestig- slaat de vlam weer in de pan, toen het parlement erover peinsde Lages vrij te laten vanwege gezondheidsproblemen. Dat gebeurde uiteindelijk niet, wel kreeg Lages een strafonderbreking van drie maanden en werd hij per ambulance naar Duitsland gebracht om te overlijden. Lages overleed niet en bleef nog vijf jaar in vrijheid in Duitsland leven, tot grote verontwaardiging van het Nederlandse volk en parlement.
-
-
 
 **Herbeleving Tweede Wereldoorlog tijdens de koude oorlog en de opbouw van de verzorgingsstaat**
 
@@ -67,8 +65,6 @@ De toon was gezet en gevoelens werden voortaan gebruikt om de eigen politieke do
 ![1972: Een jonge Van Agt als minister van Justitie krijgt de woede van het volk over zich heen. De demonstratie is tegen de vrijlating van de Drie van Breda. Hij krijgt zware bewaking, terwijl hij zich haast op het Binnenhof.](/img/emo-wo2-dries-van-agt.jpg "fotocollectie Anefo/Nationaal Archief")
 
 In de jaren zeventig maakten politici vooral gebruik van het inschatten van deze collectieve gevoelens, om die vervolgens effectief in te zetten. Werden in de jaren 50 gevoelens nog gedetailleerd vernoemd, in de jaren zeventig volstond algemende terminologie als ‘het verdriet’ of ‘het lijden.’  In 1972 werd de Wet uitkeringen vervolgingsslachtoffers 1940-1945 (Wuv) aangenomen. En die is niet eenduidig een gevolg van de vermeende emancipatie van oorlogsgevoelens, zegt Van Lange: “Tegen die tijd bouwden we een verzorgingsstaat, waar slachtofferhulp een logisch onderdeel van was. We kregen ook een bredere opvatting van wat welzijn was en daarmee begrip, dat je ook geestelijk of financieel slachtoffer kon worden van oorlogsgeweld. Bovendien speelde ook mee, dat steeds meer slachtoffers zich gingen verenigen en een stem kregen, zoals vervolgde homoseksuelen en zigeuners.”  Van Lange ziet de Wuv dan ook eerder, als een gevolg van de ontwikkeling van de Nederlandse welvaartsstaat.
-
-
 
 **Hoe politieke partijen emoties rond de oorlog gebruikten. Toen en nu.**
 
@@ -86,8 +82,6 @@ De analyse van emotionele taal stopt in het onderzoek van Van Lange, na het eind
 
 En in 2021 leidde de vergelijking van Geert Mak tussen het nazisme toentertijd en de opkomst van nieuwe rechtse partijen nu, tot controverse en nieuwe uitbarstingen van emoties. Vooral op sociale media, waar tot op heden politieke stromingen elkaar om de oren meppen met de toe-eigening van het correct geweest zijn, tijdens de oorlog. Van Lange ziet het verbaasd aan. “De emoties rond de Tweede Oorlog, blijven maar oplaaien. Dat is toch uniek.” 
 
-
-
 > #### **De methodiek: taal als tijdcapsule**
 
 Historicus Milan van Lange zette in zijn studie vraagtekens achter de veronderstelde emo-emancipatie en bedacht een manier om er achter te komen of inderdaad pas echt in de jaren zeventig en tachtig na-oorlogse emoties aan de oppervlakte kwamen. “Bij geschiedschrijving horen ook geaccepteerde wijsheden. Het gaat mij erom dat we dié dingen bevragen, waarvan we al denken te weten hoe het zit. Is de emotionele emancipatie ook zo’n geaccepteerde wijsheid?”  
@@ -104,8 +98,6 @@ Voor zijn onderzoek, dat Van Lange uitvoerde aan het NIOD, het Instituut voor Oo
 
 “Je ziet misschien geen rondvliegend speeksel en boze blikken, maar je krijgt wel degelijk een heel goed beeld van de emoties in Den Haag”, aldus Van Lange, die aan de slag ging met de honderden miljoenen woorden in de Handelingen van de Staten Generaal. Zo vormde het politieke taalgebruik van 1945 tot 1989 een raamwerk om emoties meetbaar te maken.
 
-
-
 **Hoe meet je emoties en verwerking?**
 
 Dat meetbaar maken deed hij met woordenlijsten, die termen bevatten met een bepaald emotioneel kenmerk, zoals woede, verdriet en blijdschap. Vanwege de gigantische schaal van zijn werk, gebruikte hij een computerprogramma, dat hij handmatig controleerde. Van Lange woog de woorden met een numerieke correctie. “Je kunt niet ieder woord gewoon turven en een staatje maken, dan krijg je een verwrongen beeld. In een debat over herstelbetalingen aan oorlogsslachtoffers bijvoorbeeld, zal het woord ‘slachtoffer’ vaker vallen dan in gesprekken over andere oorlogsthema’s. In zo’n debat weegt ‘slachtoffer’ dan ook minder, dan het woord ‘verschrikking’, dat veel minder vaak viel. Beiden hebben een emotionele lading, maar ‘verschrikking’ is relatief zeldzamer.” 
@@ -114,15 +106,11 @@ Dat meetbaar maken deed hij met woordenlijsten, die termen bevatten met een bepa
 
 De historicus dook bovendien op pieken en dalen in de telling, die niet meteen verklaard konden worden. Zo merkte hij dat sommige emotionele onderwerpen toch weinig hevige emotionele gesprekken opleverden. “Debatten waar partijen het bijzonder met elkaar eens waren, gaven weinig controverse en strijd. Door die eensgezindheid, bleken dit soort debatten toch bijzonder on-emotioneel”, constateerde Van Lange.
 
-
-
 **Parlementaire discussies tonen emoties Nederlanders na de Tweede Wereldoorlog**
 
 Tot slot keek hij niet alleen naar de aantallen van bepaalde basis-emoties, maar ook het aantal debatten van een bepaald soort. Daaruit kwamen interessante bevindingen. “Vooral tussen 1945 en 1950 is er een behoorlijke piek in het aantal debatten met een oorlogsthema. Daarna lijken dit soort geplande debatten af te nemen.Toch betekent dit niet dat de betrokkenheid en emotie afnam. Vanaf de jaren zestig vielen debatten over herstelbetalingen bijvoorbeeld onder de bijstandsregeling. En onder dit onderwerp, werden ze dan ook geregistreerd. De gesprekken en emoties betroffen echter nog steeds de Tweede Wereldoorlog.” 
 
 (Het volledige onderzoek van Van Lange behelst nog veel meer interessante en opzienbarende feiten. Het onderzoek is gratis te downloaden en te lezen via deze link:<https://www.bielefeld-university-press.org/978-3-8376-6485-0/emotional-imprints-of-war/?c=631025282>.)
-
-
 
 *Gepubliceerd op 21 januari 2024*
 
