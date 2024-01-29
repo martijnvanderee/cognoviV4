@@ -96,6 +96,6 @@ De dagelijkse invulling van deze nieuwe grootscheepse aanpak moet nog komen. Vas
 
 (﻿Wil je meer weten over seksueel misbruik en wetenschap, dan kun je [hier](/is-neutrale-castratie-de-oplossing-tegen-seksueel-misbruik) verder lezen over de aanpak van misbruikers met stroomstoten!)
 
-G﻿epubliceerd op 29 januari 2024
+*G﻿epubliceerd op 29 januari 2024*
 
-B﻿ronnen: cijfers CBS, E. Stanko - Operaton Soteria Bluestone, Renée Römkens
+*B﻿ronnen: CBS, E. Stanko - Operaton Soteria Bluestone, R. Römkens*
