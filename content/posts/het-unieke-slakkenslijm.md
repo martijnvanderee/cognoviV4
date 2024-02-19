@@ -1,8 +1,7 @@
 ---
 templateKey: post.template
 title: Het unieke slakkenslijm
-Subtitle: Slak niet alleen belangrijk voor beauty en geneeskunde, maar ook voor
-  defensie en ruimtevaart! (?)
+Subtitle: Slak belangrijk voor cosmetica, medicijnen, defensie en ruimtevaart! (?)
 date: 2024-02-19T19:23:15.511Z
 headerPhoto: map-image-img-slak-header-groen-blad-jpg-bron-pixabay-com-onderschrift-slak-header
 onderwerp: nature
