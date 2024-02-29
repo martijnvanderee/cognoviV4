@@ -26,11 +26,9 @@ tags:
 ---
 **Van al je zintuigen, werkt je reukorgaan verreweg het best. Mensen ruiken emoties, ziektes en zelfs gender. We ruiken ook wie we aardig vinden en wie we niet aardig vinden. En sommige geuren ruiken we zó goed, dat we één deeltje ervan herkennen op vele miljarden deeltjes. Welkom bij de reis van de reuk: van geurmolecuul tot emotie, herinnering en handeling.**
 
-
-
 Nog niet zo lang geleden geloofden we dat mensen slechte ruikers waren. En al helemaal vergeleken met bijvoorbeeld honden. Vele duizenden malen beter dan een mens, zou een hond ruiken. Maar dat klopt niet helemaal, volgens reuk- en smaakwetenschapper Sanne Boesveldt, universitair hoofddocent in Wageningen. “We kunnen meer geuren ruiken dan kleuren zien of geluiden onderscheiden. We zijn ons alleen niet altijd zo bewust van een reukwaarneming als van bijvoorbeeld een visuele prikkel.”
 
-(﻿Overigens lees je [hier](/de-makker-op-het-witte-paard-is-vriendschap-voorbestemd) hoe geur onze vriendschappen beïnvloedt en [hier](/je-oren-en-neus-bepalen-wie-sexy-en-vriendelijk-is) waarom geur bepaalt wie we sexy vinden!)
+(﻿Overigens lees je **[hier](/de-makker-op-het-witte-paard-is-vriendschap-voorbestemd)** hoe geur onze vriendschappen beïnvloedt en **[hier](/je-oren-en-neus-bepalen-wie-sexy-en-vriendelijk-is)** waarom geur bepaalt wie we sexy vinden!)
 
 **De scherpe ‘neus’ van de mens**
 
@@ -66,8 +64,6 @@ Opvallend tijdens deze neuro-reis is dat reuksignalen de thalamus overslaan, ter
 
 Bovendien heeft ons reukvermogen een duidelijke sociale functie. Mensen ruiken dus goed aan elkaar. En weten daar verbazingwekkend veel informatie uit te halen. Onderzoek toont dat, niet alleen honden, maar ook mensen bepaalde kankers kunnen ruiken, vertelt Boesveldt.  “We blijken de ziekte van Parkinson en infectieziekten te kunnen ruiken. Daar zit weinig foutmarge in. Er is een wetenschappelijk voorbeeld van de Schotse verpleegkundige Joy Milne, die bekend stond om haar gevoelige reukorgaan en die bij één van de proefpersonen Parkinson geroken had. Het was een foutieve uitslag, want ten tijde van dit experiment was bij deze persoon geen Parkinson vastgesteld. Een jaar later echter, bleek deze proefpersoon wél Parkinson te hebben ontwikkeld.”
 
-
-
 **V﻿rouw ruikt emotie, man ruikt vrouw**
 
 Hoe mensen bepaalde ziektes kunnen ruiken, heeft zeer waarschijnlijk te maken met de veranderde bio-chemie, die deze ziektes kunnen veroorzaken. De ontwikkeling van Parkinson bijvoorbeeld, gaat gepaard met een heviger en veranderde aanmaak van talg. Deze uitgescheiden stoffen zijn voor sommigen te ruiken. 
@@ -78,8 +74,6 @@ Mensen ruiken echter ook emoties bij elkaar. Zonder onszelf daarvan bewust te zi
 
 Overigens zijn niet alle mensen goed in het ruiken van emoties. Bij experimenten en onderzoek worden vaak vrouwelijke testpersonen betrokken, omdat deze over het algemeen beter kunnen ruiken. Toen Smeets ging experimenteren met het reukvermogen van mannen, vond zij iets verrassends. “Mannen onderscheiden niet zozeer de emotie, als wel het gender. Zij konden ruiken of het verzamelde zweet van een vrouw was of een man. Dat duidt op een sterk evolutionair belang van reuk.” Zo kon het voor onze oer-voorvaderen wel eens van belang zijn, om van een afstand te kunnen ruiken of een vreemdeling een man of vrouw was. Van een man heb je bijvoorbeeld meer agressie te duchten dan van een vrouw.
 
-
-
 **Anosmie, oftewel niet kunnen ruiken**
 
 Hoewel een heleboel aspecten van ons reukvermogen nog onduidelijk zijn, is er inmiddels toch een hoop kennis dat we wél al zeker weten. Zo blijkt dat niet alle mensen over hetzelfde reukvermogen beschikken, maar dat we onszelf kunnen trainen om beter te ruiken. Het is dan wel de vraag of het wel echt je reukorgaan zal zijn, dat beter zou gaan presteren. Echt beter ruiken ga je waarschijnlijk niet doen, je moet het immers stellen met de receptoren, die je bent toebedeeld. Maar je onderscheidend en benoemend vermogen van geur, zou wél toenemen. Je zou dus eigenlijk je hersenen trainen. 
@@ -87,8 +81,6 @@ Hoewel een heleboel aspecten van ons reukvermogen nog onduidelijk zijn, is er in
 !['Stop to smell the flowers' luidt een Engels gezegde over geluk. Volgens aromachologie dragen fijne geuren zeker bij aan ons welzijn. ](/img/geur-kind-ruiken.jpg "Pixabay.com")
 
 Ruiken is dan ook sterk persoonsgebonden. Niet iedereen heeft precies dezelfde hoeveelheid receptoren van een bepaalde soort. Het kan zijn dat je specifieke receptoren ontbeert en dan kun je bepaalde geuren niet ruiken. In dat geval heb je selectieve anosmie, oftewel het reuk-equivalent van kleurenblind.  Geur vertelt mensen dus precies wat zij eten, of er kilometers verderop vers water en voedsel te vinden is en of we wat te duchten hebben van vreemdelingen. We worden ook blij of juist verdrietig van elkaar. Bij de moderne mens gebeurt dit alles, vrijwel zonder dat we ons er bewust van zijn. De vraag is welke invloed geur vandaag de dag nog steeds op ons heeft. Bepaalt geur hoe we ons gedragen naar anderen?
-
-
 
 **Geur bepaalt of we agressief worden of juist rustig**
 
@@ -98,13 +90,9 @@ Wetenschappelijk onderzoek zegt van wel. Zo blijken mannen het verschil te kunne
 
 Ook de moderne mens heeft dus nog voldoende te maken met geur en steeds vaker wordt gekeken of we geur kunnen inzetten om ons welzijn te verhogen. Omdat geur snel herinneringen oproept, zouden dementiepatiënten bijvoorbeeld gebaat zijn met geur therapie. De mogelijkheden worden echter beperkt, doordat vooral bij Alzheimerpatiënten het reukorgaan niet meer goed werkt. Zij ruiken dus vaak veel minder goed, waardoor bijvoorbeeld muziek een betere prikkel zou kunnen leveren aan het brein.
 
-
-
 **Geur als therapiemiddel tegen depressie**
 
 Toch ziet Smeets wel toepassingen op het gebied van welzijn. “Of geur therapeutisch kan worden ingezet: daar zeg ik onomwonden 'ja' op. Deze tak van wetenschap noemen we aromachologie. Onderzoek laat zien dat aromachologie werkt en een psychisch mechanisme in werking zet, zonder farmaceutische behandeling. En dat mechanisme, daar gaat het om. Als je je slecht voelt en je kunt je weer wat blijer voelen, door een aroma uit de natuur: wat is daar dan op tegen?”
-
-
 
 *Gepubliceerd op 1 maart 2024*
 
