@@ -25,8 +25,6 @@ tags:
 
 Het aantal ernstig gewonden en doden is de afgelopen paar jaar behoorlijk gestegen. Het dodental liep op van 661 in 2019 tot 745 in 2022. Het aantal ernstig gewonden steeg in die jaren van 6900 tot maar liefst 8300. 
 
-
-
 **Het misverstand van de borrel in het verkeer**
 
 ScienceGeek.nl zocht uit, wat er nou écht aan de hand is met de verhuftering in het verkeer. Tot onze verrassing bleek dat niet de alcohol te zijn. Het euvel zit in drugs. Toch blijft de media maar bezig met die borrel te veel. Hoe komt dat toch en is dat erg? Maakt de aard van de beïnvloedende stof iets uit, als je achter het stuur kruipt? Nou en of, dat wat uitmaakt. 
@@ -37,19 +35,9 @@ Eerst maar eens kijken, hoe dit - inmiddels geaccepteerde misverstand-  de were
 
 **Cijfers drugsgebruik verkeer versus alcoholgebruik verkeer**
 
-Die cijfers vroegen we op en zetten we even voor je op een rijtje:
+Zoals we zien, is het de eerste categorie, het rijden onder invloed van verdovende middelen, met maar liefst 300% gestegen. Alcoholgebruik is met 10% gestegen. De gigantische toename van drugsgebruik in de auto, zien we tevens gepaard gaan met andere overtredingen. De grootste klapper is voor het weigeren van medewerking aan een blaastest of bloedonderzoek. Dat gebeurde volgens de politie in 2019 650 keer, maar vond in 2022 maar liefst 2.105 keer plaats.
 
-|                                                                  |        |        |        |        |        |
-| ---------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ |
-| Misdrijven (stuur)                                               | 2018   | 2019   | 2020   | 2021   | 2022   |
-| D20 RIJDEN ONDER INVLOED DRUGS/GENEESMID AL DAN NIET ICM ALCOHOL | 5.462  | 9.941  | 11.994 | 13.145 | 16.236 |
-| D21 RIJDEN ONDER INVLOED (UITSLUITEND ALCOHOL)                   | 22.546 | 21.964 | 16.552 | 17.254 | 25.086 |
-| D23 WEIGEREN ADEMANALYSE                                         | 419    | 408    | 377    | 462    | 736    |
-| D24 WEIGEREN BLOEDPROEF                                          | 121    | 234    | 365    | 745    | 1.356  |
-
- 
-
-Zoals we zien, is het de eerste categorie, het rijden onder invloed van verdovende middelen, met maar liefst 300% gestegen. Alcoholgebruik is met 10% gestegen. De gigantische toename van drugsgebruik in de auto, zien we tevens gepaard gaan met andere overtredingen. De grootste klapper is voor het weigeren van medewerking aan een blaastest of bloedonderzoek. Dat gebeurde volgens de politie in 2019 650 keer, maar vond in 2022 maar liefst 2.105 keer plaats
+![In 5 jaar tijd is het aantal mensen dat is aangehouden voor rijden onder invloed van drugs (al dan niet in combinatie met alcohol) verdrievoudigd.](/img/verkeer-staat.jpg "Woordvoering Korpsleiding Politie")
 
 Maar dan zijn we er nog niet. Ook een aantal andere verkeersdelicten nam de laatste jaren een grote vlucht. Zo steeg het rijden tijdens een ontzegging besturen, waarbij iemand geen motorvoertuig mag besturen, van 4.995 in 2019 naar 8.795 in 2022. Het aantal overtredingen van een rijverbod, waarbij ook bijvoorbeeld fietsen is verboden, steeg van 105 naar 325. 
 
@@ -69,8 +57,6 @@ De hogere cijfers komen dus niet voort uit een hogere pakkans. Politie woordvoer
 
 De aanpak om drugs in het verkeer te voorkomen, is dan ook heel anders dan het tegen gaan van alcoholgebruik. Met de fuik en de blaastest bereik je niets, want daarmee pak je alleen de drinkers. En daar zit niet de gigantische toename in. Bovendien heeft de politie verdergaande maatregelen nodig om drugsgebruik aan te tonen en loopt daarmee tegen juridische en pragmatische problemen op. “Voordat een drugstest afgenomen wordt, moet er wel sprake zijn van een aantal indicatoren. Bestuurders praten bijvoorbeeld onsamenhangend, hebben vergrootte pupillen, slingeren op de weg enz enz.” Er moet dus wel wat aan de hand zijn, voordat de politie je een bloedproef mag afnemen. En dan hebben we het nog niet over lachgas, dat nog moeilijker te detecteren valt dan andere drugs.
 
-
-
 **Algemeen drugsgebruik in Nederland volgens Trimbos stabiel**
 
 Een andere verklaring kan zijn, dat er meer drugs in het algemeen en dus ook in de auto worden gebruikt. Maar ook die verklaring kan het raam uit. Het Trimbos-instituut echter, constateert dat er niet meer of vaker drugs wordt gebruikt in Nederland. Na een lichte stijging tijdens de pandemie-jaren, stelde het instituut onlangs vast dat het drugsgebruik in de Nederlandse samenleving weer is gedaald. 
@@ -78,8 +64,6 @@ Een andere verklaring kan zijn, dat er meer drugs in het algemeen en dus ook in 
 ![Een jointje roken en rijden? Levensgevaarlijk. Toch kruipen steeds meer Nederlanders met drugs op achter het stuur.](/img/verkeer-3-joint-pexels-kindel-media-7667932.jpg "Pexels: Kindel Media 7667932")
 
 Dit wijst er op, dat drugsgebruikers vaker de auto pakken. Volgens Veilig Verkeer Nederland moet de verklaring gezocht worden in een veranderde mentaliteit. “Het gaat gewoon om de verruwing en verhuftering die je overal in onze maatschappij aantreft”, zegt woordvoerder Rob Stomphorst. “Dit komt dus ook in het verkeer tot uiting. Dat is niet de meerderheid van de weggebruikers. Die meerderheid begrijpt het en houdt zich aan de regels, gelukkig. Het gaat om een betrekkelijk kleine groep mensen die verantwoordelijk is voor een groot deel van de ernstige verkeersongelukken.”
-
-
 
 **Betrekkelijk kleine groep mensen verhuftert in verkeer**
 
@@ -90,8 +74,6 @@ Ook verkeerspsycholoog dr. Matthijs Dicke-Ogenia trekt aan de bel. “Asociaal g
 Hij sluit niet uit dat de pandemie-jaren ons gedrag in het verkeer verergerd kunnen hebben. “Er speelde al een toenemende individualisering van de maatschappij. Een vergrote focus op hetgeen je zelf wilt doen, in plaats van wat je mag doen. Maar mogelijk is er ook in het verkeer een toenemende boosheid tegen autoriteiten ontstaan. Een houding van ‘Bekijk het allemaal maar met je regels, dat kan ik zelf wel beoordelen.’ En dat je dat niet altijd kunt en dat die regels er zijn voor een reden, dat blijkt dan pas als er weer een slachtoffer is gevallen.” 
 
 Dicke-Ogenia denkt dat een gebrek aan andere uitlaatkleppen voor spanning ook een rol kan hebben gespeeld. “Zeker tijdens de pandemie-jaren waren er weinig andere gelegenheden om eens wild te doen. De vraag is, of ook dat geleid heeft tot het zoeken van die spanning op de weg.
-
-
 
 **Sterke groei Nederlands wagenpark**
 
@@ -117,17 +99,11 @@ Het verhogen van de subjectieve pakkans is dus onlosmakelijk verbonden met de ob
 
 Wellicht kan de auto-techniek ook bijdragen aan oplossingen. Nu al is het mogelijk dat de auto de bestuurder een signaal geeft als deze een ongewenste verandering waarneemt in bijvoorbeeld stuurgedrag. Maakt de bestuurder te veel of juist te langzame bewegingen, dan grijpt het systeem in met een geluid of een beeld op het dashboard. Ook is het mogelijk dat systemen de GPS-ontvangst van een mobiel verstoren zodra de auto in beweging is, zodat die niet gebruikt kan worden tijdens het rijden. De auto als babysitter dus.
 
-
-
 **Verhoging van normen en waarden in maatschappij moet leiden tot terugkeer normen en waarden in verkeer: van rijvaardig naar rijWaardig**
 
 Verkeerspsycholoog  Dicke-Ogenia oppert ook om meer en andere voorwaarden aan het rijbewijs te verbinden. “Niet alleen de kennis en de vaardigheden van een bestuurder zijn van belang. Ook de persoonlijkheid bepaalt het gedrag. De rijwaardigheid naast de rijvaardigheid dus. Daarom zijn er al gespecialiseerde rijscholen, die toekomstige chauffeurs met bijvoorbeeld ADHD extra begeleiden in valkuilen, zoals het omgaan met impulsiviteit in het verkeer. Het is een overweging waard of een persoonlijkheidstest ook deel kan uitmaken van het examen, zodat er aanvullende vaardigheden kunnen worden opgedaan.” 
 
-
-
 Maar bovenal staat het gedrag in het verkeer niet los van de rest van de samenleving. En daar is dan ook de grootste winst te behalen, denkt Dicke-Ogenia. “Een algehele onthuftering, ook elders in de maatschappij. Geef kinderen en jonge mensen basiswaarden mee én het besef dat het eigenbelang niet altijd voorop kan staan. Dan nemen ze dat gezonde verantwoordelijkheidsgevoel ook mee het verkeer in.
-
-
 
 *Publicatiedatum: 11 maart 2024*
 
