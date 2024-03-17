@@ -26,19 +26,15 @@ tags:
     onderzoek, drone, luchtmacht, reaper, marine, landmacht, defensie, wapen
     wedloop, sonar, radar
 ---
-**N﻿adat de Palestijnse Hamas-beweging duizenden raketten op Israël afvuurde en fysiek soldaten stuurde, heeft Israël de oorlog afgekondigd. En waar Hamas de bezieling heeft, heeft Israël de technologie. En dát is waarmee tegenwoordig oorlogen gewonnen worden.**
+**Oorlogen worden tegenwoordig in toenemende mate gevoerd en gewonnen met technologie. Vooral autonome wapens staan daarbij hoog op het verlanglijstje. Bijna maandelijks wordt er dan ook wel een wetenschappelijke vinding ergens ter wereld gedaan, die autonome wapens, nóg autonomer maken. Heeft de mens nog wel iets te zeggen over die wapens?** 
 
-I﻿s het een statement of denkt Hamas zelf dat er kans op winst is? Israël is op het gebied van militaire tech zeker niet te onderschatten. En hoewel vele landen tegenwoordig miljoenen pompen in de R&D afdeling van het leger,  zet Israël zelfs nog wat stapjes verder. Zo wordt al jaren aangenomen dat het land over minstens 100 kernwapens beschikt, hoewel Israël dit noch bevestigt noch ontkent.
+E﻿en goed voorbeeld daarvan is de Israëlische zogenaamde Harpy drone. Deze zoekt zelfstandig naar radarsystemen en gaat over tot uitschakeling. Dat klinkt vrij onschuldig en onschadelijk, maar het zijn wel dergelijke systemen, waardoor Israël mankrachten kan sparen. 
 
-M﻿instens zo belangrijk is de moderne technologie waarmee militaire systemen zijn uitgerust. En hoewel de VS daarmee wellicht koploper zijn, bevindt Israël zich ook op dit gebied niet bepaald in de achterhoede. Sterker nog: het land ontwikkelt de tech met dusdanig gemak, dat het zich kan veroorloven de tech uit te leveren en te verkopen aan andere landen. 
+**V﻿ooral Amerika investeert in techniek en autonome wapens**
 
-**I﻿sraël: voorop in kernwapens en autonome wapens**
+O﻿verigens is Israël niet de enige mogendheid die flink investeert in technologische wapenvoering. De wetenschap ontwikkelt in zeer hoog tempo autonome systemen. Maandelijks wordt er wel ergens in de wereld een drone of communicatietoestel uitgevonden dat volledig zelfstandig opereert. De Verenigde Staten zijn investeerders in research nummer 1. Het land besteedt zo'n 150 miljard dollar per jaar aan militaire innovatie en research alleen al. Dat is ongeveer het totaalbedrag dat Rusland in 2024 wil besteden aan het gehele militaire apparaat.
 
-E﻿en goed voorbeeld daarvan is de zogenaamde Harpy drone. Deze zoekt zelfstandig naar radarsystemen en gaat over tot uitschakeling. Dat klinkt vrij onschuldig en onschadelijk, maar het zijn wel dergelijke systemen, waardoor Israël mankrachten kan sparen. 
-
-O﻿verigens is Israël niet de enige mogendheid die flink investeert in technologische wapenvoering. De wetenschap ontwikkelt in zeer hoog tempo autonome systemen. Maandelijks wordt er wel ergens in de wereld een drone of communicatietoestel uitgevonden dat volledig zelfstandig opereert. 
-
-De toepassing is steeds vaker militair en de Adviesraad Internationale Vraagstukken heeft de VN inmiddels dan ook aangeraden een verbod op volledig autonome wapens in te stellen. Ze willen dat staten investeren in automatische wapens, waarbij menselijke besluitvorming essentieel blijft. Dat roept de vraag op hoeveel zeggenschap wij mensen überhaupt nog hebben over aanval en verdediging.
+De Adviesraad Internationale Vraagstukken heeft de VN dan ook aangeraden een verbod op volledig autonome wapens in te stellen. Ze willen dat staten investeren in automatische wapens, waarbij menselijke besluitvorming essentieel blijft. Dat roept de vraag op hoeveel zeggenschap wij mensen überhaupt nog hebben over aanval en verdediging.
 
 **Autonome wapens in Nederland?**
 
