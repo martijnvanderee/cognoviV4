@@ -1,0 +1,3 @@
+---
+naam: Heeft Frankrijk kernwapens?
+---
