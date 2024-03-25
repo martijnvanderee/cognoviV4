@@ -1,0 +1,3 @@
+---
+naam: militair budget NAVO
+---
