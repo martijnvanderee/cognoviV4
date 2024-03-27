@@ -38,6 +38,8 @@ Bovendien heeft het bevriezen van 300 miljard aan Russische tegoeden in het West
 
 Poetin heeft 3 belangrijke economische doelen, die elkaar eigenlijk in de weg zitten. Zo moet hij zijn voortdurende oorlog tegen Oekraïne financieren, de levensstandaard van zijn bevolking handhaven en de macro-economische stabiliteit beschermen. Het bereiken van de eerste en tweede doelen vereist hogere uitgaven, wat de inflatie zal aanwakkeren en dus het bereiken van het derde doel zal verhinderen. De financiering van de oorlog leidt dus tot problemen bij zijn twee andere prioriteiten. 
 
+![Een verouderde tram in Sint Petersburg. Poetin had de Russen vernieuwing van infrastructuur en woningen beloofd. Maar voorlopig gaat de poen naar de verwoeste gebieden in Oekraïne.](/img/poetin-geld-2-tram-pexels-artyom-kulakov-2266406.jpg "Pexels: Artyom Kulakov 2266406")
+
 Om maar bij Poetins eerste doel te beginnen: welke problemen levert het bekostigen van de oorlog op? De oorlog en de binnenlandse veiligheid kost Poetin in 2024 8% van het bbp. En dat gaat ten koste van een aantal zaken, waarvan de Russen niet blij worden. 
 
 **Meer geld naar verwoest Oekraïne en leger, betekent minder geld voor Russen en meer ontevredenheid.**
@@ -51,6 +53,8 @@ En daar houden de economische gevolgen van de oorlogsindustrie niet op. Lekker d
 **Tekorten opvangen met meer import? Rente is al torenhoog en roebel al zeer slapjes!**
 
 Poetins oorlogsindustrie zit aan het maximum: harder draaien is gewoon niet mogelijk. Dat betekent dat een toenemende vraag van oorlogs- en andere benodigdheden waarschijnlijk leidt tot prijsstijgingen. Meer import en prijsstijgingen leiden tot inflatie en daar hebben we Poetins derde jongleerbal: economische stabiliteit. De inflatie in Rusland is al meer dan 7% gestegen, waardoor de Russische Centrale Bank de rentetarieven op een whopping 16% moet houden. 
+
+
 
 Je zou zeggen dat men ophoudt met lenen, maar nee: zowel privé als zakelijk blijven de Russen doorlenen. Vermoedelijk omdat ze in de toekomst nóg hogere rentetarieven verwachten. Grote Russische bedrijven als de spoorwegen en AvtoVAZ hebben daarom maar subsidies aangevraagd, maar of Moskou die aanvragen kan honoreren, is discutabel. Het energiebedrijf Rosneft heeft Poetin zelfs gevraagd om de onafhankelijkheid van de centrale bank uit te schakelen. En Rosneft is niet de enige. Menig oligarch heeft Poetin al verzocht de regeltjes van de Russische Centrale Bank wat te versoepelen. Tot nu toe heeft Poetin dat geweigerd, hoewel hij zich wel degelijk zorgen maakt over de torenhoge rente. Die vormt namelijk een smet op het imago van de welvaartsstaat Rusland, dat Poetin zo graag uitdraagt. 
 
@@ -66,11 +70,9 @@ De import zal misschien moeilijk te beperken zijn, maar Poetin kan wel de prijss
 
 Gelukkig kan Poetin rekenen op de Oostenrijkse banken die graag blijven investeren in Moskou. De Raiffeisen Bank is zijn grootste mattie en heeft de leningen tijdens de oorlog verhoogd van 20 naar bijna 30 miljard dollar. Onder grote internationale druk, verlaagde Raiffeisen die lening weer naar 25 miljard. Nog steeds een lekker bedrag. Raiffeisen is niet zo maar voor Sinterklaas aan het spelen: de hoge rentes leverden de bank recordwinsten van honderden miljoenen op in Rusland. 
 
-
+![De Oostenrijkse bank Raiffeisen was Poetins beste spaarvarkentje en leende tot voor kort tientallen miljarden aan Rusland. Maar daar steekt de Europese Centrale Bank nu een stokje voor en Raiffeisen moet de knip dichthouden.](/img/poetin-geld-8-bank-pexels-adrien-olichon-18378548.jpg "Pexels: Adrien Olichon 18378548")
 
 Oostenrijk had geen probleem hiermee, want het land zit niet bij de NAVO en bleef roepen dat de financiële steun van Oostenrijkse bedrijven moest kunnen. En daar zou het ook gelijk in hebben gehad, ware het niet dat Oostenrijk wél bij de Europese Unie is aangesloten. Dit betekent dat de banken van Oostenrijk rekenschap hebben af te leggen aan de Europese Centrale Bank en laat die nou helemaal klaar zijn met de Oostenrijkse vrijgevigheid. Na Raiffeisen en consorten voor de zoveelste keer op de strijdigheid met de EU sancties gewezen te hebben, was de maat onlangs vol voor ECB: als de Oostenrijkse banken zich niet zouden terugtrekken uit Moskou, zouden er gigantische boetes komen. Raiffeisen haalde bakzeil en heeft inmiddels aangekondigd de Russische betrekkingen af te ronden. Hoeveel geld Poetin in totaal kreeg van Oostenrijkse banken is niet exact bekend, maar dat hij inmiddels flink begint te balen van de EU, moge duidelijk zijn.
-
-
 
 **China knipt financiële navelstreng door**
 
@@ -80,8 +82,6 @@ Dat blijkt ook uit de geldstromen: China heeft over de laatste 20 jaar 170 milja
 
 Rusland zit dus in China’s zak met die uitstaande leningen. En China in Ruslands zak als het gaat om leveringen van gas en olie. Ze kunnen niet goed van elkaar af. Of toch wel? In juni 2023 kwam China met het zogenaamde Road and Belt Initiative, waarmee het de investeringen wereldwijd wil verschuiven. Lange tijd waren Rusland, Venezuela en Pakistan de top ontvangers van Chinese investeringen, maar China heeft besloten zich nóg meer te focussen op de allerarmste landen in de wereld, met name in Afrika. China hoopt daarmee zoveel mogelijk landen uit de Amerikaanse en onder de Chinese invloedssfeer te krijgen. Van geld pompen in Rusland wordt China internationaal impopulair en levert China ook te weinig op. Rusland kreeg dit jaar dan ook nog maar 10 miljard aan leningen van China.
 
-
-
 **Instorting Russische economie?**
 
 De oorlog zaagt steeds meer aan belangrijke economische stoelpoten zoals de begrotingsregel, de vrijheid van kapitaalstromen en de onafhankelijkheid van de centrale bank. Poetin zal de stoelpoten moeten verstevigen of nieuw stutten moeten aanbrengen onder het zitvlak.
@@ -89,8 +89,6 @@ De oorlog zaagt steeds meer aan belangrijke economische stoelpoten zoals de begr
 ![De overspannen industrie heeft meer mensen nodig, met meer vakkennis. Maar waar gaat Poetin die vandaag halen?](/img/poetin-geld-7-vaklui.jpg "Pixabay.com")
 
 De meeste schade aan de Russische economie is onherstelbaar zonder een einde te maken aan de oorlog en het sanctieregime. De basisproblemen (te veel vertrouwen op olie-inkomsten, het niet kunnen overleven zonder buitenlandse import en de slechte demografische trends) zullen niet zomaar verdwijnen. Het kost veel tijd en moeite om deze problemen op te lossen door belangrijke veranderingen aan te brengen die investeringen aantrekken. Ook zullen werknemers meer kennis en vaardigheden moeten kunnen opdoen. Maar de regering van Rusland, geleid door Poetin, lijkt hier niet toe in staat te zijn of er geen zin in te hebben vanwege hun sterke focus op politieke controle.
-
-
 
 *Gepubliceerd op 27 maart 2024*
 
