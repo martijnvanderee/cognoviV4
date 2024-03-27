@@ -54,7 +54,7 @@ En daar houden de economische gevolgen van de oorlogsindustrie niet op. Lekker d
 
 Poetins oorlogsindustrie zit aan het maximum: harder draaien is gewoon niet mogelijk. Dat betekent dat een toenemende vraag van oorlogs- en andere benodigdheden waarschijnlijk leidt tot prijsstijgingen. Meer import en prijsstijgingen leiden tot inflatie en daar hebben we Poetins derde jongleerbal: economische stabiliteit. De inflatie in Rusland is al meer dan 7% gestegen, waardoor de Russische Centrale Bank de rentetarieven op een whopping 16% moet houden. 
 
-
+![De bescherming van de roebel is losgelaten en flubbert nu zo'n beetje tussen de 50 en 100 roebel per dollar. De rente bedraagt 16%, maar toch blijven man en muis lenen alsof het een lieve lust is.](/img/poetin-geld-roebels-pexels-polina-tankilevitch-6927366.jpg "Pexels: Polina Tankilevitch 6927366")
 
 Je zou zeggen dat men ophoudt met lenen, maar nee: zowel privé als zakelijk blijven de Russen doorlenen. Vermoedelijk omdat ze in de toekomst nóg hogere rentetarieven verwachten. Grote Russische bedrijven als de spoorwegen en AvtoVAZ hebben daarom maar subsidies aangevraagd, maar of Moskou die aanvragen kan honoreren, is discutabel. Het energiebedrijf Rosneft heeft Poetin zelfs gevraagd om de onafhankelijkheid van de centrale bank uit te schakelen. En Rosneft is niet de enige. Menig oligarch heeft Poetin al verzocht de regeltjes van de Russische Centrale Bank wat te versoepelen. Tot nu toe heeft Poetin dat geweigerd, hoewel hij zich wel degelijk zorgen maakt over de torenhoge rente. Die vormt namelijk een smet op het imago van de welvaartsstaat Rusland, dat Poetin zo graag uitdraagt. 
 
