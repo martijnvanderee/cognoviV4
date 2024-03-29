@@ -75,7 +75,7 @@ De steun is niet alleen pragmatisch hard nodig, maar heeft ook een psychologisch
 
 De bondgenoten van Oekraïne doen minder stiekem over wie ze steunen. Privé laten ze zich horen in demonstraties en in de media verklaren ze uitgebreid over wat ze Oekraïne schenken. Daardoor trekken Ruslands beste potentiële matties China en India zich steeds verder terug, vooral economisch. (In deel 2 over geldstromen lees je ***[hier ](/poetins-kopzorgen-geld)***meer over.) Dat is onfortuinlijk voor Moskou, want China en India zijn eigenlijk de enige grootmachten die een verschil zouden kunnen uitmaken. Beide landen investeerden de afgelopen jaren hevig in defensie en zijn razendsnel de militaire en economische ladder opgeklommen.
 
-![Militaire macht per 2021. *True Value Rating (module of macht te berekenen op basis van capaciteit etc). Rusland dwergt Oekraïne in materiaal, maar wordt op zijn beurt gedwergd door de NAVO. China en India gaan Rusland niet helpen.](/img/poetin-overzicht-legerafdelingen.jpg "ScienceGeek.nl")
+![Militaire macht per 2022. *True Value Rating (module of macht te berekenen op basis van capaciteit etc). Rusland dwergt Oekraïne in materiaal, maar wordt op zijn beurt gedwergd door de NAVO. China en India gaan Rusland niet helpen.](/img/poetin-overzicht-legerafdelingen.jpg "ScienceGeek.nl")
 
 Zonder China en India kan Rusland niet zoveel uitrichten tegen de EU, de NAVO en de Verenigde Staten. De landen die zich verenigd hebben in de NAVO, laten een absolute militaire dominantie zien. Vele kleintjes maken dus wel degelijk één grote. Landen als Turkije en Frankrijk zijn steeds belangrijker elementen binnen de NAVO, naast de Verenigde Staten.
 
