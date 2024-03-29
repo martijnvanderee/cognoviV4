@@ -20,7 +20,7 @@ tags:
   - Militaire bestedingen Rusland, NAVO, China en Verenigde Staten
   - Militair budget Rusland
 ---
-**Hoe sterk is Rusland en hoeveel budget, kernwapens, manschappen én bondgenoten heeft Rusland tot zijn beschikking? ScienceGeek.nl zocht het voor je uit en zette alle relevante cijfers over de militaire status van Rusland op een rijtje. En vergelijkt die data tevens met Oekraïne en andere relevante landen in het geschil.**
+**Hoe sterk is Rusland en hoeveel budget heeft Rusland tot zijn beschikking? ScienceGeek.nl zocht het voor je uit en bekeek zoveel mogelijk facetten van Ruslands economie. Hoe lang houdt Poetin de oorlog met Oekraïne nog vol?**
 
 Deel 2: Ruslands geld (deel 1: Ruslands leger, lees je ***[hier](/poetins-kopzorgen-militair)***)
 
