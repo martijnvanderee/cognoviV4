@@ -26,8 +26,6 @@ tags:
 
 Deel 3: Ruslands vriendjes (Deel 1 over Poetins leger, lees je ***[hier](/poetins-kopzorgen-militair)***. Deel 2 over de Poetins economie, lees je ***[hier](/poetins-kopzorgen-geld)***)
 
-
-
 De landen die Oekraïne militaire hulp hebben gestuurd op welke wijze dan ook zijn: Taiwan, Marokko, Australië, Nieuw-Zeeland, Pakistan, Groot-Brittannië, Canada, Verenigde Staten, Colombia, Cambodja, Thailand, Zuid-Korea, Frans Guinea, Soedan, Azerbaijan, Jordanie, Israël, IJsland, Noord- Macedonië, Turkije, Noorwegen, Servië en de 27 landen van de Europese Unie.
 
 **Oekraïne heeft openlijk de meeste en machtigste vriendjes. Rusland moet het vooral hebben van ‘neutrale staten’.**
@@ -45,8 +43,6 @@ Munitie, mortieren en zware vuurwapens van Iraanse makelij blijven herhaaldelijk
 ![Iran zegt Rusland te steunen. Toch blijft Iraanse munitie opduiken in Oekraïense handen. Volgens Iran betreft het gestolen waar. Maar hoe blij is Poetin met die verklaring?](/img/poetin-vriendjes-1-munittie.jpg "Pixabay.com")
 
 Ook India en China kunnen we niet zomaar aan Russische zijde scharen. Beide landen hebben Oekraïne inmiddels vrij ruim van humanitaire hulp voorzien. Dat kan Poetin niet lekker hebben gezeten. Dat is toch alsof je je vijand een klap op de neus geeft en je beste vriendje rent naar hem toe met pleisters en een beter-maak-kusje.
-
-
 
 **Positie van India ten opzichte van Rusland: van beide walletjes eten?**
 
@@ -71,11 +67,9 @@ Dus veel meer dan kuchend een 12 puntenplan aan komen dragen ter beëindiging va
 
 Moskou’s grootste probleem is niet Oekraïne zelf, maar de steun die het krijgt. Het land begon met vrijwel niets, maar kreeg uit alle hoeken humanitaire, financiële én militaire steun. En dat zijn niet alleen overheden. Ook de bedrijvensector laat zich horen. De laatste cijfers uit 2022 laten een lijst van meer dan 100 internationals zien, die Rusland gesanctioneerd hebben en in veel gevallen actief hebben voorzien van producten of diensten. Daartoe behoren 7 grote techbedrijven en wapenfabrikanten als LMG Tactical, Space X, Amazon, Vista Outdoor, Kel-Tec en Kimber Arms, die massaal digitale diensten of wapenmateriaal hebben geschonken aan Oekraïne. Zelfs tabaksgigant Philip Morris heeft miljoenen sigaretten gedoneerd. (Al moeten we betwijfelen of dit wel echt onder de noemer ‘hulp’ valt te scharen.) 
 
-![Militair overzicht 1.1.2024 *Beschikbaar, niet noodzakelijk reeds actief. **Ontmanteld of in opslag. Misschien kan Rusland Oekraïne aan. Maar diens grote vriendje de NAVO wordt een groot probleem.](/img/poetins-overzicht-geld-en-kernwapens.jpg "ScienceGeek.nl")
+![Militair overzicht 2023 *Beschikbaar, niet noodzakelijk reeds actief. **Ontmanteld of in opslag. Misschien kan Rusland Oekraïne aan. Maar diens grote vriendje de NAVO wordt een groot probleem.](/img/poetins-overzicht-geld-en-kernwapens.jpg "ScienceGeek.nl")
 
 De steun is niet alleen pragmatisch hard nodig, maar heeft ook een psychologische impact op de partijen Rusland en Oekraïne. Je voelt je nu eenmaal sterker als je weet dat je meer vriendjes en grotere vriendjes hebt dan je tegenstander. En vice versa uiteraard.
-
-
 
 **De VS en de EU, aka NAVO**
 
@@ -84,8 +78,6 @@ De bondgenoten van Oekraïne doen minder stiekem over wie ze steunen. Privé lat
 ![Militaire macht per 2021. *True Value Rating (module of macht te berekenen op basis van capaciteit etc). Rusland dwergt Oekraïne in materiaal, maar wordt op zijn beurt gedwergd door de NAVO. China en India gaan Rusland niet helpen.](/img/poetin-overzicht-legerafdelingen.jpg "ScienceGeek.nl")
 
 Zonder China en India kan Rusland niet zoveel uitrichten tegen de EU, de NAVO en de Verenigde Staten. De landen die zich verenigd hebben in de NAVO, laten een absolute militaire dominantie zien. Vele kleintjes maken dus wel degelijk één grote. Landen als Turkije en Frankrijk zijn steeds belangrijker elementen binnen de NAVO, naast de Verenigde Staten.
-
- 
 
 **Operation Dragon: 90.000 NAVO man maken zich klaar en 30.000 gaan naar Oekraïne.**
 
