@@ -34,7 +34,7 @@ tags:
 ---
 **Hoe sterk is Rusland en hoeveel budget, kernwapens, manschappen én bondgenoten heeft Rusland tot zijn beschikking? ScienceGeek.nl zocht het voor je uit en zette alle relevante cijfers over de militaire status van Rusland op een rijtje. En vergelijkt de data tevens met Oekraïne en andere relevante landen in het geschil.**
 
-Deel 1: Ruslands leger 
+Deel 1: Ruslands leger. (Deel 2 over Ruslands economie lees je ***[hier](/poetins-kopzorgen-geld)*** en deel 3 over Ruslands bondgenoten lees je ***[hier](/poetins-kopzorgen-bondgenoten)***.)
 
 Rusland is een groot land, maar tamelijk dunbevolkt. De bevolking bedraagt ‘slechts’ 144 miljoen mensen. (Dat is ongeveer net zo veel als Duitsland en Frankrijk samen.) Die bevolking levert Rusland een leger op van 1,1 miljoen strijdkrachten. Ter vergelijking: Oekraïne loopt niet eens zo ver achter met 0,9 miljoen strijdkrachten. China heeft er 2 miljoen, Europa en Canada beschikken samen over 1,9 miljoen militairen en het totale aantal strijdkrachten van de NAVO bedraagt 3,3 miljoen mensen. (Reservisten niet meegeteld). In 2022 bedroeg het aantal actieve Russische strijdkrachten 900.000 en telde Oekraïne er 361.000.
 
@@ -68,7 +68,7 @@ In het overzicht van de militaire bestedingen per land, zien we een aantal opval
 
 ![De marine van de Verenigde Staten is de machtigste ter wereld. En dat mag ook wel voor dat geld.](/img/poetins-kopzorgen-3-marine.jpg "Pixabay.com")
 
-Alleen al aan wetenschappelijke militaire innovaties geven de Verenigde Staten meer uit in een jaar, dan Rusland aan de gehele defensie in oorlogstijd, te weten 140 miljard. Volgens Christ Klep, internationaal militair expert hebben de VS een eenvoudige strategie: ‘Als ergens ter wereld een wetenschappelijke vinding ingezet kan worden voor militair gebruik, moet je erop rekenen dat de VS dat ook zullen doen.’ (Het volledige artikel over wetenschappelijke innovaties op militair gebied, kun je ***[hier ](/hoe-belangrijk-zijn-autonome-wapens-in-de-oorlog-tussen-rusland-en-oekraïne)***verder lezen.)
+Alleen al aan wetenschappelijke militaire innovaties geven de Verenigde Staten meer uit in een jaar, dan Rusland aan de gehele defensie in oorlogstijd, te weten 140 miljard. Volgens Christ Klep, internationaal militair expert hebben de VS een eenvoudige strategie: ‘Als ergens ter wereld een wetenschappelijke vinding ingezet kan worden voor militair gebruik, moet je erop rekenen dat de VS dat ook zullen doen.’ (Het volledige artikel over wetenschappelijke innovaties op militair gebied, kun je ***[hier](/hoe-belangrijk-zijn-autonome-wapens-in-de-oorlog-tussen-rusland-en-oekraïne)*** verder lezen.)
 
 **VS investeert meer in militaire wetenschap alleen al, dan Rusland in totale leger**
 
@@ -96,9 +96,7 @@ Slechts het aantal materialen zegt echter nog niet alles over de kracht van een 
 
 Maar als het aan Moskou ligt, gaat dat allemaal veranderen. Rusland wil niet alleen meer, maar vooral modernere wapens. Het heeft in het nieuwe State Armament Programma 2024-2033 in ieder geval aangekondigd vooral te gaan voor de robotische- en controlesystemen gebaseerd op AI. Ook precisiewapens (hypersonische wapens) wil Moskou vaker bemachtigen. 
 
-Daarvoor heeft Rusland geld nodig, veel geld. En daar stuit Rusland op het volgende probleem: vooralsnog zit Poetin er warmpjes bij in 2024 en naar alle waarschijnlijkheid ook nog wel in 2025. Maar of Moskou de oorlog nog veel langer zal kunnen betalen, is de vraag.
-
-***Over Ruslands economie in de oorlogstijd en de geldstromen van en naar Rusland, gaat deel 2 van onze serie Poetins Kopzorgen.***
+Daarvoor heeft Rusland geld nodig, veel geld. En daar stuit Rusland op het volgende probleem: vooralsnog zit Poetin er warmpjes bij in 2024 en naar alle waarschijnlijkheid ook nog wel in 2025. Maar of Moskou de oorlog nog veel langer zal kunnen betalen, is de vraag. (Waarop al economen al heel wat antwoorden hebben in deel 2 van Poetins Kopzorgen over Ruslands economie: ***[hier](/poetins-kopzorgen-geld)***.)
 
 *Gepubliceerd op 25 maart 2024*
 
