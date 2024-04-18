@@ -3,7 +3,7 @@ templateKey: post.template
 title: Universele griepprik zonder mRNA? Welja!
 Subtitle: Vaccin binnenkort ook voor mRNA angsthazen, die toch van griep afwillen.
 date: 2024-04-18T11:11:54.447Z
-headerPhoto: map-image-img-griepprik-1-header-jpg-bron-pixabay-com-onderschrift-griepprik-1-header
+headerPhoto: map-image-img-griepprik-4-neus-snuiten-jpg-bron-pixabay-com-onderschrift-griepprik-4-neus-snuiten
 onderwerp: nature
 auteur: Monique Siemsen
 tags:
@@ -27,7 +27,7 @@ Als we het hebben over een universeel vaccin, bedoelen wetenschappers veelal een
 
 Dat een universele prik niet afhankelijk is van een correcte voorspelling van een aankomende griepgolf verhoogt de effectiviteit, want een 100% correcte voorspelling is lastig. De huidige griepprik verlaagt de kans op infectie met 30% en de kans op ziekenhuisopname met 40%. Van de 6 miljoen Nederlanders die worden uitgenodigd de griepprik te nemen, geeft slechts de helft gehoor. Onderzoekers hopen dat de hogere effectiviteit en de langere bescherming van een universeel vaccin meer kwetsbaren zal motiveren de griepprik te halen.
 
-![Je griepprik gehaald en tóch ziek geworden: dat kan. Er hoeft maar 1 virusje aan te waaien, dat niét voorspeld is en meegenomen in de cocktail en je bent alweer het haasje.](/img/griepprik-4-neus-snuiten.jpg "Pixabay.com")
+![Een griepprik gehaald en tóch ziek geworden: dat kan. Er hoeft maar 1 virusje aan te waaien, dat niét voorspeld is en meegenomen in de cocktail en je bent alweer het haasje.](/img/griepprik-1-header.jpg "Pixabay.com")
 
 De race naar de universele griepprik gaat razendsnel en verschillende prototypes bevinden zich in vergevorderde testfases. De mRNA varianten echter, stuiten nogal op wantrouwen. Is dat terecht en zo ja, kan zo’n universele prik ook zonder mRNA worden ontwikkeld? Om met de laatste vraag te beginnen: de ontwikkeling van zo’n universele prik kan ook zonder mRNA. Nieuw kandidaat-vaccin H1ssE  bijvoorbeeld is ondertussen bezig met de 2e testfase. Vorig jaar rondde deze kandidaat de eerste testfase af met positieve resultaten. Het is een vrij ‘ouderwets’ vaccin, gemaakt van gestabiliseerde viruseiwitten, ook wel hemagglutininen genoemd, die de immuunrespons van het lichaam activeren. 
 
@@ -38,8 +38,6 @@ In de klinische fase kregen 53 mensen een dosis toegediend. Van hen kregen er 35
 ![Daar heb je de boosdoener: een virion op zoek naar een gastheer, waar hij zich aan kan verbinden. Als dat lukt, neemt de virion de gastheercel over met zijn eigen DNA. ](/img/griepprik-3-virion-hecht-zich.jpg "Pixabay.com")
 
 Het is ieder jaar weer puzzelen om de beste griepprik te vinden. Dat komt omdat griepvarianten nooit stilzitten, en het dominante virus elke keer weer net iets anders is. Een universeel vaccin tegen griep staat daarom hoog op het wetenschappelijke verlanglijstje, omdat de griep wereldwijd nog steeds veel levens kost. Ieder jaar worden er tussen de 13 en 100 miljoen mensen ziek, van wie tussen de 3 en 5 miljoen zeer ernstig. Hiervan overlijden tussen de 300.000 en 500.000 mensen. 
-
-
 
 **mRNA en niet-mRNA kandidaat-vaccins beiden nog in de race**
 
@@ -73,8 +71,6 @@ Of we daadwerkelijk ziek worden van een virus, hangt af van vele factoren. De aa
 
 Het mRNA in vaccins doet precies wat mRNA altijd doet: de aanmaak van eiwitten aanzwengelen. Dus ook het mRNA in vaccins zorgt ervoor dat je lichaam eiwitten aanmaakt die op de virions lijken. (Met de nadruk op lijken!) Dat heeft tot gevolg dat er een alarmsysteem in je afweer tot stand komt. De cellen, die zorgen voor je afweer, zoals je NK cellen gaan op zoek naar cellen die niet in je lichaam thuis horen en schakelen die uit. (Wist je trouwens dat NK staat voor Natural Killer cellen? Het is het korps Mariniers van je lichaam en ze maken geweldige korte metten met eventuele inbrekers!)
 
-
-
 **Universele griepprik: utopie of realiteit?**
 
 Het vaccin hangt dus eigenlijk een Wanted poster op en waarschuwt al je afweercellen: ‘Let op! Kom je déze gappie tegen in je lijf, schakel ‘m uit!’ Het alarmsysteem aanzetten duurt een paar dagen. Dan hangt de poster goed en duidelijk voor het raam van alle afweercellen en herkennen ze de ‘dader’ mocht deze zich toevallig in je lichaam nestelen. Komt er dus een virion binnen, waarvoor ze eerder gewaarschuwd zijn, dan komen je afweercellen onmiddellijk in actie.
@@ -82,8 +78,6 @@ Het vaccin hangt dus eigenlijk een Wanted poster op en waarschuwt al je afweerce
 ![Eigenlijk weteVirussen zijn nog een groot mysterie. Het is los dwalend erfelijk materiaal in een jasje van eiwitten. Maar hoe het kan dat ze niet in een organisme zitten, maar eigenlijk 'los' leven: dat weten we niet. En ook niet of een virusdeeltje levend of niet-levend materiaal is. We noemen het daarom geen viruscel, maar een virion of deeljte.](/img/griepprik-2-virion-wandelend-dna.png "Pixabay.com")
 
 Maar nu komt de clou: ze moeten natuurlijk wél weten tegen welke cellen ze moeten vechten. Want ieder virus komt in een ander jasje. Lijkt het jasje niet op het jasje op de Wanted-poster, dan herkennen je afweercellen de indringer niet en doen ze nakkes, noppes, nada. Dit was heel lang het probleem met een universele griepprik. Je afweercellen moeten een boel jasjes gaan herkennen! Of één type jasje natuurlijk, met alle varianten van dien. Een goed universeel vaccin geeft een duidelijk beeld van de virion-boef in welk jasje dan ook. Het is dan ook de vraag of het toekomstige universele vaccin ook écht universeel zal blijken te zijn. Of dat er toch nog een virus-boef voorbij komt, die ons afweersysteem net niet herkent.
-
-
 
 *Gepubliceerd op 18 april 2024*
 
