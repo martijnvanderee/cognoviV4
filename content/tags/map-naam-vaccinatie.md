@@ -1,3 +1,3 @@
 ---
-naam: vaccinatie
+naam: vaccinatie wetenschap
 ---
