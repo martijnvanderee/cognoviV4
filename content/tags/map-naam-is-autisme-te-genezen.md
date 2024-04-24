@@ -1,3 +1,3 @@
 ---
-naam: is autisme te genezen?
+naam: Is autisme te genezen?
 ---
