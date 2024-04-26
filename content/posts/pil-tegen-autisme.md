@@ -18,7 +18,7 @@ tags:
   - wetenschappelijk onderzoek ASS
   - genen autistisch brein werken harder
 ---
-**Japanse wetenschappers denken dat zij een farmaceutisch middel tegen autisme hebben gevonden. Het heeft vafidemstat en het zou niet alleen bij ASS ingezet kunnen worden, maar waarschijnlijk ook bij andere aandoeningen van psychiatrische of neurologische aard.**
+**Japanse wetenschappers denken dat zij een farmaceutisch middel tegen autisme hebben gevonden. Het heet vafidemstat en het zou niet alleen bij ASS ingezet kunnen worden, maar waarschijnlijk ook bij andere aandoeningen van psychiatrische of neurologische aard.**
 
 Wereldwijd hebben zo’n 80 miljoen mensen ASS. In Nederland zijn dat naar schatting zo’n 200.000 mensen. Mensen op het autismespectrum hebben onder meer moeite met sociale interactie, zijn auditief gevoelig en laten repetitieve spraak of gedrag zien. Het aantal mensen dat met autisme te maken krijgt, is echter veel hoger. Denk aan familie, partners, zorgverleners, onderwijzend personeel, collega’s etc. 
 
