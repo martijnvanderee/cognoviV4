@@ -37,7 +37,7 @@ Eerst maar eens kijken, hoe dit - inmiddels geaccepteerde misverstand-  de were
 
 Zoals we zien, is het de eerste categorie, het rijden onder invloed van verdovende middelen, met maar liefst 300% gestegen. Alcoholgebruik is met 10% gestegen. De gigantische toename van drugsgebruik in de auto, zien we tevens gepaard gaan met andere overtredingen. De grootste klapper is voor het weigeren van medewerking aan een blaastest of bloedonderzoek. Dat gebeurde volgens de politie in 2019 650 keer, maar vond in 2022 maar liefst 2.105 keer plaats.
 
-![In 5 jaar tijd is het aantal mensen dat is aangehouden voor rijden onder invloed van drugs (al dan niet in combinatie met alcohol) verdrievoudigd.](/img/verkeer-staat.jpg "Woordvoering Korpsleiding Politie")
+![In 5 jaar tijd is het aantal mensen dat is aangehouden voor rijden onder invloed van drugs (al dan niet in combinatie met alcohol) verdrievoudigd.](/img/verkeershufters-politiestaatje.png "Woordvoering Korpsleiding Politie")
 
 Maar dan zijn we er nog niet. Ook een aantal andere verkeersdelicten nam de laatste jaren een grote vlucht. Zo steeg het rijden tijdens een ontzegging besturen, waarbij iemand geen motorvoertuig mag besturen, van 4.995 in 2019 naar 8.795 in 2022. Het aantal overtredingen van een rijverbod, waarbij ook bijvoorbeeld fietsen is verboden, steeg van 105 naar 325. 
 
@@ -79,7 +79,7 @@ Dicke-Ogenia denkt dat een gebrek aan andere uitlaatkleppen voor spanning ook ee
 
 De omstandigheden op de weg spelen ook een rol. Auto’s krijgen steeds meer vermogen en het is verleidelijk dat vermogen ook in te zetten, denkt Dicke-Ogenia. Bovendien wordt het drukker op de weg. Zo rijden er volgens het CBS tegenwoordig ruim 8,9 miljoen auto’s in Nederland rond en dat is een half miljoen auto’s meer dan in 2019. Meer investeren in infrastructuur is volgens de verkeerspsycholoog echter geen effectieve oplossing. “Tegen bepaald gedrag is geen investering opgewassen. Het gaat tenslotte erom hoe je de ruimte gebruikt. Het overgrote deel van de mensen begrijpt dat. Moet je die als belastingbetaler laten boeten om de infrastructuur maar te blijven aanpassen?”
 
-![Een toenemend drugsgebruik in de auto is echter niet de enige reden dat er meer verkeersslachtoffers vallen: het wordt drukker op de weg, omdat er het aantal auto's toeneemt. ](/img/verkeer-6-drukte-pexels-stan-191842.jpg "Pexels: Stan 191842")
+![Een toenemend drugsgebruik in de auto is niet de enige oorzaak van meer verkeersslachtoffers: het wordt drukker op de weg, omdat het aantal auto's toeneemt. ](/img/verkeer-6-drukte-pexels-stan-191842.jpg "Pexels: Stan 191842")
 
 Ook Stomphorst van de VVN is daar geen voorstander van. “90 procent van de ongevallen is te wijten aan menselijk falen. We moeten, zeker onder een bepaalde groep mensen, een mentaliteitsverandering voor elkaar boksen. Een veel strakkere handhaving is hier op zijn plaats. Vooral voor een minderheid die zich niet aan de geldende regels kan houden.”
 
