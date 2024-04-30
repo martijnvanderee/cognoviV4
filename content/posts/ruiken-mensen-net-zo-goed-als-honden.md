@@ -4,7 +4,7 @@ title: Ruiken mensen net zo goed als honden?
 Subtitle: Ook mens loopt zijn neus achterna!
 date: 2024-02-29T22:41:10.569Z
 headerPhoto: map-image-img-geur-header-jpg-bron-pixabay-com-onderschrift-geur-header
-onderwerp: human
+onderwerp: nature
 auteur: Monique Siemsen
 tags:
   - geur
