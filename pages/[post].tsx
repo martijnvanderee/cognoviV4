@@ -187,7 +187,7 @@ export async function getStaticPaths() {
   return { paths, fallback: false };
 }
 
-// params will contain the id for each generated page
+// params will contain the id for each generated page.
 type params = {
   params: { post: string };
   locales: any;
