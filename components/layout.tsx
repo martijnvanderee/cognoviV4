@@ -1,15 +1,15 @@
-import React, { FunctionComponent } from "react";
-import Head from "next/head";
-import { useRouter } from "next/router";
+import React, { FunctionComponent } from 'react';
+import Head from 'next/head';
+import { useRouter } from 'next/router';
 
 //components
-import { Header } from "./header";
-import { Footer } from "./footer";
-import { MenuSlider } from "../components/menuSlider";
-import { SearchPage } from "../components/search/searchPage";
+import { Header } from './header';
+import { Footer } from './footer';
+import { MenuSlider } from '../components/menuSlider';
+import { SearchPage } from '../components/search/searchPage';
 //state
-import { useIsMenuOpen } from "../state/isMenuOpen";
-import { useIsSearchMenuOpen } from "../state/isSearchMenuOpen";
+import { useIsMenuOpen } from '../state/isMenuOpen';
+import { useIsSearchMenuOpen } from '../state/isSearchMenuOpen';
 
 type LayoutProps = {};
 
@@ -23,16 +23,16 @@ export const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
   } = useIsSearchMenuOpen();
 
   const handleRouteChange = () => {
-    dispatch({ type: "close" });
-    dispatchMenu({ type: "close" });
+    dispatch({ type: 'close' });
+    dispatchMenu({ type: 'close' });
   };
 
   React.useEffect(() => {
-    router.events.on("routeChangeStart", handleRouteChange);
+    router.events.on('routeChangeStart', handleRouteChange);
     // If the component is unmounted, unsubscribe
     // from the event with the `off` method:
     return () => {
-      router.events.off("routeChangeStart", handleRouteChange);
+      router.events.off('routeChangeStart', handleRouteChange);
     };
   }, []);
 
@@ -44,9 +44,8 @@ export const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
 
       <div className="relative">
         <Header />
-        <div className="relative overflow-hidden bg-yellowLight">
+        <div className="flex relative overflow-hidden bg-yellowLight">
           <MenuSlider />
-          <div className="hidden md:block h-10 w-full bg-almostWhite"></div>
           {isSearchMenuOpen ? (
             <SearchPage />
           ) : (

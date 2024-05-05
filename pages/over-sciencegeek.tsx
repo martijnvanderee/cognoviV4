@@ -7,7 +7,12 @@ export default function About() {
   return (
     <Layout>
       <SeoHeader subtitle="Over ScienceGeek" />
-      <main className="bg-white">
+      <main
+        style={{
+          minHeight: "100vh",
+        }}
+        className="bg-white"
+      >
         <div className="p-4 text-black pb-20 pt-8">
           <h1 className="text-3xl mb-8 font-bold">Over ScienceGeek</h1>
 

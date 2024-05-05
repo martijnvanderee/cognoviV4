@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect } from 'react';
 
 export const AdBanner = (props: any) => {
   useEffect(() => {
@@ -13,12 +13,13 @@ export const AdBanner = (props: any) => {
 
   return (
     <ins
-      className="adsbygoogle"
+      className="adsbygoogle w-full md:w-8/12"
       style={{
-        display: "block",
-        textAlign: "center",
-        width: "250px",
-        height: "250px",
+        display: 'block',
+        textAlign: 'center',
+        background: 'red',
+        margin: '0 auto',
+        aspectRatio: '3/2',
       }}
       data-ad-layout="in-article"
       data-ad-format="fluid"

@@ -1,9 +1,9 @@
-import React, { FunctionComponent } from "react";
-import Link from "next/link";
+import React, { FunctionComponent } from 'react';
+import Link from 'next/link';
 //components
-import { PostItem } from "../components/postItem";
+import { PostItem } from '../components/postItem';
 //typescript
-import { FullPost } from "../typescript";
+import { FullPost } from '../typescript';
 
 type LaatsteNieuwsProps = {
   posts: FullPost[];
@@ -35,12 +35,10 @@ export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({
       </div>
 
       <Link href={LinkNaarMeerPosts}>
-        <a className="focus-visible:bg-violet-700">
-          <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey ml-4 cursor-pointer">
+        <a className="focus-visible:bg-violet-700 underline">
+          <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey hover:text-gray-700 ml-4 cursor-pointer">
             {LinkNaarMeerPostsText}
-            <span className="text-2xl md:text-xl font-semibold leading-tight text-purple">
-              {">"}
-            </span>{" "}
+            <span className="text-2xl md:text-xl font-semibold leading-tight text-purple"></span>
           </div>
         </a>
       </Link>
