@@ -2,7 +2,6 @@ const fs = require('fs');
 const blogPostsFolder = './content';
 
 const nextConfig = {
-  output: 'export',
   webpack: (configuration) => {
     configuration.module.rules.push({
       test: /\.md$/,
