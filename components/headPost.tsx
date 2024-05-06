@@ -1,11 +1,13 @@
-import React, { FunctionComponent } from "react";
-import Link from "next/link";
+import React, { FunctionComponent } from 'react';
+import Link from 'next/link';
 //constants
-import { TIME_TILL_HIDDEN_BG } from "../public/variables";
+import { TIME_TILL_HIDDEN_BG } from '../public/variables';
 //hooks
-import useTimeLeft from "../hooks/useTimeLeft";
+import useTimeLeft from '../hooks/useTimeLeft';
 //typescript
-import { FullPost } from "../typescript";
+import { FullPost } from '../typescript';
+
+import Image from 'next/image';
 
 type HeadPostProps = {
   data: FullPost;
@@ -28,10 +30,11 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
               <div className="absolute inset-0 w-full bg-loadingImage"></div>
             )}
             <picture>
-              <img
+              <Image
                 src={`${data.photos.headerData.image}`}
                 alt={data.title}
                 className="absolute inset-0 w-full h-full object-cover"
+                layout="fill"
               />
             </picture>
           </div>

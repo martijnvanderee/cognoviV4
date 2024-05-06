@@ -1,26 +1,26 @@
-import React, { FunctionComponent } from "react";
+import React, { FunctionComponent } from 'react';
 //components
-import { Layout } from "../components/layout";
-import { HeadPost } from "../components/headPost";
-import { LaatsteNieuws } from "../components/laatsteNieuws";
-import { RandomBigPosts } from "../components/randomBigPosts";
-import { PostTopicSection } from "../components/PostTopicSection";
-import { SeoHeader } from "../components/seoHeader";
+import { Layout } from '../components/layout';
+import { HeadPost } from '../components/headPost';
+import { LaatsteNieuws } from '../components/laatsteNieuws';
+import { RandomBigPosts } from '../components/randomBigPosts';
+import { PostTopicSection } from '../components/PostTopicSection';
+import { SeoHeader } from '../components/seoHeader';
 
 //functions
-import { getPosts, getRandomPosts } from "../localFunctions/importPosts";
+import { getPosts, getRandomPosts } from '../localFunctions/importPosts';
 import {
   getFirstElement,
   removeFirstEement,
-} from "../localFunctions/helperFunc";
+} from '../localFunctions/helperFunc';
 //typescript
-import { FullPost } from "../typescript";
+import { FullPost } from '../typescript';
 //variables
 import {
   AMOUNT_OF_POST_FRONTPAGE,
   AMOUNT_OF_RANDOM_POST_FRONTPAGE,
   LAATSTE_NIEUWS,
-} from "../public/variables";
+} from '../public/variables';
 
 type HomeProps = {
   latestPosts: FullPost[];
@@ -85,12 +85,12 @@ const Home: FunctionComponent<HomeProps> = ({
 
 export async function getStaticProps() {
   const latestPosts = await getPosts(AMOUNT_OF_POST_FRONTPAGE);
-  const LatestNaturePost = await getPosts(3, "nature");
-  const LatestHumanPost = await getPosts(3, "human");
+  const LatestNaturePost = await getPosts(3, 'nature');
+  const LatestHumanPost = await getPosts(3, 'human');
   // const LatestHistoryPost = await getPosts(3, "History");
-  const LatestQuirkyPost = await getPosts(3, "quirky");
-  const LatestSpacePost = await getPosts(3, "space");
-  const LatestTechPost = await getPosts(3, "tech");
+  const LatestQuirkyPost = await getPosts(3, 'quirky');
+  const LatestSpacePost = await getPosts(3, 'space');
+  const LatestTechPost = await getPosts(3, 'tech');
   const randomPosts = await getRandomPosts(AMOUNT_OF_RANDOM_POST_FRONTPAGE);
   return {
     props: {

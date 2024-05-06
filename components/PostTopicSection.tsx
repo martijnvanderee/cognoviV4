@@ -1,11 +1,11 @@
-import React, { FunctionComponent } from "react";
+import React, { FunctionComponent } from 'react';
 //components
-import { PostItem2 } from "../components/postItem";
+import { PostItem2 } from '../components/postItem';
 //typescript
-import { FullPost } from "../typescript";
-import { RANDOM_BIG_POSTS } from "../public/variables";
-import { FaArrowRightLong } from "react-icons/fa6";
-import Link from "next/link";
+import { FullPost } from '../typescript';
+import { RANDOM_BIG_POSTS } from '../public/variables';
+import { FaArrowRightLong } from 'react-icons/fa6';
+import Link from 'next/link';
 
 type RandomProps = {
   posts: FullPost[];

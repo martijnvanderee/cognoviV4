@@ -1,12 +1,13 @@
-import React, { FunctionComponent } from "react";
-import Link from "next/link";
+import React, { FunctionComponent } from 'react';
+import Link from 'next/link';
 //hooks
-import useTimeLeft from "../hooks/useTimeLeft";
+import useTimeLeft from '../hooks/useTimeLeft';
 //typescript
-import { FullPost } from "../typescript";
-import { formatDate } from "../localFunctions/formatdate";
+import { FullPost } from '../typescript';
+import { formatDate } from '../localFunctions/formatdate';
 //constants
-import { TIME_TILL_HIDDEN_BG } from "../public/variables";
+import { TIME_TILL_HIDDEN_BG } from '../public/variables';
+import Image from 'next/image';
 
 type PostProps = {
   post: FullPost;
@@ -27,10 +28,11 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
                 <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>
               )}
 
-              <img
+              <Image
                 src={image}
                 alt={post.title}
                 className="absolute inset-0 w-full h-full object-cover"
+                layout="fill"
               />
             </div>
             <div className="relative px-2">
@@ -73,10 +75,11 @@ export const PostItem1: FunctionComponent<postProps1> = ({
                 <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
               )}
 
-              <img
+              <Image
                 src={`${image}`}
                 alt="title van artikel"
                 className="absolute inset-0 w-full h-full object-cover"
+                layout="fill"
               />
             </div>
             <div className="relative px-2">
@@ -84,7 +87,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({
 
               <h2 className="text-lg font-medium leading-6">{title}</h2>
               <time className="absolute bottom-1 text-xs text-grey">
-                {" "}
+                {' '}
                 {newDate}
               </time>
             </div>
@@ -111,10 +114,11 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
               <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
             )}
 
-            <img
+            <Image
               src={`${post.photos.headerData.image}`}
               alt={post.title}
               className="absolute inset-0 w-full h-full object-cover"
+              layout="fill"
             />
           </div>
           <div className="relative h-36 p-2 ">
@@ -135,7 +139,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
   );
 };
 
-//adsense 
+//adsense
 //addsense
 // tiktok, twitter
 // email aanmelding

@@ -1,6 +1,7 @@
 import React, { FunctionComponent } from 'react';
 import styled from 'styled-components';
 import ReactHtmlParser from 'react-html-parser';
+import Image from 'next/image';
 //functions
 import {
   importPostSlugs,
@@ -123,10 +124,10 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
           {photos.photosData.length !== 0 && (
             <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
               <div className="relative m-auto md:max-w-2xl">
-                <img
+                <Image
                   src={photos.photosData[0].image}
                   alt={title}
-                  className=""
+                  layout="fill"
                 />
               </div>
               <div className="w-full m-auto">
