@@ -11,6 +11,10 @@
     "export": "next build && next export"
   },
   "keywords": [],
+  "engines": {
+    "npm": ">=9.0.0 <10.0.0",
+    "node": ">=18.0.0 <20.0.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
