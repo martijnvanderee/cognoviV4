@@ -28,7 +28,7 @@ export const MenuSlider = () => {
 
   return (
     <nav
-      className={`fixed right-0 top-16 md:top-20 h-screen bg-white z-30 ${switchClass} transition-all duration-500 border-l border-almostWhite`}
+      className={`fixed top-16 md:top-20 h-screen bg-white z-30 ${switchClass} transition-all duration-500 border-l border-almostWhite`}
     >
       <div className={`relative`}>
         <IconContext.Provider value={{ color: '', className: '', size: '2em' }}>
@@ -80,20 +80,22 @@ type NavProps = {
 const NavItem: FunctionComponent<NavProps> = ({ path, isRoute, name }) => {
   const { state, dispatch } = useIsMenuOpen();
   return (
-    <Link
-      href={path}
-      onClick={() => dispatch({ type: 'close' })}
-      className={` relative ${isRoute && `bg-almostWhite flex`}`}
-    >
-      <div
-        className={`ml-4 text-2xl py-4 border-b border-almostWhite  ${
-          isRoute && `font-bold `
-        }`}
+    <div>
+      <Link
+        href={path}
+        onClick={() => dispatch({ type: 'close' })}
+        className={` relative ${isRoute && `bg-almostWhite flex`}`}
       >
-        {name}
-      </div>
-      {isRoute && <div className="absolute h-full w-2 left-0 bg-purple" />}
-    </Link>
+        <div
+          className={`ml-4 text-2xl py-4 border-b border-almostWhite  ${
+            isRoute && `font-bold `
+          }`}
+        >
+          {name}
+        </div>
+        {isRoute && <div className="absolute h-full w-2 left-0 bg-purple" />}
+      </Link>
+    </div>
   );
 };
 
