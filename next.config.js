@@ -10,6 +10,12 @@ const nextConfig = {
     });
     return configuration;
   },
+  async exportPathMap(defaultPathMap) {
+    return {
+      ...defaultPathMap,
+      // ...getPathsForPosts(),
+    };
+  },
 
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
   // trailingSlash: true,
@@ -21,14 +27,7 @@ const nextConfig = {
   // distDir: 'dist',
 };
 
-const a = {
-  async exportPathMap(defaultPathMap) {
-    return {
-      ...defaultPathMap,
-      // ...getPathsForPosts(),
-    };
-  },
-};
+const a = {};
 
 module.exports = nextConfig;
 

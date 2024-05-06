@@ -1,6 +1,7 @@
 import React, { FunctionComponent } from 'react';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import Script from 'next/script';
 
 //components
 import { Header } from './header';
@@ -39,7 +40,7 @@ export const Layout: FunctionComponent<any> = ({ children }) => {
   return (
     <>
       <Head>
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></Script>
       </Head>
 
       <div className="relative">

@@ -1,8 +1,8 @@
-import React, { FunctionComponent } from "react";
-import Link from "next/link";
-import { useRouter } from "next/router";
+import React, { FunctionComponent } from 'react';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
 
-import { NAV_NAMES, NAV_LINKS } from "../public/variables";
+import { NAV_NAMES, NAV_LINKS } from '../public/variables';
 
 const Nav = () => {
   return (
@@ -33,17 +33,16 @@ type NavProps = {
 
 const NavItem: FunctionComponent<NavProps> = ({ path, isRoute, name }) => {
   return (
-    <Link href={path}>
-      <a
-        className={`relative grid px-4 h-full z-20  ${
-          isRoute && `bg-almostWhite `
-        } focus:outline-none focus:ring focus:border-blue-300`}
-      >
-        <span className={`self-center md:text-lg ${isRoute && `font-bold `}`}>
-          {name}
-        </span>
-        {isRoute && <div className="absolute w-full h-2 bottom-0 bg-purple" />}
-      </a>
+    <Link
+      href={path}
+      className={`relative grid px-4 h-full z-20  ${
+        isRoute && `bg-almostWhite `
+      } focus:outline-none focus:ring focus:border-blue-300`}
+    >
+      <span className={`self-center md:text-lg ${isRoute && `font-bold `}`}>
+        {name}
+      </span>
+      {isRoute && <div className="absolute w-full h-2 bottom-0 bg-purple" />}
     </Link>
   );
 };

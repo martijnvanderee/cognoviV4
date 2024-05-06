@@ -18,29 +18,31 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
   const image = post.photos.headerData.image;
   const image1 = `img/meisje-gitaar-vrolijk.jpg`;
   return (
-    <Link href={`/${post.slug}`} as={`/${post.slug}`}>
-      <a className="w-full focus-visible:bg-violet-700 flex-shrink-0">
-        <article className="w-full mt-4 cursor-pointer focus-visible:bg-violet-700">
-          <div className="flex h-24 border-b border-almostWhite">
-            <div className="relative flex-none h-full w-32">
-              {timeLeft !== 0 && (
-                <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>
-              )}
+    <Link
+      href={`/${post.slug}`}
+      as={`/${post.slug}`}
+      className="w-full focus-visible:bg-violet-700 flex-shrink-0"
+    >
+      <article className="w-full mt-4 cursor-pointer focus-visible:bg-violet-700">
+        <div className="flex h-24 border-b border-almostWhite">
+          <div className="relative flex-none h-full w-32">
+            {timeLeft !== 0 && (
+              <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>
+            )}
 
-              <img
-                src={image}
-                alt={post.title}
-                className="absolute inset-0 w-full h-full object-cover"
-              />
-            </div>
-            <div className="relative px-2">
-              <span className="text-sm text-purple">{post.onderwerp}</span>
-
-              <h2 className="text-lg font-medium leading-6">{post.title}</h2>
-            </div>
+            <img
+              src={image}
+              alt={post.title}
+              className="absolute inset-0 w-full h-full object-cover"
+            />
           </div>
-        </article>
-      </a>
+          <div className="relative px-2">
+            <span className="text-sm text-purple">{post.onderwerp}</span>
+
+            <h2 className="text-lg font-medium leading-6">{post.title}</h2>
+          </div>
+        </div>
+      </article>
     </Link>
   );
 };

@@ -1,14 +1,14 @@
-import React, { useEffect } from "react";
-import Document, { Html, Head, Main, NextScript } from "next/document";
+import React, { useEffect } from 'react';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
 
-import { GA_TRACKING_ID } from "../lib/gtag";
+import { GA_TRACKING_ID } from '../lib/gtag';
 
-const isProduction = process.env.NODE_ENV === "production";
+const isProduction = process.env.NODE_ENV === 'production';
 
 export default class MyDocument extends Document {
   render() {
     useEffect(() => {
-      var ads = document.getElementsByClassName("adsbygoogle").length;
+      var ads = document.getElementsByClassName('adsbygoogle').length;
       for (var i = 0; i < ads; i++) {
         try {
           ((window as any).adsbygoogle =
@@ -20,6 +20,10 @@ export default class MyDocument extends Document {
     return (
       <Html lang="nl" className="text-xs">
         <Head>
+          <link
+            href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap"
+            rel="stylesheet"
+          />
           {/* enable analytics script only for production */}
           {isProduction && (
             <>

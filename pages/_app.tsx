@@ -1,18 +1,18 @@
-import React from "react";
-import "tailwindcss/tailwind.css";
-import { useRouter } from "next/router";
+import React from 'react';
+import 'tailwindcss/tailwind.css';
+import { useRouter } from 'next/router';
 
 // Modules
-import { AppProps } from "next/app";
-import Head from "next/head";
-import Script from "next/script";
+import { AppProps } from 'next/app';
+import Head from 'next/head';
+import Script from 'next/script';
 
 //state
-import { IsMenuOpenProvider } from "../state/isMenuOpen";
-import { IsSearchMenuOpenProvider } from "../state/isSearchMenuOpen";
+import { IsMenuOpenProvider } from '../state/isMenuOpen';
+import { IsSearchMenuOpenProvider } from '../state/isSearchMenuOpen';
 
-import * as gtag from "../lib/gtag";
-const isProduction = process.env.NODE_ENV === "production";
+import * as gtag from '../lib/gtag';
+const isProduction = process.env.NODE_ENV === 'production';
 
 const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
   const router = useRouter();
@@ -25,14 +25,14 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
       if (isProduction) gtag.pageview(url);
     };
 
-    const jssStyles = document.querySelector("#jss-server-side");
+    const jssStyles = document.querySelector('#jss-server-side');
     if (jssStyles && jssStyles.parentElement) {
       jssStyles.parentElement.removeChild(jssStyles);
     }
 
-    router.events.on("routeChangeComplete", handleRouteChange);
+    router.events.on('routeChangeComplete', handleRouteChange);
     return () => {
-      router.events.off("routeChangeComplete", handleRouteChange);
+      router.events.off('routeChangeComplete', handleRouteChange);
     };
   }, [router.events]);
 
@@ -60,12 +60,12 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
 "
         />
 
-        <script
+        <Script
           id="adsbygoogle-init"
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8861487414672205"
           crossOrigin="anonymous"
-        ></script>
+        ></Script>
 
         {/* 
         <script
@@ -75,10 +75,6 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
         ></script> */}
 
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap"
-          rel="stylesheet"
-        />
       </Head>
 
       <IsMenuOpenProvider>

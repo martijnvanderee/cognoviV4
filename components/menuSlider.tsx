@@ -1,41 +1,41 @@
-import React, { FunctionComponent, useEffect } from "react";
-import { useIsMenuOpen } from "../state/isMenuOpen";
+import React, { FunctionComponent, useEffect } from 'react';
+import { useIsMenuOpen } from '../state/isMenuOpen';
 
-import { CgClose } from "react-icons/cg";
-import { IconContext } from "react-icons";
+import { CgClose } from 'react-icons/cg';
+import { IconContext } from 'react-icons';
 
-import { NAV_NAMES, NAV_LINKS } from "../public/variables";
-import { useRouter } from "next/router";
-import Link from "next/link";
+import { NAV_NAMES, NAV_LINKS } from '../public/variables';
+import { useRouter } from 'next/router';
+import Link from 'next/link';
 
 //hooks
-import { useKeyPress } from "../hooks/useKeyPress";
+import { useKeyPress } from '../hooks/useKeyPress';
 
 export const MenuSlider = () => {
   const { state, dispatch } = useIsMenuOpen();
 
   const isEnterPressed = useKeyPress({
-    key: "Escape",
+    key: 'Escape',
   });
 
   useEffect(() => {
     if (isEnterPressed) {
-      dispatch({ type: "close" });
+      dispatch({ type: 'close' });
     }
   }, [isEnterPressed]);
 
-  const switchClass = state.isMenuOpen ? "w-96 right-0" : "w-96 -right-96";
+  const switchClass = state.isMenuOpen ? 'w-96 right-0' : 'w-96 -right-96';
 
   return (
     <nav
       className={`fixed right-0 top-16 md:top-20 h-screen bg-white z-30 ${switchClass} transition-all duration-500 border-l border-almostWhite`}
     >
       <div className={`relative`}>
-        <IconContext.Provider value={{ color: "", className: "", size: "2em" }}>
+        <IconContext.Provider value={{ color: '', className: '', size: '2em' }}>
           <button
             aria-label="Close"
             className="absolute right-4 top-4"
-            onClick={() => dispatch({ type: "close" })}
+            onClick={() => dispatch({ type: 'close' })}
           >
             <CgClose />
           </button>
@@ -56,17 +56,14 @@ export const MenuSlider = () => {
             );
           })}
 
-          <Link href="/over-sciencegeek">
-            <a
-              onClick={() => dispatch({ type: "close" })}
-              className={` relative`}
-            >
-              <div
-                className={`ml-4 text-2xl py-4 border-b border-almostWhite  `}
-              >
-                Over ScienceGeek
-              </div>
-            </a>
+          <Link
+            href="/over-sciencegeek "
+            onClick={() => dispatch({ type: 'close' })}
+            className={` relative`}
+          >
+            <div className={`ml-4 text-2xl py-4 border-b border-almostWhite  `}>
+              Over ScienceGeek
+            </div>
           </Link>
         </div>
       </div>
@@ -83,20 +80,19 @@ type NavProps = {
 const NavItem: FunctionComponent<NavProps> = ({ path, isRoute, name }) => {
   const { state, dispatch } = useIsMenuOpen();
   return (
-    <Link href={path}>
-      <a
-        onClick={() => dispatch({ type: "close" })}
-        className={` relative ${isRoute && `bg-almostWhite flex`}`}
+    <Link
+      href={path}
+      onClick={() => dispatch({ type: 'close' })}
+      className={` relative ${isRoute && `bg-almostWhite flex`}`}
+    >
+      <div
+        className={`ml-4 text-2xl py-4 border-b border-almostWhite  ${
+          isRoute && `font-bold `
+        }`}
       >
-        <div
-          className={`ml-4 text-2xl py-4 border-b border-almostWhite  ${
-            isRoute && `font-bold `
-          }`}
-        >
-          {name}
-        </div>
-        {isRoute && <div className="absolute h-full w-2 left-0 bg-purple" />}
-      </a>
+        {name}
+      </div>
+      {isRoute && <div className="absolute h-full w-2 left-0 bg-purple" />}
     </Link>
   );
 };

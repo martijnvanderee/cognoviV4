@@ -34,13 +34,14 @@ export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({
         </div>
       </div>
 
-      <Link href={LinkNaarMeerPosts}>
-        <a className="focus-visible:bg-violet-700 underline">
-          <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey hover:text-gray-700 ml-4 cursor-pointer">
-            {LinkNaarMeerPostsText}
-            <span className="text-2xl md:text-xl font-semibold leading-tight text-purple"></span>
-          </div>
-        </a>
+      <Link
+        href={LinkNaarMeerPosts}
+        className="focus-visible:bg-violet-700 underline"
+      >
+        <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey hover:text-gray-700 ml-4 cursor-pointer">
+          {LinkNaarMeerPostsText}
+          <span className="text-2xl md:text-xl font-semibold leading-tight text-purple"></span>
+        </div>
       </Link>
     </div>
   );
