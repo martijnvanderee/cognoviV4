@@ -1,8 +1,16 @@
 const fs = require('fs');
 const blogPostsFolder = './content';
 
+const withOptimizedImages = require('next-optimized-images');
+
+const a = withOptimizedImages({
+  handleImages: ['jpeg', 'png', 'svg'],
+});
+
 module.exports = {
+  a,
   output: 'export',
+
   webpack: (configuration) => {
     configuration.module.rules.push({
       test: /\.md$/,

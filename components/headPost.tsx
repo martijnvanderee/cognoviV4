@@ -7,8 +7,6 @@ import useTimeLeft from '../hooks/useTimeLeft';
 //typescript
 import { FullPost } from '../typescript';
 
-import Image from 'next/image';
-
 type HeadPostProps = {
   data: FullPost;
 };
@@ -30,11 +28,10 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
               <div className="absolute inset-0 w-full bg-loadingImage"></div>
             )}
             <picture>
-              <Image
+              <img
                 src={`${data.photos.headerData.image}`}
                 alt={data.title}
                 className="absolute inset-0 w-full h-full object-cover"
-                layout="fill"
               />
             </picture>
           </div>

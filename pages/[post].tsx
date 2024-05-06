@@ -53,7 +53,7 @@ const transformImage = (node: any) => {
       <>
         <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
           <div className="relative m-auto md:max-w-2xl">
-            <Image src={image} alt={alt} />
+            <img src={image} alt={alt} />
           </div>
           <div className="relative -top-10 md:-top-12 w-full m-auto">
             <div className="sm:w-9/12 mb-4 m-auto">
@@ -89,7 +89,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
       <main className="md:max-w-6xl  md:mx-auto bg-white">
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:pt-10 md:mx-auto">
           <div className="relative w-full h-full md:w-8/12 m-auto">
-            <Image
+            <img
               src={image}
               alt={title}
               className="absolute inset-0 w-full h-full object-cover"
@@ -126,11 +126,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
           {photos.photosData.length !== 0 && (
             <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
               <div className="relative m-auto md:max-w-2xl">
-                <Image
-                  src={photos.photosData[0].image}
-                  alt={title}
-                  layout="fill"
-                />
+                <img src={photos.photosData[0].image} alt={title} />
               </div>
               <div className="w-full m-auto">
                 <div className="sm:w-9/12 mb-4 m-auto">

@@ -1,34 +1,34 @@
-import { useState, useEffect } from "react";
-import Link from "next/link";
+import { useState, useEffect } from 'react';
+import Link from 'next/link';
 
-import { FormInput } from "./index";
-import { useFetch } from "../../localFunctions/lunrjs";
+import { FormInput } from './index';
+import { useFetch } from '../../localFunctions/lunrjs';
 
-import { useIsSearchMenuOpen } from "../../state/isSearchMenuOpen";
+import { useIsSearchMenuOpen } from '../../state/isSearchMenuOpen';
 
-import { fakeData } from "../../functions/fakedata";
+import { fakeData } from '../../functions/fakedata';
 
-import { PostItem, PostItem1 } from "../../components/postItem";
-const debounce = require("debounce");
+import { PostItem, PostItem1 } from '../../components/postItem';
+const debounce = require('debounce');
 
-import { FaBackspace } from "react-icons/fa";
-import { IconContext } from "react-icons";
+import { FaBackspace } from 'react-icons/fa';
+import { IconContext } from 'react-icons';
 
-import { useKeyPress } from "../../hooks/useKeyPress";
+import { useKeyPress } from '../../hooks/useKeyPress';
 
 export const SearchPage = () => {
   const { state, dispatchMenu } = useIsSearchMenuOpen();
   const isEnterPressed = useKeyPress({
-    key: "Escape",
+    key: 'Escape',
   });
 
   useEffect(() => {
     if (isEnterPressed) {
-      dispatchMenu({ type: "close" });
+      dispatchMenu({ type: 'close' });
     }
   }, [isEnterPressed]);
 
-  const switchClass = state.isSearchMenuOpen ? "visible" : "hidden";
+  const switchClass = state.isSearchMenuOpen ? 'visible' : 'hidden';
 
   const [query, setQuery]: any = useState(null);
 
@@ -54,7 +54,7 @@ export const SearchPage = () => {
   return (
     <div
       style={{
-        minHeight: "100vh",
+        minHeight: '100vh',
       }}
       className={`${switchClass} bg-white top-16 md:top-36 z-20 h-full w-full
    `}
@@ -62,14 +62,14 @@ export const SearchPage = () => {
       {/* exit button */}
       <div
         className="flex my-auto justify-end px-4 sm:px-10 cursor-pointer"
-        onClick={() => dispatchMenu({ type: "close" })}
+        onClick={() => dispatchMenu({ type: 'close' })}
       >
         <div className="flex my-auto">
           <div className="text-gray-600 my-auto text-lg md:text-xl mr-2 font-bold">
             Keer terug
           </div>
           <IconContext.Provider
-            value={{ color: "grey", className: "", size: "3em" }}
+            value={{ color: 'grey', className: '', size: '3em' }}
           >
             <div className="">
               <FaBackspace />
@@ -80,7 +80,7 @@ export const SearchPage = () => {
 
       <div className={`m-auto sm:px-10 md:max-w-6xl`}>
         <div className={`p-4`}>
-          <FormInput type={"text"} onChange={debounce(handleChange, 1000)} />
+          <FormInput type={'text'} onChange={debounce(handleChange, 1000)} />
         </div>
 
         {data && (
@@ -95,7 +95,7 @@ export const SearchPage = () => {
                   onderwerp={post.onderwerp}
                 />
               );
-            })}{" "}
+            })}{' '}
           </div>
         )}
       </div>

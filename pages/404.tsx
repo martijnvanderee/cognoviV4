@@ -5,14 +5,13 @@ import { Layout } from '../components/layout';
 import { SeoHeader } from '../components/seoHeader';
 //variables
 import { PAGE404 } from '../public/variables';
-import Image from 'next/image';
 
 const Custom404 = () => (
   <Layout>
     <SeoHeader subtitle="Er ging iets mis de pagina kan niet worden gevonden " />
     <main className="bg-white">
       <div className="mt-16 mx-8">
-        <Image alt="error image" src="404.png" className="mx-auto mb-8"></Image>
+        <img alt="error image" src="404.png" className="mx-auto mb-8"></img>
         <div className="text-center">
           <h2 className="text-2xl font-bold mb-4 md:text-3xl">
             {PAGE404().title}
