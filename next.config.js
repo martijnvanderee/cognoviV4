@@ -1,23 +1,22 @@
 const fs = require('fs');
 const blogPostsFolder = './content';
 
-
 module.exports = {
-  webpack: configuration => {
+  output: 'export',
+  webpack: (configuration) => {
     configuration.module.rules.push({
       test: /\.md$/,
       loader: 'frontmatter-markdown-loader',
     });
     return configuration;
-  }, async exportPathMap(defaultPathMap) {
+  },
+  async exportPathMap(defaultPathMap) {
     return {
       ...defaultPathMap,
       // ...getPathsForPosts(),
     };
   },
-}
-
-
+};
 
 // const getPathsForPosts = () => {
 //   return fs
@@ -37,6 +36,3 @@ module.exports = {
 //       return { ...acc, ...curr };
 //     }, {});
 // };
-
-
-
