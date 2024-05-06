@@ -1,7 +1,8 @@
 const fs = require('fs');
 const blogPostsFolder = './content';
 
-module.exports = {
+const nextConfig = {
+  output: 'export',
   webpack: (configuration) => {
     configuration.module.rules.push({
       test: /\.md$/,
@@ -9,6 +10,18 @@ module.exports = {
     });
     return configuration;
   },
+
+  // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
+  // trailingSlash: true,
+
+  // Optional: Prevent automatic `/me` -> `/me/`, instead preserve `href`
+  // skipTrailingSlashRedirect: true,
+
+  // Optional: Change the output directory `out` -> `dist`
+  // distDir: 'dist',
+};
+
+const a = {
   async exportPathMap(defaultPathMap) {
     return {
       ...defaultPathMap,
@@ -16,6 +29,8 @@ module.exports = {
     };
   },
 };
+
+module.exports = nextConfig;
 
 // const getPathsForPosts = () => {
 //   return fs
