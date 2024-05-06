@@ -13,7 +13,7 @@ import { useIsSearchMenuOpen } from '../state/isSearchMenuOpen';
 
 type LayoutProps = {};
 
-export const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
+export const Layout: FunctionComponent<any> = ({ children }) => {
   const router = useRouter();
 
   const { dispatch, state } = useIsMenuOpen();

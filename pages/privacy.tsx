@@ -1,19 +1,19 @@
-import React, { FunctionComponent } from "react";
-import styled from "styled-components";
-import ReactHtmlParser from "react-html-parser";
+import React, { FunctionComponent } from 'react';
+import styled from 'styled-components';
+import ReactHtmlParser from 'html-react-parser';
 //components
-import { Layout } from "../components/layout";
-import { SeoHeader } from "../components/seoHeader";
+import { Layout } from '../components/layout';
+import { SeoHeader } from '../components/seoHeader';
 
 //functions
-import { getPosts, getRandomPosts } from "../localFunctions/importPosts";
+import { getPosts, getRandomPosts } from '../localFunctions/importPosts';
 //typescript
-import { FullPost } from "../typescript";
+import { FullPost } from '../typescript';
 //variables
 import {
   AMOUNT_OF_POST_FRONTPAGE,
   AMOUNT_OF_RANDOM_POST_FRONTPAGE,
-} from "../public/variables";
+} from '../public/variables';
 
 const Container = styled.div`
   & > p {
@@ -37,10 +37,8 @@ const Home: FunctionComponent<HomeProps> = () => {
     <Layout>
       <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws." />
       <main>
-        <div className="md:grid md:mt-10">
-          <Container className="prose-xl md:prose-2xl mx-auto">
-            {ReactHtmlParser(a)}
-          </Container>
+        <div className="md:grid md:mt-10 prose-xl md:prose-2xl mx-auto">
+          <Container>{ReactHtmlParser(a)}</Container>
         </div>
       </main>
     </Layout>

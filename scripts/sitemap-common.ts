@@ -1,31 +1,32 @@
-import fs from "fs"
-import { globby } from "globby"
+import fs from 'fs';
+import { globby } from 'globby';
 
-import prettier from "prettier"
+import prettier from 'prettier';
 
 const getDate = new Date().toISOString();
 
-const YOUR_AWESOME_DOMAIN = "https://sciencegeek.nl";
+const YOUR_AWESOME_DOMAIN = 'https://sciencegeek.nl';
 
-const formatted = (sitemap: any) => prettier.format(sitemap, { parser: "html" });
+const formatted = (sitemap: any) =>
+  prettier.format(sitemap, { parser: 'html' });
 
 (async () => {
   const pages = await globby([
     // include
-    "../pages/**/*.tsx",
-    "../pages/*.tsx",
+    '../pages/**/*.tsx',
+    '../pages/*.tsx',
     // exclude
-    "!../pages/_*.tsx"
+    '!../pages/_*.tsx',
   ]);
 
   const pagesSitemap = `
     ${pages
       .map((page: any) => {
         const path = page
-          .replace("../pages/", "")
-          .replace(".tsx", "")
-          .replace(/\/index/g, "");
-        const routePath = path === "index" ? "" : path;
+          .replace('../pages/', '')
+          .replace('.tsx', '')
+          .replace(/\/index/g, '');
+        const routePath = path === 'index' ? '' : path;
         return `
           <url>
             <loc>${YOUR_AWESOME_DOMAIN}/${routePath}</loc>
@@ -33,7 +34,7 @@ const formatted = (sitemap: any) => prettier.format(sitemap, { parser: "html" })
           </url>
         `;
       })
-      .join("")}
+      .join('')}
   `;
 
   const generatedSitemap = `
@@ -49,5 +50,5 @@ const formatted = (sitemap: any) => prettier.format(sitemap, { parser: "html" })
 
   const formattedSitemap: any = [formatted(generatedSitemap)];
 
-  fs.writeFileSync("../public/sitemap-common.xml", formattedSitemap, "utf8");
+  fs.writeFileSync('../public/sitemap-common.xml', formattedSitemap, 'utf8');
 })();

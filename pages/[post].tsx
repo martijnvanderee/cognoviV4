@@ -1,6 +1,6 @@
 import React, { FunctionComponent } from 'react';
 import styled from 'styled-components';
-import ReactHtmlParser from 'react-html-parser';
+import ReactHtmlParser from 'html-react-parser';
 import Image from 'next/image';
 //functions
 import {
@@ -53,7 +53,7 @@ const transformImage = (node: any) => {
       <>
         <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
           <div className="relative m-auto md:max-w-2xl">
-            <Img src={image} alt={alt} />
+            <Image src={image} alt={alt} />
           </div>
           <div className="relative -top-10 md:-top-12 w-full m-auto">
             <div className="sm:w-9/12 mb-4 m-auto">
@@ -89,7 +89,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
       <main className="md:max-w-6xl  md:mx-auto bg-white">
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:pt-10 md:mx-auto">
           <div className="relative w-full h-full md:w-8/12 m-auto">
-            <img
+            <Image
               src={image}
               alt={title}
               className="absolute inset-0 w-full h-full object-cover"
@@ -117,9 +117,11 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
           </div>
 
           <div className="mb-6 text-xl mx-auto">
-            <Container className="prose-xl md:prose-2xl mx-auto">
-              {ReactHtmlParser(firstPart, { transform: transformImage })}
-            </Container>
+            <div className="prose-xl md:prose-2xl mx-auto">
+              <Container>
+                {ReactHtmlParser(firstPart, { transform: transformImage })}
+              </Container>
+            </div>
           </div>
           {photos.photosData.length !== 0 && (
             <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
@@ -144,9 +146,11 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
             </div>
           )}
 
-          <Container className="prose-xl md:prose-2xl mx-auto">
-            {ReactHtmlParser(secondPart, { transform: transformImage })}
-          </Container>
+          <div className="prose-xl md:prose-2xl mx-auto">
+            <Container>
+              {ReactHtmlParser(secondPart, { transform: transformImage })}
+            </Container>
+          </div>
 
           <AdBanner />
         </div>

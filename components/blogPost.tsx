@@ -1,9 +1,9 @@
-import Link from "next/link";
+import Link from 'next/link';
 
-import { formatDate } from "../localFunctions/formatdate"
+import { formatDate } from '../localFunctions/formatdate';
 
 export const BlogPost = ({ blogPost }: any) => {
-  const urlLink = blogPost.slug
+  const urlLink = blogPost.slug;
 
   return (
     <Link href={`/blog/${urlLink}`} as={`/blog/${urlLink}`}>
@@ -11,7 +11,6 @@ export const BlogPost = ({ blogPost }: any) => {
         <div className="object-cover h-full md:h-64 w-32 md:w-full flex-none">
           <img
             className="object-cover h-full w-full rounded-t"
-
             src={`${blogPost.attributes.headerPhoto}`}
           />
         </div>
@@ -20,15 +19,13 @@ export const BlogPost = ({ blogPost }: any) => {
           <h2 className="text-lg md:text-xl font-semibold leading-tight text-headingColor">
             {blogPost.attributes.title}
           </h2>
-          <p className="text-sm leading-tight ">
-            {blogPost.Subtitle}
-          </p>
+          <p className="text-sm leading-tight ">{blogPost.Subtitle}</p>
           <time className="absolute bottom-0 text-xs mb-2">
-            {" "}
+            {' '}
             {formatDate(blogPost.attributes.date)[0]}
           </time>
         </section>
       </a>
     </Link>
-  )
-}
+  );
+};

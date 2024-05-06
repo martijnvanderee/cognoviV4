@@ -12,7 +12,7 @@ const Custom404 = () => (
     <SeoHeader subtitle="Er ging iets mis de pagina kan niet worden gevonden " />
     <main className="bg-white">
       <div className="mt-16 mx-8">
-        <Image src="404.png" className="mx-auto mb-8"></Image>
+        <Image alt="error image" src="404.png" className="mx-auto mb-8"></Image>
         <div className="text-center">
           <h2 className="text-2xl font-bold mb-4 md:text-3xl">
             {PAGE404().title}
