@@ -37,6 +37,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
               alt={data.title}
               className="absolute inset-0 w-full h-full object-cover"
               layout="fill"
+              priority={true}
             />
           </picture>
         </div>
