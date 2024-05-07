@@ -1,5 +1,6 @@
 import React, { FunctionComponent } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 //typescript
 import { PostData, DataPhotosTotal } from '../typescript';
@@ -19,10 +20,11 @@ export const Post: FunctionComponent<PostProps> = ({ url, post, photo }) => {
     >
       <div className="p-4 cursor-pointer">
         <div className="relative h-64 ">
-          <img
+          <Image
             src={`${photo.headerData.image}/?nf_resize=fit&w=700`}
             alt={post.attributes.title}
             className="absolute inset-0 w-full h-full object-cover"
+            layout="fill"
           />
         </div>
         <div className="relative h-36 p-2 ">

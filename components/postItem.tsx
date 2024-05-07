@@ -1,5 +1,6 @@
 import React, { FunctionComponent } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 //hooks
 import useTimeLeft from '../hooks/useTimeLeft';
 //typescript
@@ -30,10 +31,11 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
               <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>
             )}
 
-            <img
+            <Image
               src={image}
               alt={post.title}
               className="absolute inset-0 w-full h-full object-cover"
+              layout="fill"
             />
           </div>
           <div className="relative px-2">
@@ -78,10 +80,11 @@ export const PostItem1: FunctionComponent<postProps1> = ({
               <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
             )}
 
-            <img
+            <Image
               src={`${image}`}
               alt="title van artikel"
               className="absolute inset-0 w-full h-full object-cover"
+              layout="fill"
             />
           </div>
           <div className="relative px-2">
@@ -118,10 +121,11 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
             <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
           )}
 
-          <img
+          <Image
             src={`${post.photos.headerData.image}`}
             alt={post.title}
             className="absolute inset-0 w-full h-full object-cover"
+            layout="fill"
           />
         </div>
         <div className="relative h-36 p-2 ">
