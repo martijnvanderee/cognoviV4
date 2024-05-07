@@ -14,7 +14,7 @@ type PostProps = {
 };
 
 export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
-  const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG);
+  // const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG);
 
   const image = post.photos.headerData.image;
   const image1 = `img/meisje-gitaar-vrolijk.jpg`;
@@ -27,9 +27,9 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
       <article className="w-full mt-4 cursor-pointer focus-visible:bg-violet-700">
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
-            {timeLeft !== 0 && (
+            {/* {timeLeft !== 0 && (
               <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>
-            )}
+            )} */}
 
             <Image
               src={image}
@@ -66,7 +66,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({
 }) => {
   const newDate: string = formatDate(date);
 
-  const timeLeft = useTimeLeft(3);
+  // const timeLeft = useTimeLeft(3);
   return (
     <Link
       href={`/${slug}`}
@@ -76,9 +76,9 @@ export const PostItem1: FunctionComponent<postProps1> = ({
       <article className="w-full mb-4 cursor-pointer">
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
-            {timeLeft !== 0 && (
+            {/* {timeLeft !== 0 && (
               <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
-            )}
+            )} */}
 
             <Image
               src={`${image}`}
@@ -107,7 +107,7 @@ type postProps2 = {
 };
 
 export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
-  const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG);
+  // const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG);
 
   return (
     <Link
@@ -117,9 +117,9 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
     >
       <article className="m-4 cursor-pointer">
         <div className="relative h-64">
-          {timeLeft !== 0 && (
+          {/* {timeLeft !== 0 && (
             <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
-          )}
+          )} */}
 
           <Image
             src={`${post.photos.headerData.image}`}

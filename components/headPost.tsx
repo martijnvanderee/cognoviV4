@@ -28,9 +28,9 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
             </h2>
           </div>
 
-          {timeLeft !== 0 && (
+          {/* {timeLeft !== 0 && (
             <div className="absolute inset-0 w-full bg-loadingImage"></div>
-          )}
+          )} */}
           <picture>
             <Image
               src={`${data.photos.headerData.image}`}

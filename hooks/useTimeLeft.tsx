@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useEffect, useState } from 'react';
 
 export const useTimeLeft = (timer: number) => {
   // initialize timeLeft with the seconds prop
@@ -20,7 +20,7 @@ export const useTimeLeft = (timer: number) => {
     // when we update it
   }, [timeLeft]);
 
-  return timeLeft
-}
+  return timeLeft;
+};
 
-export default useTimeLeft
+export default useTimeLeft;
