@@ -55,7 +55,7 @@ const Home: FunctionComponent<HomeProps> = ({
             {/* laatste nieuws */}
             <LaatsteNieuws
               posts={removeFirstEement(latestPosts)}
-              titlem={LAATSTE_NIEUWS.title}
+              title={LAATSTE_NIEUWS.title}
               LinkNaarMeerPostsText={LAATSTE_NIEUWS.linkText}
               LinkNaarMeerPosts={LAATSTE_NIEUWS.link}
             />
