@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import Document, { Html, Head, Main, NextScript } from 'next/document';
+import { ColorSchemeScript } from '@mantine/core';
 
 import { GA_TRACKING_ID } from '../lib/gtag';
 
@@ -20,6 +21,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="nl" className="text-xs">
         <Head>
+          <ColorSchemeScript defaultColorScheme="auto" />
           <link
             href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap"
             rel="stylesheet"

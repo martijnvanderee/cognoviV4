@@ -17,7 +17,6 @@ export const AdBanner = (props: any) => {
       style={{
         display: 'block',
         textAlign: 'center',
-        background: 'red',
         margin: '0 auto',
         aspectRatio: '3/2',
       }}

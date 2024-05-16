@@ -115,12 +115,9 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
               )}
             </header>
           </div>
-
           <div className="mb-6 text-xl mx-auto">
             <div className="prose-xl md:prose-2xl mx-auto">
-              <Container>
-                {ReactHtmlParser(firstPart, { transform: transformImage })}
-              </Container>
+              <Container>{ReactHtmlParser(firstPart)}</Container>
             </div>
           </div>
           {photos.photosData.length !== 0 && (
@@ -141,13 +138,9 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
               </div>
             </div>
           )}
-
           <div className="prose-xl md:prose-2xl mx-auto">
-            <Container>
-              {ReactHtmlParser(secondPart, { transform: transformImage })}
-            </Container>
+            <Container>{ReactHtmlParser(secondPart)}</Container>
           </div>
-
           <AdBanner />
         </div>
         <div className="mx-2">

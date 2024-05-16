@@ -1,6 +1,14 @@
 import React from 'react';
 import 'tailwindcss/tailwind.css';
 import { useRouter } from 'next/router';
+// Import styles of packages that you've installed.
+// All packages except `@mantine/hooks` require styles imports
+import '@mantine/core/styles.css';
+import { createTheme, MantineProvider } from '@mantine/core';
+
+const theme = createTheme({
+  /** Put your mantine theme override here */
+});
 
 // Modules
 import { AppProps } from 'next/app';
@@ -77,11 +85,13 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }: any) => {
         <link rel="preconnect" href="https://fonts.gstatic.com" />
       </Head>
 
-      <IsMenuOpenProvider>
-        <IsSearchMenuOpenProvider>
-          <Component {...pageProps} />
-        </IsSearchMenuOpenProvider>
-      </IsMenuOpenProvider>
+      <MantineProvider theme={theme}>
+        <IsMenuOpenProvider>
+          <IsSearchMenuOpenProvider>
+            <Component {...pageProps} />
+          </IsSearchMenuOpenProvider>
+        </IsMenuOpenProvider>
+      </MantineProvider>
     </>
   );
 };

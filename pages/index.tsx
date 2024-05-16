@@ -6,6 +6,7 @@ import { LaatsteNieuws } from '../components/laatsteNieuws';
 import { RandomBigPosts } from '../components/randomBigPosts';
 import { PostTopicSection } from '../components/PostTopicSection';
 import { SeoHeader } from '../components/seoHeader';
+import { Footer1 } from '../components/footer1';
 
 //functions
 import { getPosts, getRandomPosts } from '../localFunctions/importPosts';
@@ -79,6 +80,7 @@ const Home: FunctionComponent<HomeProps> = ({
           <PostTopicSection posts={LatestTechPost} title="Tech" />
         </div>
       </main>
+      <Footer1 />
     </Layout>
   );
 };
