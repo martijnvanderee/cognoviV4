@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: PMO patiënt ziet demon ipv gezich
+title: PMO patiënt ziet demon ipv gezicht
 Subtitle: Zeldzame ziekte vaak aangezien voor psychiatrische aandoening
 date: 2024-04-25T12:11:58.817Z
 headerPhoto: map-image-img-gezichtsdemon-header-jpg-bron-pixabay-com-onderschrift-pmo-header
