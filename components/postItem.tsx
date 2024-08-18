@@ -40,8 +40,8 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
           </div>
           <div className="relative px-2">
             <span className="text-sm text-purple">{post.onderwerp}</span>
-
             <h2 className="text-lg font-medium leading-6">{post.title}</h2>
+            <p className="truncate">{post.subtitle}</p>
           </div>
         </div>
       </article>
@@ -134,6 +134,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
             <div className="text-black font-semibold text-2xl">
               {post.title}
             </div>
+            <p className="truncate">{post.subtitle}</p>
           </div>
           <div className="absolute w-12 bg-yellow h-0.5 bottom-0 right-0"></div>
           <div className="absolute w-0.5 bg-yellow h-12 bottom-0 right-0"></div>
