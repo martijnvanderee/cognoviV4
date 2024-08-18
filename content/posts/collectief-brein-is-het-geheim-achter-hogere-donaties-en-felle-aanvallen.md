@@ -1,9 +1,9 @@
 ---
 templateKey: post.template
 title: Ons collectieve brein
-Subtitle: Delen we één overkoepelend denkvermogen?
+Subtitle: Hersenen van mensen met elkaar verbonden als mycelium
 date: 2022-07-03T16:55:22.635Z
-headerPhoto: map-image-img-collectief-header-jpg-onderschrift-collectief-header-bron-pexels-krizjohn-rosales
+headerPhoto: map-image-img-2-brein-bomen-gezichten-jpg-bron-pixabay-onderschrift-collectief-boom
 onderwerp: human
 auteur: Monique Siemsen
 tags:
@@ -15,7 +15,7 @@ tags:
   - doneren
   - onderzoek
 ---
-**We leren op jonge leeftijd: 1+1 = 2. Maar nu blijkt dat die uitkomst ook makkelijk 3 of 4 kan zijn. Tenminste, in de neuro-psychologie. Dát is namelijk de werking van het collectieve brein.**
+**O﻿nze hersenen zitten misschien in separate schedels, maar zijn wel degelijk onderling verbonden. Wetenschappers hebben voor het eerst het bewijs geleverd, van wat we in de volksmond al wisten: we hebben een klik en zitten op dezelfde golflengte! We delen één collectief brein.**
 
 Onder het collectieve brein verstaan we verschillende zaken. Bedoeld kan worden, de collectieve kennis die we allemaal hebben omdat ons dat collectief geleerd is. Denk daarbij inderdaad aan basiskennis zoals de genoemde rekensom en grammaticale regels. Afgezien van collectieve kennis, hebben groepen mensen ook collectieve normen en waarden, waarmee zij zich identificeren. Je denkt dan aan begrippen die een cultuur vormen, bijvoorbeeld de Nederlandse identiteit. Dat valt ook onder het collectieve brein. Bovendien hebben onze breinen een anatomische gemeenschappelijkheid, die we delen. Zo hebben we allemaal een amygdala die alarm slaat in noodsituaties. Dat is een collectief gegeven.
 
